@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:21:46.502167Z",
+  "generated_at": "2026-06-12T19:29:26.258193Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8981,
-      "importance": 0.8981,
-      "importance_score": 0.8981,
+      "score": 0.8804,
+      "importance": 0.8804,
+      "importance_score": 0.8804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9405,
+        "recency": 0.8519,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,14 +119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.8503,
-      "importance_score": 0.8503,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9466,
+        "recency": 0.858,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,14 +199,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9247,
+        "recency": 0.836,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -260,14 +260,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9536,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -320,14 +320,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8681,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -399,14 +399,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7141,
+        "recency": 0.6254,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -479,14 +479,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6932,
+        "recency": 0.6046,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -540,20 +540,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -600,20 +599,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7043,
+        "recency": 0.6157,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T10:16:02Z",
       "latest_at": "2026-06-12T10:16:02Z",
@@ -660,20 +658,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -776,14 +773,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7111,
+      "importance": 0.7111,
+      "importance_score": 0.7111,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2094,
+        "recency": 0.1207,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -799,66 +796,6 @@
         "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dcc2fd07a9e8",
-      "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "primary_url": "https://openai.com/index/preply",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
-          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-          "url": "https://openai.com/index/preply",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
-          "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-          "url": "https://openai.com/index/preply",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-12T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2765,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T00:00:00Z",
-      "latest_at": "2026-06-12T00:00:00Z",
-      "primary_item": {
-        "id": "f5abe9304398407ef22b6b4fa1701010c32c2102",
-        "title": "Preply 如何结合人工智能和真人导师来实现个性化学习 / How Preply combines AI and human tutors to personalize learning",
-        "url": "https://openai.com/index/preply",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -896,20 +833,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -956,20 +892,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -1016,20 +951,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -1076,20 +1010,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -1099,6 +1032,103 @@
         "url": "https://www.aibase.com/news/28884",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e6c450c5f96c",
+      "title": "稍微改善AI生成的前端界面略显粗糙的问题",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "primary_url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "source": "envs.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d1a34ecb82b36c45ebb565e5def72b9606c5e919",
+          "title": "稍微改善AI生成的前端界面略显粗糙的问题",
+          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+          "source": "envs.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T18:26:03.841000Z"
+        },
+        {
+          "id": "e9513880bd55aa2f9f674545160b4223678da166",
+          "title": "稍微减少AI生成前端的马虎程度 / Slightly reducing the sloppiness of AI generated front end",
+          "url": "https://news.ycombinator.com/item?id=48504912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T17:22:16.157000Z"
+        },
+        {
+          "id": "ef641bab22a11efe84523b0c64a6ba48d73cde05",
+          "title": "稍微改善AI生成的前端界面略显粗糙的问题 / Slightly reducing the sloppiness of AI generated front end",
+          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-12T14:48:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "envs.net",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d1a34ecb82b36c45ebb565e5def72b9606c5e919",
+          "title": "稍微改善AI生成的前端界面略显粗糙的问题",
+          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+          "source": "envs.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T18:26:03.841000Z"
+        },
+        {
+          "id": "e9513880bd55aa2f9f674545160b4223678da166",
+          "title": "稍微减少AI生成前端的马虎程度 / Slightly reducing the sloppiness of AI generated front end",
+          "url": "https://news.ycombinator.com/item?id=48504912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T17:22:16.157000Z"
+        },
+        {
+          "id": "ef641bab22a11efe84523b0c64a6ba48d73cde05",
+          "title": "稍微改善AI生成的前端界面略显粗糙的问题 / Slightly reducing the sloppiness of AI generated front end",
+          "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-12T14:48:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.956,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T14:48:38Z",
+      "latest_at": "2026-06-12T18:26:03.841000Z",
+      "primary_item": {
+        "id": "d1a34ecb82b36c45ebb565e5def72b9606c5e919",
+        "title": "稍微改善AI生成的前端界面略显粗糙的问题",
+        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+        "source": "envs.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1136,20 +1166,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -1159,6 +1188,162 @@
         "url": "https://www.aibase.com/news/28885",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_06a13336d0cd",
+      "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+      "url": "https://news.ycombinator.com/item?id=48507278",
+      "primary_url": "https://news.ycombinator.com/item?id=48507278",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
+          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://news.ycombinator.com/item?id=48507278",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T19:19:35.198000Z"
+        },
+        {
+          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
+          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-12T17:52:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
+          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://news.ycombinator.com/item?id=48507278",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-12T19:19:35.198000Z"
+        },
+        {
+          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
+          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-12T17:52:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T17:52:46Z",
+      "latest_at": "2026-06-12T19:19:35.198000Z",
+      "primary_item": {
+        "id": "441d832f138a7493ebafed056fba615dd7fb1903",
+        "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
+        "url": "https://news.ycombinator.com/item?id=48507278",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_562c8ae29d2e",
+      "title": "就总用水量而言，人工智能数据中心只是九牛一毛",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+      "primary_url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "72f55069ff889a5de57060a050195b03879a0524",
+          "title": "就总用水量而言，人工智能数据中心只是九牛一毛",
+          "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T17:38:02.188000Z"
+        },
+        {
+          "id": "d9d2255775ee16375eb1842b0dc06dec79d11dc3",
+          "title": "就总用水量而言，人工智能数据中心只是九牛一毛 / When it comes to total water use, AI data centers are a drop in the bucket",
+          "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T16:51:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "72f55069ff889a5de57060a050195b03879a0524",
+          "title": "就总用水量而言，人工智能数据中心只是九牛一毛",
+          "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-12T17:38:02.188000Z"
+        },
+        {
+          "id": "d9d2255775ee16375eb1842b0dc06dec79d11dc3",
+          "title": "就总用水量而言，人工智能数据中心只是九牛一毛 / When it comes to total water use, AI data centers are a drop in the bucket",
+          "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-12T16:51:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9226,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-12T16:51:38Z",
+      "latest_at": "2026-06-12T17:38:02.188000Z",
+      "primary_item": {
+        "id": "72f55069ff889a5de57060a050195b03879a0524",
+        "title": "就总用水量而言，人工智能数据中心只是九牛一毛",
+        "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1196,20 +1381,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6469,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T11:00:59.299873Z",
       "latest_at": "2026-06-12T11:00:59.299873Z",
@@ -1219,162 +1403,6 @@
         "url": "https://www.aibase.com/news/28893",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f5b08b34e6a9",
-      "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-      "url": "https://news.ycombinator.com/item?id=48506575",
-      "primary_url": "https://news.ycombinator.com/item?id=48506575",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "57eb880a84e55e54eb975cf011e1b8e57d6bea02",
-          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-          "url": "https://news.ycombinator.com/item?id=48506575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-12T17:22:16.157000Z"
-        },
-        {
-          "id": "925a92feafbee82eb32fae7ed1f3426fbac195d5",
-          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-          "url": "https://apply.gauntletai.com/register/champions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-12T17:00:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "57eb880a84e55e54eb975cf011e1b8e57d6bea02",
-          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-          "url": "https://news.ycombinator.com/item?id=48506575",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-12T17:22:16.157000Z"
-        },
-        {
-          "id": "925a92feafbee82eb32fae7ed1f3426fbac195d5",
-          "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-          "url": "https://apply.gauntletai.com/register/champions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-12T17:00:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-12T17:00:40Z",
-      "latest_at": "2026-06-12T17:22:16.157000Z",
-      "primary_item": {
-        "id": "57eb880a84e55e54eb975cf011e1b8e57d6bea02",
-        "title": "Gauntlet AI 将带您飞往奥斯汀，对您进行人工智能培训，并提供 20 万美元以上的工作 / Gauntlet AI will fly you to Austin, train you in AI, give $200k+ job",
-        "url": "https://news.ycombinator.com/item?id=48506575",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7069a34742c8",
-      "title": "我与大学生们共事，他们比任何人都更适应以人工智能为核心的职场。但他们却找不到工作。",
-      "url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-      "primary_url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a7342b4e36f6dc66b155b487289c24223ed86b62",
-          "title": "我与大学生们共事，他们比任何人都更适应以人工智能为核心的职场。但他们却找不到工作。",
-          "url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-12T17:07:26.726000Z"
-        },
-        {
-          "id": "54e05f0513d3a0ccb17df39a797d9e1c68521708",
-          "title": "我与大学生们共事，他们比任何人都更适应以人工智能为核心的职场。但他们却找不到工作。 / I work with college students, and they're more prepared for the AI-focused workforce than anyone. But they can't get jobs.",
-          "url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-12T14:59:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "a7342b4e36f6dc66b155b487289c24223ed86b62",
-          "title": "我与大学生们共事，他们比任何人都更适应以人工智能为核心的职场。但他们却找不到工作。",
-          "url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-12T17:07:26.726000Z"
-        },
-        {
-          "id": "54e05f0513d3a0ccb17df39a797d9e1c68521708",
-          "title": "我与大学生们共事，他们比任何人都更适应以人工智能为核心的职场。但他们却找不到工作。 / I work with college students, and they're more prepared for the AI-focused workforce than anyone. But they can't get jobs.",
-          "url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-12T14:59:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.99,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-12T14:59:43Z",
-      "latest_at": "2026-06-12T17:07:26.726000Z",
-      "primary_item": {
-        "id": "a7342b4e36f6dc66b155b487289c24223ed86b62",
-        "title": "我与大学生们共事，他们比任何人都更适应以人工智能为核心的职场。但他们却找不到工作。",
-        "url": "https://www.businessinsider.com/gen-z-grads-better-prepared-ai-workforce-cant-get-jobs-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
