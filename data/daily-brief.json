@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T10:24:29.038128Z",
+  "generated_at": "2026-06-14T12:22:45.650277Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -133,14 +133,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3318,
+        "recency": 0.2497,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -156,6 +156,86 @@
         "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
         "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_03e93adaa6b7",
+      "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "primary_url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8783397726f21f68840f6455d520cf4def09fdba",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T03:00:00Z"
+        },
+        {
+          "id": "df9846999c9ab0f32a9b8cf74d0a93edad80c921",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来 / As Anthropic suspends access to new models, India debates its AI future",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T03:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8783397726f21f68840f6455d520cf4def09fdba",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T03:00:00Z"
+        },
+        {
+          "id": "df9846999c9ab0f32a9b8cf74d0a93edad80c921",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来 / As Anthropic suspends access to new models, India debates its AI future",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T03:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6092,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T03:00:00Z",
+      "latest_at": "2026-06-14T03:00:00Z",
+      "primary_item": {
+        "id": "8783397726f21f68840f6455d520cf4def09fdba",
+        "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -194,14 +274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6891,
+        "recency": 0.6069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -215,221 +295,6 @@
         "title": "Anthropic 上市前夕",
         "url": "https://x.com/xiaohu/status/2065991805238497732",
         "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8054bc1bd718",
-      "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-      "primary_url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
-          "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-14T00:03:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
-          "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-14T00:03:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.569,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-14T00:03:49Z",
-      "latest_at": "2026-06-14T00:03:49Z",
-      "primary_item": {
-        "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
-        "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9130ed772255",
-      "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-      "url": "https://aihot.virxact.com/daily/2026-06-14",
-      "primary_url": "https://aihot.virxact.com/daily/2026-06-14",
-      "source": "AI HOT",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "921fcc1674cc36cc4a0da34ca7427a49c13ea34e",
-          "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-          "url": "https://aihot.virxact.com/daily/2026-06-14",
-          "source": "AI HOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AI HOT"
-      ],
-      "items": [
-        {
-          "id": "921fcc1674cc36cc4a0da34ca7427a49c13ea34e",
-          "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-          "url": "https://aihot.virxact.com/daily/2026-06-14",
-          "source": "AI HOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5663,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-14T00:00:00Z",
-      "latest_at": "2026-06-14T00:00:00Z",
-      "primary_item": {
-        "id": "921fcc1674cc36cc4a0da34ca7427a49c13ea34e",
-        "title": "AI HOT 日报 · 2026-06-14 — 智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-        "url": "https://aihot.virxact.com/daily/2026-06-14",
-        "source": "AI HOT",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_93300d2f39e5",
-      "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-      "source": "Bloomberg：Technology（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
-          "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T11:00:00Z"
-        },
-        {
-          "id": "c169722520115ba8bc6593ee7a96eb9bce592236",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:18:14.365000Z"
-        },
-        {
-          "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T11:26:14.325000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Bloomberg：Technology（RSS）",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
-          "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T11:00:00Z"
-        },
-        {
-          "id": "c169722520115ba8bc6593ee7a96eb9bce592236",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:18:14.365000Z"
-        },
-        {
-          "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T11:26:14.325000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6669,
-      "importance": 0.6669,
-      "importance_score": 0.6669,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0247,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T11:00:00Z",
-      "latest_at": "2026-06-13T17:18:14.365000Z",
-      "primary_item": {
-        "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
-        "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-        "source": "Bloomberg：Technology（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -487,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.69,
-      "importance": 0.69,
-      "importance_score": 0.69,
+      "score": 0.6736,
+      "importance": 0.6736,
+      "importance_score": 0.6736,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.265,
+        "recency": 0.1829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -510,6 +375,318 @@
         "url": "https://github.com/DanMcInerney/architect-loop",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c45c234d1e1b",
+      "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "primary_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "797c97673a15539931deee9aafcd02a8b923f96f",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T11:59:20.637000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "797c97673a15539931deee9aafcd02a8b923f96f",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T11:59:20.637000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T11:59:20.637000Z",
+      "latest_at": "2026-06-14T12:22:45.650277Z",
+      "primary_item": {
+        "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
+        "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+        "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_6e6d7b3119e4",
+      "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
+      "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+      "primary_url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bd3e70dfe896136ad483a2c3925fc4d72696efc7",
+          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
+          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T10:54:19.847000Z"
+        },
+        {
+          "id": "bdb9e7ad447191ce8d0968c45ab4d7e0a0ff675a",
+          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌 / How a Texas lawyer used AI to beat Meta in the social media addiction trial",
+          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T08:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "bd3e70dfe896136ad483a2c3925fc4d72696efc7",
+          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
+          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T10:54:19.847000Z"
+        },
+        {
+          "id": "bdb9e7ad447191ce8d0968c45ab4d7e0a0ff675a",
+          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌 / How a Texas lawyer used AI to beat Meta in the social media addiction trial",
+          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T08:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9386,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T08:41:01Z",
+      "latest_at": "2026-06-14T10:54:19.847000Z",
+      "primary_item": {
+        "id": "bd3e70dfe896136ad483a2c3925fc4d72696efc7",
+        "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
+        "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c96cf9a9ed6c",
+      "title": "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
+      "url": "https://www.ithome.com/0/964/141.htm",
+      "primary_url": "https://www.ithome.com/0/964/141.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e841df1194f96d54622318658f9b0fa575d26c98",
+          "title": "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
+          "url": "https://www.ithome.com/0/964/141.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5a9934a68ae510e165a106935516548745b9ebe0",
+          "title": "外媒曝蚂蚁集团正秘密测试 AI 版支付宝",
+          "url": "https://www.ithome.com/0/964/141.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T09:20:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e841df1194f96d54622318658f9b0fa575d26c98",
+          "title": "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
+          "url": "https://www.ithome.com/0/964/141.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5a9934a68ae510e165a106935516548745b9ebe0",
+          "title": "外媒曝蚂蚁集团正秘密测试 AI 版支付宝",
+          "url": "https://www.ithome.com/0/964/141.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T09:20:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9179,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T09:20:07Z",
+      "latest_at": "2026-06-14T10:24:29.038128Z",
+      "primary_item": {
+        "id": "e841df1194f96d54622318658f9b0fa575d26c98",
+        "title": "消息称蚂蚁集团计划为支付宝引入 AI 助手，可点咖啡、买基金",
+        "url": "https://www.ithome.com/0/964/141.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2b46eaad02c6",
+      "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e9b0a47243063e4046de9039730267b379166d5b",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T06:06:10.564000Z"
+        },
+        {
+          "id": "3bcd706cf903a6857ddbd6484aabd39900cd01e4",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人 / Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T23:19:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.com"
+      ],
+      "items": [
+        {
+          "id": "e9b0a47243063e4046de9039730267b379166d5b",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T06:06:10.564000Z"
+        },
+        {
+          "id": "3bcd706cf903a6857ddbd6484aabd39900cd01e4",
+          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人 / Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T23:19:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7385,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T23:19:52Z",
+      "latest_at": "2026-06-14T06:06:10.564000Z",
+      "primary_item": {
+        "id": "e9b0a47243063e4046de9039730267b379166d5b",
+        "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
+        "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -566,14 +743,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9317,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -644,14 +821,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.517,
-      "importance": 0.517,
-      "importance_score": 0.517,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.845,
+        "recency": 0.7629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -666,84 +843,6 @@
         "url": "https://www.oschina.net/news/458347",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2b46eaad02c6",
-      "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e9b0a47243063e4046de9039730267b379166d5b",
-          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
-          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T06:06:10.564000Z"
-        },
-        {
-          "id": "3bcd706cf903a6857ddbd6484aabd39900cd01e4",
-          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人 / Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T23:19:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.com"
-      ],
-      "items": [
-        {
-          "id": "e9b0a47243063e4046de9039730267b379166d5b",
-          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
-          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T06:06:10.564000Z"
-        },
-        {
-          "id": "3bcd706cf903a6857ddbd6484aabd39900cd01e4",
-          "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人 / Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-          "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T23:19:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8206,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T23:19:52Z",
-      "latest_at": "2026-06-14T06:06:10.564000Z",
-      "primary_item": {
-        "id": "e9b0a47243063e4046de9039730267b379166d5b",
-        "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
-        "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -800,14 +899,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4739,
-      "importance": 0.4739,
-      "importance_score": 0.4739,
+      "score": 0.4575,
+      "importance": 0.4575,
+      "importance_score": 0.4575,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6295,
+        "recency": 0.5473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -878,14 +977,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4729,
-      "importance": 0.4729,
-      "importance_score": 0.4729,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6245,
+        "recency": 0.5424,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -955,14 +1054,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4519,
-      "importance": 0.4519,
-      "importance_score": 0.4519,
+      "score": 0.4355,
+      "importance": 0.4355,
+      "importance_score": 0.4355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5196,
+        "recency": 0.4375,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,14 +1151,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.446,
-      "importance": 0.446,
-      "importance_score": 0.446,
+      "score": 0.4296,
+      "importance": 0.4296,
+      "importance_score": 0.4296,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.365,
+        "recency": 0.2828,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1130,14 +1229,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4592,
+      "importance": 0.4592,
+      "importance_score": 0.4592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.638,
+        "recency": 0.5558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1152,6 +1251,161 @@
         "url": "https://www.huxiu.com/article/4867123.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_1cb48a760b1c",
+      "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.ycombinator.com/item?id=48520807",
+      "primary_url": "https://news.ycombinator.com/item?id=48520807",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8ef1399b41e34e1f93bef4644ce1f9e812169738",
+          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "url": "https://news.ycombinator.com/item?id=48520807",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-13T21:29:57.841000Z"
+        },
+        {
+          "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
+          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T19:54:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8ef1399b41e34e1f93bef4644ce1f9e812169738",
+          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "url": "https://news.ycombinator.com/item?id=48520807",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-13T21:29:57.841000Z"
+        },
+        {
+          "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
+          "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
+          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T19:54:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.424,
+      "importance": 0.424,
+      "importance_score": 0.424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.38,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T19:54:55Z",
+      "latest_at": "2026-06-13T21:29:57.841000Z",
+      "primary_item": {
+        "id": "8ef1399b41e34e1f93bef4644ce1f9e812169738",
+        "title": "警察因在多起案件中使用人工智能“创造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
+        "url": "https://news.ycombinator.com/item?id=48520807",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3625dfb80c29",
+      "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:02:14.600000Z"
+        },
+        {
+          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
+          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:10:09.405000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T17:02:14.600000Z"
+        },
+        {
+          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
+          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:10:09.405000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3868,
+      "importance": 0.3868,
+      "importance_score": 0.3868,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1941,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T15:10:09.405000Z",
+      "latest_at": "2026-06-13T17:02:14.600000Z",
+      "primary_item": {
+        "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
+        "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1208,14 +1462,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4566,
-      "importance": 0.4566,
-      "importance_score": 0.4566,
+      "score": 0.4401,
+      "importance": 0.4401,
+      "importance_score": 0.4401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5428,
+        "recency": 0.4606,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,6 +1483,84 @@
         "title": "OpenAI表示“致力于学习”，与此同时，多个州组成的联盟正在调查ChatGPT对年轻用户的影响",
         "url": "https://www.businessinsider.com/openai-states-investigation-chatgpt-impact-children-vulnerable-adults-2026-6",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4a51c735b4dd",
+      "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+      "url": "https://slopscan.ava.pet",
+      "primary_url": "https://slopscan.ava.pet",
+      "source": "slopscan.ava.pet",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+          "url": "https://slopscan.ava.pet",
+          "source": "slopscan.ava.pet",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:42:05.350000Z"
+        },
+        {
+          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
+          "url": "https://slopscan.ava.pet",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T15:37:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "slopscan.ava.pet"
+      ],
+      "items": [
+        {
+          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+          "url": "https://slopscan.ava.pet",
+          "source": "slopscan.ava.pet",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T15:42:05.350000Z"
+        },
+        {
+          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
+          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
+          "url": "https://slopscan.ava.pet",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T15:37:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3757,
+      "importance": 0.3757,
+      "importance_score": 0.3757,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.1384,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T15:37:16Z",
+      "latest_at": "2026-06-13T15:42:05.350000Z",
+      "primary_item": {
+        "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
+        "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
+        "url": "https://slopscan.ava.pet",
+        "source": "slopscan.ava.pet",
         "source_name": "Buzzing"
       }
     },
@@ -1286,14 +1618,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4592,
+      "importance": 0.4592,
+      "importance_score": 0.4592,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.638,
+        "recency": 0.5558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1308,336 +1640,6 @@
         "url": "https://www.huxiu.com/article/4867121.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3625dfb80c29",
-      "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:02:14.600000Z"
-        },
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-          "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:02:14.600000Z"
-        },
-        {
-          "id": "6f32d233496a10efc22105c2682c2a61eeb9e260",
-          "title": "Anthropic 因美国史无前例的行政命令关闭 Mythos 访问权限",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:10:09.405000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4032,
-      "importance": 0.4032,
-      "importance_score": 0.4032,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2762,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T15:10:09.405000Z",
-      "latest_at": "2026-06-13T17:02:14.600000Z",
-      "primary_item": {
-        "id": "5cd9a02d788d8f243a257c0b55a393cebb0af639",
-        "title": "Anthropic 因美国法院下达全面禁令而关闭 Mythos 访问权限",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/anthropic-says-us-limits-foreign-access-to-fable-5-mythos-5",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1cb48a760b1c",
-      "title": "一名警员因在多起案件中利用人工智能“伪造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "primary_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
-          "title": "一名警员因在多起案件中利用人工智能“伪造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T19:54:55Z"
-        },
-        {
-          "id": "aedff6e00b772a8f422003fcfdb6eca57e2d88f3",
-          "title": "一名警员因在多起案件中利用人工智能“伪造证据”而受到调查",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-          "source": "news.sky.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T12:13:58.627000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "news.sky.com"
-      ],
-      "items": [
-        {
-          "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
-          "title": "一名警员因在多起案件中利用人工智能“伪造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T19:54:55Z"
-        },
-        {
-          "id": "aedff6e00b772a8f422003fcfdb6eca57e2d88f3",
-          "title": "一名警员因在多起案件中利用人工智能“伪造证据”而受到调查",
-          "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-          "source": "news.sky.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T12:13:58.627000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4272,
-      "importance": 0.4272,
-      "importance_score": 0.4272,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3961,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T12:13:58.627000Z",
-      "latest_at": "2026-06-13T19:54:55Z",
-      "primary_item": {
-        "id": "ce69457f64dbb9d1e53c65d1b9e702dfe3ed9922",
-        "title": "一名警员因在多起案件中利用人工智能“伪造证据”而受到调查 / Police officer investigated for using AI to 'create evidence' in multiple cases",
-        "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_4a51c735b4dd",
-      "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-      "url": "https://slopscan.ava.pet",
-      "primary_url": "https://slopscan.ava.pet",
-      "source": "slopscan.ava.pet",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-          "url": "https://slopscan.ava.pet",
-          "source": "slopscan.ava.pet",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:42:05.350000Z"
-        },
-        {
-          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
-          "url": "https://slopscan.ava.pet",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:37:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "slopscan.ava.pet"
-      ],
-      "items": [
-        {
-          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-          "url": "https://slopscan.ava.pet",
-          "source": "slopscan.ava.pet",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:42:05.350000Z"
-        },
-        {
-          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
-          "url": "https://slopscan.ava.pet",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:37:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3921,
-      "importance": 0.3921,
-      "importance_score": 0.3921,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2206,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T15:37:16Z",
-      "latest_at": "2026-06-13T15:42:05.350000Z",
-      "primary_item": {
-        "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-        "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-        "url": "https://slopscan.ava.pet",
-        "source": "slopscan.ava.pet",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d3bb048b2ea1",
-      "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://news.ycombinator.com/item?id=48516504",
-      "primary_url": "https://news.ycombinator.com/item?id=48516504",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-          "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://news.ycombinator.com/item?id=48516504",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T15:02:36.072000Z"
-        },
-        {
-          "id": "c34a7d558e5fb3f86d00b138a0d4b1588f3548d7",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T14:54:03.054000Z"
-        },
-        {
-          "id": "c4a4c8be2a32d31f0866e9410377695cdafe51d5",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T12:10:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-          "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://news.ycombinator.com/item?id=48516504",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T15:02:36.072000Z"
-        },
-        {
-          "id": "c34a7d558e5fb3f86d00b138a0d4b1588f3548d7",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T14:54:03.054000Z"
-        },
-        {
-          "id": "c4a4c8be2a32d31f0866e9410377695cdafe51d5",
-          "title": "AI开源工具仓库在完成730万美元种子轮融资后，一夜之间被归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-          "url": "https://github.com/tensorzero/tensorzero",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-13T12:10:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4116,
-      "importance": 0.4116,
-      "importance_score": 0.4116,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1931,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T12:10:47Z",
-      "latest_at": "2026-06-13T15:02:36.072000Z",
-      "primary_item": {
-        "id": "335f9af8cca4b89e0bf917a94203f54ba52ec251",
-        "title": "AI OSS 工具仓库在筹集 730 万美元种子资金后一夜之间归档 / AI OSS tool repo goes archived over night after raising $7.3M Seed",
-        "url": "https://news.ycombinator.com/item?id=48516504",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
