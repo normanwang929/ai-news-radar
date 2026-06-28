@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T14:48:42.215119Z",
+  "generated_at": "2026-06-28T16:10:24.738379Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8402,
+        "recency": 0.8238,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9365,
+        "recency": 0.9183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8545,
+        "recency": 0.8378,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,21 +281,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-28T10:50:05Z",
       "latest_at": "2026-06-28T10:50:05Z",
@@ -342,15 +341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7298,
+        "recency": 0.7156,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,15 +420,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8854,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -483,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7358,
+      "importance": 0.7358,
+      "importance_score": 0.7358,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7716,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -543,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7308,
+        "recency": 0.7166,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -565,66 +564,6 @@
         "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
         "url": "https://x.com/berryxia/status/2070916520822321292",
         "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fbd38ff6d7c7",
-      "title": "一次失败的（民族国家？）攻击的剖析",
-      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-      "primary_url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
-          "title": "一次失败的（民族国家？）攻击的剖析",
-          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T15:39:53.429000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
-          "title": "一次失败的（民族国家？）攻击的剖析",
-          "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-27T15:39:53.429000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7159,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-27T15:39:53.429000Z",
-      "latest_at": "2026-06-27T15:39:53.429000Z",
-      "primary_item": {
-        "id": "16cf68c71ba2540e65b9e0e5db9bc90d5bb0bc86",
-        "title": "一次失败的（民族国家？）攻击的剖析",
-        "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -673,19 +612,19 @@
           "published_at": "2026-06-28T01:28:10Z"
         },
         {
-          "id": "458bfc53b5e9a3755f9c2bea83056b30b606d7e2",
+          "id": "6b911f130ead90bd488b847c085353825f230ae2",
           "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / The best response to AI slop and online noise is from Robin Williams",
           "url": "https://jayacunzo.com/blog/your-move-chief",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-06-28T01:28:10Z"
         }
       ],
       "source_count": 5,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "jayacunzo.com"
       ],
@@ -727,26 +666,26 @@
           "published_at": "2026-06-28T01:28:10Z"
         },
         {
-          "id": "458bfc53b5e9a3755f9c2bea83056b30b606d7e2",
+          "id": "6b911f130ead90bd488b847c085353825f230ae2",
           "title": "对AI垃圾内容的回应来自罗宾·威廉姆斯 / The best response to AI slop and online noise is from Robin Williams",
           "url": "https://jayacunzo.com/blog/your-move-chief",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-06-28T01:28:10Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.605,
-      "importance": 0.605,
-      "importance_score": 0.605,
+      "score": 0.6018,
+      "importance": 0.6018,
+      "importance_score": 0.6018,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.8945,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -852,15 +791,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5976,
-      "importance": 0.5976,
-      "importance_score": 0.5976,
+      "score": 0.595,
+      "importance": 0.595,
+      "importance_score": 0.595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.741,
+        "recency": 0.7266,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -950,15 +889,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.55,
-      "importance": 0.55,
-      "importance_score": 0.55,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8846,
+        "recency": 0.8673,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -972,6 +911,85 @@
         "title": "福特公司雇佣了人工智能，解雇了人类员工。结果适得其反。",
         "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
         "source": "www.the-independent.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6c80d7901ac0",
+      "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+      "primary_url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+      "source": "semgrep.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "semgrep.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T15:07:19.647000Z"
+        },
+        {
+          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T14:58:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "semgrep.dev"
+      ],
+      "items": [
+        {
+          "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "semgrep.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T15:07:19.647000Z"
+        },
+        {
+          "id": "8e34319ef1eb74791116166a162cab9c4b661141",
+          "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude / We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+          "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-28T14:58:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9849,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T14:58:01Z",
+      "latest_at": "2026-06-28T15:07:19.647000Z",
+      "primary_item": {
+        "id": "10b408b9d23b67552e36b9eb2dd8507003fd91da",
+        "title": "我们进行了“Mythos at Home”测试：在我们的网络基准测试中，GLM 5.2 击败了 Claude",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
+        "source": "semgrep.dev",
         "source_name": "Buzzing"
       }
     },
@@ -1029,15 +1047,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,6 +1070,85 @@
         "url": "https://www.huxiu.com/article/4871044.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b061399c433d",
+      "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。",
+      "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+      "primary_url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4e5e187c6553eb696427d6e84f87c2da70f3ee4f",
+          "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。",
+          "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:18:48.997000Z"
+        },
+        {
+          "id": "3879a7bcb76d0d97c3a2b06d8fa76b1634a6c106",
+          "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。 / AI writes a lot of software. Now, human code review is starting to disappear.",
+          "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "4e5e187c6553eb696427d6e84f87c2da70f3ee4f",
+          "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。",
+          "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T14:18:48.997000Z"
+        },
+        {
+          "id": "3879a7bcb76d0d97c3a2b06d8fa76b1634a6c106",
+          "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。 / AI writes a lot of software. Now, human code review is starting to disappear.",
+          "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9735,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T14:00:01Z",
+      "latest_at": "2026-06-28T14:18:48.997000Z",
+      "primary_item": {
+        "id": "4e5e187c6553eb696427d6e84f87c2da70f3ee4f",
+        "title": "人工智能编写了大量软件。如今，人工代码审查正逐渐消失。",
+        "url": "https://www.businessinsider.com/ai-coding-agents-cursor-human-review-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1108,15 +1205,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9822,
+        "recency": 0.9631,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,164 +1228,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2d1c4bbb7305",
-      "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
-      "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-      "primary_url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d39af94e37461f11bb2515c4e62d3bce99dff17d",
-          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
-          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T11:39:05.500000Z"
-        },
-        {
-          "id": "54b9121a1757e10a1a058dac0971a043a7a63d00",
-          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。 / I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.",
-          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T11:15:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d39af94e37461f11bb2515c4e62d3bce99dff17d",
-          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
-          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T11:39:05.500000Z"
-        },
-        {
-          "id": "54b9121a1757e10a1a058dac0971a043a7a63d00",
-          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。 / I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.",
-          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-28T11:15:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9554,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T11:15:56Z",
-      "latest_at": "2026-06-28T11:39:05.500000Z",
-      "primary_item": {
-        "id": "d39af94e37461f11bb2515c4e62d3bce99dff17d",
-        "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
-        "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7b7cd8725902",
-      "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-      "url": "https://claudete.co",
-      "primary_url": "https://claudete.co",
-      "source": "claudete.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-          "url": "https://claudete.co",
-          "source": "claudete.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T10:02:50.746000Z"
-        },
-        {
-          "id": "9da74b3ce11abfde1e8fbd76728ac530a9bfca33",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团 / Show HN: Claudete – Command a legion of Claude Code instances and shells",
-          "url": "https://claudete.co",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-06-28T09:46:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "claudete.co"
-      ],
-      "items": [
-        {
-          "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-          "url": "https://claudete.co",
-          "source": "claudete.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-28T10:02:50.746000Z"
-        },
-        {
-          "id": "9da74b3ce11abfde1e8fbd76728ac530a9bfca33",
-          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团 / Show HN: Claudete – Command a legion of Claude Code instances and shells",
-          "url": "https://claudete.co",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-06-28T09:46:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9335,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T09:46:53Z",
-      "latest_at": "2026-06-28T10:02:50.746000Z",
-      "primary_item": {
-        "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
-        "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
-        "url": "https://claudete.co",
-        "source": "claudete.co",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1345,15 +1284,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.45,
         "ai_relevance": 0.67,
-        "recency": 0.7262,
+        "recency": 0.712,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1368,6 +1307,85 @@
         "url": "https://x.com/KarrarGamer777/status/2070909842907357381",
         "source": "@KarrarGamer777",
         "source_name": "SocialData X"
+      }
+    },
+    {
+      "story_id": "story_7b7cd8725902",
+      "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
+      "url": "https://claudete.co",
+      "primary_url": "https://claudete.co",
+      "source": "claudete.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
+          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
+          "url": "https://claudete.co",
+          "source": "claudete.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T10:02:50.746000Z"
+        },
+        {
+          "id": "9da74b3ce11abfde1e8fbd76728ac530a9bfca33",
+          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团 / Show HN: Claudete – Command a legion of Claude Code instances and shells",
+          "url": "https://claudete.co",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-06-28T09:46:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "claudete.co"
+      ],
+      "items": [
+        {
+          "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
+          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
+          "url": "https://claudete.co",
+          "source": "claudete.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T10:02:50.746000Z"
+        },
+        {
+          "id": "9da74b3ce11abfde1e8fbd76728ac530a9bfca33",
+          "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团 / Show HN: Claudete – Command a legion of Claude Code instances and shells",
+          "url": "https://claudete.co",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-06-28T09:46:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9153,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T09:46:53Z",
+      "latest_at": "2026-06-28T10:02:50.746000Z",
+      "primary_item": {
+        "id": "de91e956b67723aa6d2f2dcdb6db227c2b64d121",
+        "title": "Show HN: Claudete——指挥一支由Claude Code实例和外壳组成的军团",
+        "url": "https://claudete.co",
+        "source": "claudete.co",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1423,15 +1441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8525,
+        "recency": 0.8359,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,15 +1520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9805,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,15 +1598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8302,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
