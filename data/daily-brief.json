@@ -1,1306 +1,334 @@
 {
-  "generated_at": "2026-06-30T11:30:35.451495Z",
+  "generated_at": "2026-06-30T12:57:57.993272+00:00",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 6,
   "items": [
     {
-      "story_id": "story_6e98bdfa6975",
-      "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "trendscan_09",
+      "title": "Author Correction: Natural selection and genetic diversity maintenance in a parasitic wasp during continuous biological control application",
+      "url": "https://www.nature.com/articles/s41467-026-74366-5",
+      "primary_url": "https://www.nature.com/articles/s41467-026-74366-5",
+      "source": "Nature Communications",
+      "source_name": "Nature Communications",
       "sources": [
-        {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-          "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T06:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9235,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:00:00Z",
-      "latest_at": "2026-06-30T06:00:00Z",
-      "primary_item": {
-        "id": "d71d9560b266e5a6aaaa26573c2cd3472f551bcd",
-        "title": "开启英国的下一个生产力时代：建设一个人工智能开拓者的国家 / Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91d16542fa1f",
-      "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "primary_url": "https://huggingface.co/blog/allenai/discoformer",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-          "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-          "url": "https://huggingface.co/blog/allenai/discoformer",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T18:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7771,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T18:02:48Z",
-      "latest_at": "2026-06-29T18:02:48Z",
-      "primary_item": {
-        "id": "058dae0d0e9fd68dc2b367b54b66b0884bf0e54e",
-        "title": "DiScoFormer：一种跨分布的密度和分数转换器 / DiScoFormer: One transformer for density and score, across distributions",
-        "url": "https://huggingface.co/blog/allenai/discoformer",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5a9c6b882649",
-      "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:47:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-          "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:47:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7631,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T16:47:16Z",
-      "latest_at": "2026-06-29T16:47:16Z",
-      "primary_item": {
-        "id": "5dfcf8814038575f4f19c163b548f03da19a32bb",
-        "title": "Claude Opus 4.8（快速模式）现已推出 GitHub Copilot 预览版 / Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-06-29-claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fb28522465f5",
-      "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-      "url": "https://www.ithome.com/0/970/583.htm",
-      "primary_url": "https://www.ithome.com/0/970/583.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
-        },
-        {
-          "id": "ea3c651356fda8f7bf616f8189880140ae47f174",
-          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T07:56:46Z"
-        }
+        "Nature Communications",
+        "Nature Communications",
+        "Nature Communications",
+        "Nature Communications",
+        "Nature Communications"
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Nature Communications",
+        "AnySearch 信息 (6G与下一代通信)"
       ],
       "items": [
-        {
-          "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T07:56:46Z"
-        },
-        {
-          "id": "ea3c651356fda8f7bf616f8189880140ae47f174",
-          "title": "另类资管巨头黑石未来 3~5 年将斥资 300 亿美元在日本建设 AI 数据中心",
-          "url": "https://www.ithome.com/0/970/583.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-30T07:56:46Z"
-        }
+        "https://www.nature.com/articles/s41467-026-74366-5",
+        "https://www.nature.com/articles/s41467-026-75042-4",
+        "https://www.nature.com/articles/s41467-026-74092-y",
+        "https://www.nature.com/articles/s41467-026-75014-8",
+        "https://www.nature.com/articles/s41467-026-75029-1",
+        "https://www.nature.com/articles/s41467-026-74651-3",
+        "https://www.nature.com/articles/s41467-026-74863-7",
+        "https://www.nature.com/articles/s41467-026-74950-9",
+        "https://khazna.ku.ac.ae/en/publications/intelligent-reconfigurable-surfaces-irs-for-prospective-6g-wirele",
+        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AfmBOoqRzWyPe-x4pWx6s868AwGSAuPmBinwE6rT1e4YD6EEo2zcy4R_",
+        "https://starlink.com/technology?srsltid=AfmBOooPZroCUXUhGiI-gAcprXCuUrOx87l_c5oKaPJngyHtrEjZ4WBy",
+        "https://www.itu.int/dms_pub/itu-r/opb/rep/R-REP-SM.2352-1-2022-PDF-E.pdf",
+        "https://doi.org/10.1038/s41467-026-71081-z",
+        "https://www.comsoc.org/publications/best-readings/reconfigurable-intelligent-surfaces",
+        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AfmBOooKbaYzpBeCbGkLLUcluvoKEcXrapTBefNptzllFzLsYyjR1O2M",
+        "https://starlink.com/technology?srsltid=AfmBOoqKxhv2V0pkZnm1xmRnSSNJrWIOIT7AoC10YeGzbcP-lB8ZvVLv",
+        "https://link.springer.com/subjects/terahertz-wireless-communication-systems",
+        "https://ui.adsabs.harvard.edu/abs/2011JIMTW..32..143K/abstract",
+        "https://news.cgtn.com/news/2026-03-29/VHJhbnNjcmlwdDg5ODg0/index.html",
+        "https://www.thefastmode.com/expert-opinion/46481-new-telecom-horizons-in-2026-with-ai-and-6g"
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
-      "importance_label": "行业动态",
+      "item_count": 24,
+      "duplicate_count": 0,
+      "score": 12.0,
+      "importance": 1.0,
+      "importance_score": 100,
+      "importance_label": "high",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9498,
-        "story_heat": 0.25
+        "source_tier_diversity": 0.6666666666666666,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
       },
-      "category": "industry",
+      "category": "trendscan",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "6G与通信 聚合 24 条"
       ],
-      "earliest_at": "2026-06-30T07:56:46Z",
-      "latest_at": "2026-06-30T07:56:46Z",
+      "earliest_at": "2026-06-30T04:02:19",
+      "latest_at": "2026-06-30T00:00:00",
       "primary_item": {
-        "id": "81cd8ae1da674afac36a2697129faa7f21958375",
-        "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
-        "url": "https://www.ithome.com/0/970/583.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "title": "Author Correction: Natural selection and genetic diversity maintenance in a parasitic wasp during continuous biological control application",
+        "url": "https://www.nature.com/articles/s41467-026-74366-5",
+        "source": "Nature Communications"
       }
     },
     {
-      "story_id": "story_5a1ae999ca0c",
-      "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-      "url": "https://x.com/xiaohu/status/2071796715162857477",
-      "primary_url": "https://x.com/xiaohu/status/2071796715162857477",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
+      "story_id": "trendscan_11",
+      "title": "Can Industry 4.0-enabled smart manufacturing help firms in ...",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360835224003590",
+      "primary_url": "https://www.sciencedirect.com/science/article/pii/S0360835224003590",
+      "source": "AnySearch 制造 (绿色制造与工业互联网)",
+      "source_name": "AnySearch 制造 (绿色制造与工业互联网)",
       "sources": [
-        {
-          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-          "url": "https://x.com/xiaohu/status/2071796715162857477",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T03:23:23Z"
-        }
+        "AnySearch 制造 (绿色制造与工业互联网)",
+        "AnySearch 制造 (绿色制造与工业互联网)",
+        "AnySearch 制造 (绿色制造与工业互联网)",
+        "AnySearch 制造 (绿色制造与工业互联网)",
+        "AnySearch 制造 (绿色制造与工业互联网)"
       ],
       "source_count": 1,
       "source_names": [
-        "X：小互 (@xiaohu)"
+        "AnySearch 制造 (绿色制造与工业互联网)"
       ],
       "items": [
-        {
-          "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-          "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-          "url": "https://x.com/xiaohu/status/2071796715162857477",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T03:23:23Z"
-        }
+        "https://www.sciencedirect.com/science/article/pii/S0360835224003590",
+        "https://www.youtube.com/watch?v=NXXORL3Xk4M",
+        "https://manufacturingdigital.com/top10/top-10-net-zero-factories",
+        "https://onlinelibrary.wiley.com/doi/10.1002/bse.70899",
+        "https://manufacturingdigital.com/news/microsoft-nvidia-krones-ai-improving-beverage-production",
+        "https://www.assemblymag.com/articles/100150-accenture-ai-digital-twins-help-cut-waste-improve-throughput",
+        "https://www.ptc.com/en/technologies/iiot?srsltid=AfmBOoqmcCpu0u3Z_Bc1ybrWo2FJfr_LNwK7w0YZEUd72EeVrkf74w2H",
+        "https://blog.lnsresearch.com/iiot-platform",
+        "https://www.cisco.com/site/us/en/learn/topics/industrial-iot/what-is-industrial-iot.html",
+        "https://www.cybus.io/en/resources/glossary/industrial-iot-platform/",
+        "https://www.trentonsystems.com/en-us/resource-hub/blog/what-is-the-industrial-internet-of-things-iiot",
+        "https://www.crescendoworldwide.com/blogs/Smart-sustainable-and-green-the-future-of-manufacturing-with-smart-technologies",
+        "https://www.youtube.com/watch?v=OM6cU8caFFU",
+        "https://www.hikvision.com/africa/newsroom/blog/building-the-green-factory--how-smart-manufacturing-creates-a-su/",
+        "https://www.apo-tokyo.org/wp-content/uploads/2023/08/3-8-Smart-Green-Manufacturing.pdf",
+        "https://www.shutterstock.com/search/green-smart-manufacturing",
+        "https://doi.org/10.3390/su15021379"
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
-      "importance_label": "行业动态",
+      "item_count": 17,
+      "duplicate_count": 0,
+      "score": 8.5,
+      "importance": 0.85,
+      "importance_score": 85,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8894,
-        "story_heat": 0.0
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
       },
-      "category": "industry",
+      "category": "trendscan",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "绿色制造与工业互联网 聚合 17 条"
       ],
-      "earliest_at": "2026-06-30T03:23:23Z",
-      "latest_at": "2026-06-30T03:23:23Z",
+      "earliest_at": "2026-06-30T04:02:58",
+      "latest_at": "2026-06-30T10:02:06",
       "primary_item": {
-        "id": "90c194871b8513ca0d30423f01ecb2a32cbcf7c5",
-        "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-        "url": "https://x.com/xiaohu/status/2071796715162857477",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
+        "title": "Can Industry 4.0-enabled smart manufacturing help firms in ...",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0360835224003590",
+        "source": "AnySearch 制造 (绿色制造与工业互联网)"
       }
     },
     {
-      "story_id": "story_854000477b8f",
-      "title": "AI就业争论变得更加混乱",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-      "primary_url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "trendscan_02",
+      "title": "A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed",
+      "url": "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
+      "primary_url": "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
+      "source": "AnySearch 信息 (具身智能与机器人)",
+      "source_name": "AnySearch 信息 (具身智能与机器人)",
       "sources": [
-        {
-          "id": "b799e04948668aa710ae4cef56c32e93c7dcc4b3",
-          "title": "AI就业争论变得更加混乱",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:01:00Z"
-        },
-        {
-          "id": "746886b90de274ba76964297575c107a05215d9f",
-          "title": "AI就业争论变得更加混乱 / The AI jobs debate just got messier",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T04:01:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b799e04948668aa710ae4cef56c32e93c7dcc4b3",
-          "title": "AI就业争论变得更加混乱",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:01:00Z"
-        },
-        {
-          "id": "746886b90de274ba76964297575c107a05215d9f",
-          "title": "AI就业争论变得更加混乱 / The AI jobs debate just got messier",
-          "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-30T04:01:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8974,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T04:01:00Z",
-      "latest_at": "2026-06-30T04:01:00Z",
-      "primary_item": {
-        "id": "b799e04948668aa710ae4cef56c32e93c7dcc4b3",
-        "title": "AI就业争论变得更加混乱",
-        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_022b5040aeb6",
-      "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "primary_url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
-        }
+        "AnySearch 信息 (具身智能与机器人)",
+        "AnySearch 信息 (具身智能与机器人)",
+        "AnySearch 信息 (具身智能与机器人)",
+        "AnySearch 信息 (具身智能与机器人)",
+        "AnySearch 信息 (具身智能与机器人)"
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "AnySearch 信息 (具身智能与机器人)"
       ],
       "items": [
-        {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
-        }
+        "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9607868/",
+        "https://dex-manipulation.github.io/corl2024/",
+        "https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst",
+        "https://nairl.kr/robot/",
+        "https://robotics.leeds.ac.uk/research/ai-for-robotics/robotic-manipulation/",
+        "https://www.therobotreport.com/bmw-group-deploys-figure-03-humanoid-after-tests-previous-version/",
+        "https://www.youtube.com/watch?v=GjokTDha_vs&vl=en",
+        "https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed",
+        "https://techarena.ai/content/2026-predictions-the-year-humanoid-robotics-gets-real",
+        "https://www.roboticstomorrow.com/news/2026/06/29/humanoid-announces-its-kinetiq-ascend-reinforcement-learning-approach/26785/",
+        "https://www.reddit.com/r/robotics/comments/1qtpupl/top_12_humanoid_robots_of_2026/",
+        "https://arxiv.org/abs/2604.15483",
+        "https://actuate.foxglove.dev/recordings/robotic-foundation-models/",
+        "https://github.com/XiaomiRobotics/Xiaomi-Robotics-0"
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "官方更新",
+      "item_count": 15,
+      "duplicate_count": 0,
+      "score": 7.5,
+      "importance": 0.75,
+      "importance_score": 75,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.756,
-        "story_heat": 0.0
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
       },
-      "category": "official",
+      "category": "trendscan",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "具身智能与机器人 聚合 15 条"
       ],
-      "earliest_at": "2026-06-29T16:08:23Z",
-      "latest_at": "2026-06-29T16:08:23Z",
+      "earliest_at": "2026-06-30T04:01:55",
+      "latest_at": "2026-06-30T12:00:02",
       "primary_item": {
-        "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-        "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "title": "A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed",
+        "url": "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
+        "source": "AnySearch 信息 (具身智能与机器人)"
       }
     },
     {
-      "story_id": "story_f1de547afb62",
-      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "trendscan_01",
+      "title": "Machine Learning in Drug Discovery: Oren Kraus - YouTube",
+      "url": "https://www.youtube.com/watch?v=cVKhAMi_gIg",
+      "primary_url": "https://www.youtube.com/watch?v=cVKhAMi_gIg",
+      "source": "AnySearch 信息 (AI+科学)",
+      "source_name": "AnySearch 信息 (AI+科学)",
       "sources": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
+        "AnySearch 信息 (AI+科学)",
+        "AnySearch 信息 (AI+科学)",
+        "AnySearch 信息 (AI+科学)",
+        "AnySearch 信息 (AI+科学)",
+        "AnySearch 信息 (AI+科学)"
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "AnySearch 信息 (AI+科学)"
       ],
       "items": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
+        "https://www.youtube.com/watch?v=cVKhAMi_gIg",
+        "https://medium.com/technology-hits/building-foundation-models-for-scientific-data-science-to-accelerate-discovery-5432183586cf",
+        "https://www.nvidia.com/en-us/use-cases/biomolecular-foundation-models-for-discovery-in-life-science/",
+        "https://www.techrxiv.org/doi/10.36227/techrxiv.177042078.81811026",
+        "https://neurips.cc/virtual/2025/poster/121941",
+        "https://www.youtube.com/watch?v=dyx-JJgzJi4",
+        "https://www.broadinstitute.org/machine-learning-drug-discovery-symposium/machine-learning-drug-discovery-2025",
+        "https://phys.org/news/2026-06-superconductors-yield-thousands.html",
+        "https://cpl.iphy.ac.cn/article/doi/10.1088/0256-307X/42/2/027403",
+        "https://ideal.ethz.ch/research/data-driven-design/inverse-design.html",
+        "https://doi.org/10.1002/ddr.70229",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11923747/",
+        "https://phys.org/news/2026-06-generative-ai-enables-atomic-scale.html"
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
-      "importance_label": "官方更新",
+      "item_count": 13,
+      "duplicate_count": 0,
+      "score": 6.5,
+      "importance": 0.65,
+      "importance_score": 65,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7545,
-        "story_heat": 0.0
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
       },
-      "category": "official",
+      "category": "trendscan",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "AI+科学 聚合 13 条"
       ],
-      "earliest_at": "2026-06-29T16:00:00Z",
-      "latest_at": "2026-06-29T16:00:00Z",
+      "earliest_at": "2026-06-30T04:01:10",
+      "latest_at": "2026-06-30T11:59:37",
       "primary_item": {
-        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "title": "Machine Learning in Drug Discovery: Oren Kraus - YouTube",
+        "url": "https://www.youtube.com/watch?v=cVKhAMi_gIg",
+        "source": "AnySearch 信息 (AI+科学)"
       }
     },
     {
-      "story_id": "story_7eaad8c16868",
-      "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-      "url": "https://www.aibase.com/news/29276",
-      "primary_url": "https://www.aibase.com/news/29276",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "trendscan_07",
+      "title": "Synthetic biology promised to rewrite life—with the death of its ...",
+      "url": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
+      "primary_url": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
+      "source": "AnySearch 健康 (合成生物学与生物制造)",
+      "source_name": "AnySearch 健康 (合成生物学与生物制造)",
       "sources": [
-        {
-          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
-          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-          "url": "https://www.aibase.com/news/29276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
+        "AnySearch 健康 (合成生物学与生物制造)",
+        "AnySearch 健康 (合成生物学与生物制造)",
+        "AnySearch 健康 (合成生物学与生物制造)",
+        "AnySearch 健康 (合成生物学与生物制造)"
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "AnySearch 健康 (合成生物学与生物制造)"
       ],
       "items": [
-        {
-          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
-          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-          "url": "https://www.aibase.com/news/29276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
+        "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
+        "https://luxresearchinc.com/blog/3-takeaways-from-synbiobeta-2026/",
+        "https://www.nature.com/collections/cbhdbbcead",
+        "https://www.facebook.com/technologyreview/posts/three-technologies-that-will-shape-biotech-in-2026/1247176023938212/"
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 0,
+      "score": 2.0,
+      "importance": 0.2,
+      "importance_score": 20,
+      "importance_label": "low",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.8,
+        "recent_boost": 0.5
       },
-      "category": "industry",
+      "category": "trendscan",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "合成生物学与生物制造 聚合 4 条"
       ],
-      "earliest_at": "2026-06-30T11:30:35.451495Z",
-      "latest_at": "2026-06-30T11:30:35.451495Z",
+      "earliest_at": "2026-06-30T10:02:18",
+      "latest_at": "2026-06-30T10:02:18",
       "primary_item": {
-        "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
-        "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
-        "url": "https://www.aibase.com/news/29276",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title": "Synthetic biology promised to rewrite life—with the death of its ...",
+        "url": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",
+        "source": "AnySearch 健康 (合成生物学与生物制造)"
       }
     },
     {
-      "story_id": "story_279d788d0c63",
-      "title": "Qwen 3.6 27B 是本地开发的理想选择",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome",
-      "primary_url": "https://quesma.com/blog/qwen-36-is-awesome",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "trendscan_08",
+      "title": "Surface geometry controls bulk topological defects that govern embryonic structures",
+      "url": "https://www.nature.com/articles/s41563-026-02595-6",
+      "primary_url": "https://www.nature.com/articles/s41563-026-02595-6",
+      "source": "Nature Materials",
+      "source_name": "Nature Materials",
       "sources": [
-        {
-          "id": "9a9981faccfbf15a72fc7b1f4f973c6b472652ac",
-          "title": "Qwen 3.6 27B 是本地开发的理想选择",
-          "url": "https://quesma.com/blog/qwen-36-is-awesome",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T18:03:02.582000Z"
-        },
-        {
-          "id": "9428ed55d1cdab95be4642d83655bbe650b35d1a",
-          "title": "Qwen 3.6 27B 是本地开发的理想选择 / Qwen 3.6 27B is the sweet spot for local development",
-          "url": "https://quesma.com/blog/qwen-36-is-awesome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-29T17:05:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "9a9981faccfbf15a72fc7b1f4f973c6b472652ac",
-          "title": "Qwen 3.6 27B 是本地开发的理想选择",
-          "url": "https://quesma.com/blog/qwen-36-is-awesome",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T18:03:02.582000Z"
-        },
-        {
-          "id": "9428ed55d1cdab95be4642d83655bbe650b35d1a",
-          "title": "Qwen 3.6 27B 是本地开发的理想选择 / Qwen 3.6 27B is the sweet spot for local development",
-          "url": "https://quesma.com/blog/qwen-36-is-awesome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-29T17:05:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7772,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T17:05:16Z",
-      "latest_at": "2026-06-29T18:03:02.582000Z",
-      "primary_item": {
-        "id": "9a9981faccfbf15a72fc7b1f4f973c6b472652ac",
-        "title": "Qwen 3.6 27B 是本地开发的理想选择",
-        "url": "https://quesma.com/blog/qwen-36-is-awesome",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6caca3033900",
-      "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-      "url": "https://x.com/op7418/status/2071816099986022650",
-      "primary_url": "https://x.com/op7418/status/2071816099986022650",
-      "source": "X：歸藏 (@op7418)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
-          "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-          "url": "https://x.com/op7418/status/2071816099986022650",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:40:25Z"
-        }
+        "Nature Materials",
+        "Nature Materials",
+        "Nature Materials"
       ],
       "source_count": 1,
       "source_names": [
-        "X：歸藏 (@op7418)"
+        "Nature Materials"
       ],
       "items": [
-        {
-          "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
-          "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-          "url": "https://x.com/op7418/status/2071816099986022650",
-          "source": "X：歸藏 (@op7418)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T04:40:25Z"
-        }
+        "https://www.nature.com/articles/s41563-026-02595-6",
+        "https://www.nature.com/articles/s41563-026-02594-7",
+        "https://www.nature.com/articles/s41563-026-02647-x"
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 0,
+      "score": 1.5,
+      "importance": 0.15,
+      "importance_score": 15,
+      "importance_label": "low",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.906,
-        "story_heat": 0.0
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.6,
+        "recent_boost": 0.5
       },
-      "category": "industry",
+      "category": "trendscan",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "二维材料与原子制造 聚合 3 条"
       ],
-      "earliest_at": "2026-06-30T04:40:25Z",
-      "latest_at": "2026-06-30T04:40:25Z",
+      "earliest_at": "2026-06-30T00:00:00",
+      "latest_at": "2026-06-30T00:00:00",
       "primary_item": {
-        "id": "6b0e6864f79bb2fc68ea16bea3427db7d4ff2d7e",
-        "title": "X（Twitter）发布 hosted X MCP，AI 智能体可直连 X API",
-        "url": "https://x.com/op7418/status/2071816099986022650",
-        "source": "X：歸藏 (@op7418)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_103ac9573b22",
-      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-      "url": "https://x.com/EMostaque/status/2071701921241448574",
-      "primary_url": "https://x.com/EMostaque/status/2071701921241448574",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ce241cd2ecd1d731301d032162c11c288557211",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://x.com/EMostaque/status/2071701921241448574",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Emad Mostaque (@EMostaque)"
-      ],
-      "items": [
-        {
-          "id": "8ce241cd2ecd1d731301d032162c11c288557211",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://x.com/EMostaque/status/2071701921241448574",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8123,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T21:06:43Z",
-      "latest_at": "2026-06-29T21:06:43Z",
-      "primary_item": {
-        "id": "8ce241cd2ecd1d731301d032162c11c288557211",
-        "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-        "url": "https://x.com/EMostaque/status/2071701921241448574",
-        "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d42ae9023142",
-      "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-      "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-      "primary_url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:30:21Z"
-        },
-        {
-          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T12:30:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:30:21Z"
-        },
-        {
-          "id": "c02f35f588baf81cbaa1e47dc362b61ff44b7e94",
-          "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标 / The US military used AI to pick thousands of targets but missed a note saying one was a school",
-          "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-06-29T12:30:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7174,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T12:30:21Z",
-      "latest_at": "2026-06-29T12:30:21Z",
-      "primary_item": {
-        "id": "fad7c538efec2c1703451e6dd99da76b621cb2ef",
-        "title": "美军用AI选目标却误炸伊朗学校，Anthropic Claude嵌入Palantir系统首日建议约1000目标",
-        "url": "https://the-decoder.com/the-us-military-used-ai-to-pick-thousands-of-targets-but-missed-a-note-saying-one-was-a-school",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb949ee12568",
-      "title": "Rubin Ultra取消，新版尺寸性能减半",
-      "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
-      "primary_url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "da320e03110d58841d48e6d41461620ecf592bb5",
-          "title": "Rubin Ultra取消，新版尺寸性能减半",
-          "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:00:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
-      ],
-      "items": [
-        {
-          "id": "da320e03110d58841d48e6d41461620ecf592bb5",
-          "title": "Rubin Ultra取消，新版尺寸性能减半",
-          "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:00:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8111,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T21:00:47Z",
-      "latest_at": "2026-06-29T21:00:47Z",
-      "primary_item": {
-        "id": "da320e03110d58841d48e6d41461620ecf592bb5",
-        "title": "Rubin Ultra取消，新版尺寸性能减半",
-        "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad08c85e40a8",
-      "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-      "url": "https://www.ithome.com/0/970/539.htm",
-      "primary_url": "https://www.ithome.com/0/970/539.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2c00673edab6aaebad14df497125c8493d026f40",
-          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-          "url": "https://www.ithome.com/0/970/539.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T06:45:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2c00673edab6aaebad14df497125c8493d026f40",
-          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-          "url": "https://www.ithome.com/0/970/539.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T06:45:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9336,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:45:03Z",
-      "latest_at": "2026-06-30T06:45:03Z",
-      "primary_item": {
-        "id": "2c00673edab6aaebad14df497125c8493d026f40",
-        "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
-        "url": "https://www.ithome.com/0/970/539.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c959d9eaf186",
-      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "primary_url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T05:42:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
-      ],
-      "items": [
-        {
-          "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-          "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-          "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T05:42:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9197,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T05:42:42Z",
-      "latest_at": "2026-06-30T05:42:42Z",
-      "primary_item": {
-        "id": "6f98f3207c3e72cb8b71295221229c87a0588279",
-        "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-        "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e1820368a58",
-      "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-      "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-      "primary_url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4afb65f5c6056b52e0e00f0e436ad9aa78ba2aba",
-          "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-          "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T01:47:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "4afb65f5c6056b52e0e00f0e436ad9aa78ba2aba",
-          "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-          "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T01:47:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T01:47:00Z",
-      "latest_at": "2026-06-30T01:47:00Z",
-      "primary_item": {
-        "id": "4afb65f5c6056b52e0e00f0e436ad9aa78ba2aba",
-        "title": "AI News Radar 大更新：新增自媒体板块，支持订阅多平台账号",
-        "url": "https://mp.weixin.qq.com/s/iW5FVqbHtYi31mJ22Q_cog",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dca46b3f7e38",
-      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-      "url": "https://www.aibase.com/news/29275",
-      "primary_url": "https://www.aibase.com/news/29275",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-          "url": "https://www.aibase.com/news/29275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T11:30:35.451495Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T11:30:35.451495Z",
-      "latest_at": "2026-06-30T11:30:35.451495Z",
-      "primary_item": {
-        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
-        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
-        "url": "https://www.aibase.com/news/29275",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_35b256e2c054",
-      "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-      "url": "https://x.com/AIatMeta/status/2071566924803395741",
-      "primary_url": "https://x.com/AIatMeta/status/2071566924803395741",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
-          "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-          "url": "https://x.com/AIatMeta/status/2071566924803395741",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:10:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
-          "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-          "url": "https://x.com/AIatMeta/status/2071566924803395741",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T12:10:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T12:10:17Z",
-      "latest_at": "2026-06-29T12:10:17Z",
-      "primary_item": {
-        "id": "0977ad593b87c42372d7b59625097aadbd15d4e2",
-        "title": "Meta发布Brain2Qwerty v2：非侵入式实时句子解码",
-        "url": "https://x.com/AIatMeta/status/2071566924803395741",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eee9aecd1888",
-      "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-      "url": "https://x.com/berryxia/status/2071610700213191075",
-      "primary_url": "https://x.com/berryxia/status/2071610700213191075",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-          "url": "https://x.com/berryxia/status/2071610700213191075",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T15:04:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-          "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-          "url": "https://x.com/berryxia/status/2071610700213191075",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T15:04:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7444,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T15:04:14Z",
-      "latest_at": "2026-06-29T15:04:14Z",
-      "primary_item": {
-        "id": "a85e9be6f7d7a7f396b38645a8ea00194edb1ade",
-        "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
-        "url": "https://x.com/berryxia/status/2071610700213191075",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
+        "title": "Surface geometry controls bulk topological defects that govern embryonic structures",
+        "url": "https://www.nature.com/articles/s41563-026-02595-6",
+        "source": "Nature Materials"
       }
     }
   ]
