@@ -354,18 +354,13 @@ def generate_stories(conn: sqlite3.Connection, hours: int) -> dict:
         date_ratio = with_dates / total if total > 0 else 0
 
         primary = items[0]
+        source_count = len(set(i["source_name"] for i in items))
 
-        # Score: penalize stories dominated by unverifiable (AnySearch) items
-        raw_importance = total / 20 if total < 20 else 1.0
-        if date_ratio < 0.3:
-            # Mostly unverifiable items → heavily penalize
-            adjusted_importance = raw_importance * 0.3
-        elif date_ratio < 0.6:
-            adjusted_importance = raw_importance * 0.6
-        else:
-            adjusted_importance = raw_importance
+        # Score: based on unique sources, not total items
+        # AnySearch items from same search = 1 source, RSS from different feeds = many
+        raw_importance = source_count / 6 if source_count < 6 else 1.0
 
-        importance_score = min(int(adjusted_importance * 100), 100)
+        importance_score = min(int(raw_importance * 100), 100)
 
         story = {
             "story_id": f"trendscan_{cluster_id}",
@@ -381,7 +376,7 @@ def generate_stories(conn: sqlite3.Connection, hours: int) -> dict:
             "item_count": len(items),
             "duplicate_count": 0,
             "score": importance_score * 0.85,
-            "importance": adjusted_importance,
+            "importance": raw_importance,
             "importance_score": importance_score,
             "importance_label": "high" if importance_score >= 70 else ("medium" if importance_score >= 30 else "low"),
             "importance_breakdown": {
