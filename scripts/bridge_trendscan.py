@@ -328,14 +328,18 @@ def generate_stories(conn: sqlite3.Connection, hours: int) -> dict:
 
     # Group by cluster for simple story merging
     clusters = {}
+    from collections import Counter as _Counter
     for row in rows:
         (aid, title, url, summary, published, collected,
          source_name, cluster_raw, category, llm_summary) = row
         if cluster_raw not in clusters:
             clusters[cluster_raw] = []
+        has_real_date = bool(published and published.strip())
         clusters[cluster_raw].append({
-            "id": aid, "title": title, "url": url, "source_name": source_name,
+            "id": aid, "title": title, "url": url,
+            "source_name": source_name,
             "published": published, "collected": collected,
+            "has_real_date": has_real_date,
         })
 
     stories = []
@@ -344,7 +348,25 @@ def generate_stories(conn: sqlite3.Connection, hours: int) -> dict:
         site_def = CLUSTER_TO_SITE.get(cluster_norm, {})
         display = site_def.get("name", cluster_id)
 
+        # Count items with verified dates vs uncertain
+        total = len(items)
+        with_dates = sum(1 for i in items if i["has_real_date"])
+        date_ratio = with_dates / total if total > 0 else 0
+
         primary = items[0]
+
+        # Score: penalize stories dominated by unverifiable (AnySearch) items
+        raw_importance = total / 20 if total < 20 else 1.0
+        if date_ratio < 0.3:
+            # Mostly unverifiable items → heavily penalize
+            adjusted_importance = raw_importance * 0.3
+        elif date_ratio < 0.6:
+            adjusted_importance = raw_importance * 0.6
+        else:
+            adjusted_importance = raw_importance
+
+        importance_score = min(int(adjusted_importance * 100), 100)
+
         story = {
             "story_id": f"trendscan_{cluster_id}",
             "title": primary["title"],
@@ -358,10 +380,10 @@ def generate_stories(conn: sqlite3.Connection, hours: int) -> dict:
             "items": [i["url"] for i in items[:20] if i["url"]],
             "item_count": len(items),
             "duplicate_count": 0,
-            "score": len(items) * 0.5,
-            "importance": len(items) / 20 if len(items) < 20 else 1.0,
-            "importance_score": min(len(items) * 5, 100),
-            "importance_label": "high" if len(items) >= 20 else ("medium" if len(items) >= 10 else "low"),
+            "score": importance_score * 0.85,
+            "importance": adjusted_importance,
+            "importance_score": importance_score,
+            "importance_label": "high" if importance_score >= 70 else ("medium" if importance_score >= 30 else "low"),
             "importance_breakdown": {
                 "source_tier_diversity": min(len(set(i["source_name"] for i in items)) / 3, 1.0),
                 "multi_source_confirmation": min(len(items) / 5, 1.0),
