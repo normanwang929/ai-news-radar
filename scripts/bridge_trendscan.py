@@ -22,9 +22,40 @@ import hashlib
 import json
 import os
 import sqlite3
-import sys
+import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+
+
+# ── Year extraction heuristic for fake published dates ──
+YEAR_PATTERNS = [
+    re.compile(r'\b(19\d\d|20[0-2]\d)\b'),  # 1990-2029
+    re.compile(r'Volume\s+\d+[,\s]+(?:[A-Z][a-z]+)?\s*(20\d\d)'),
+    re.compile(r'\(20\d\d\)'),
+]
+
+def extract_year(text: str | None) -> int | None:
+    """Try to extract a real publication year from text."""
+    if not text:
+        return None
+    for pat in YEAR_PATTERNS:
+        m = pat.search(text)
+        if m:
+            y = int(m.group(1) if m.lastindex else m.group(0).strip('()'))
+            if 1990 <= y <= 2029:
+                return y
+    return None
+
+def is_fake_date(published: str, collected: str) -> bool:
+    """Check if published date appears to be a fake (same as collection time)."""
+    if not published or not collected:
+        return True
+    try:
+        p = datetime.fromisoformat(published.replace('Z', '+00:00'))
+        c = datetime.fromisoformat(collected.replace('Z', '+00:00'))
+        return abs((p - c).total_seconds()) < 120
+    except (ValueError, TypeError):
+        return True
 
 
 # ── Cluster → site mapping (matches trendscan's 15 clusters) ──
@@ -140,6 +171,22 @@ def generate_latest_24h(conn: sqlite3.Connection, hours: int) -> dict:
         cluster_id = normalize_cluster(cluster_raw)
         site_def = CLUSTER_TO_SITE.get(cluster_id, {})
         site_id = site_def.get("site_id", cluster_raw or "unknown")
+
+        # ── Fake date detection ──
+        # When published == collected (AnySearch/RSS don't extract real dates),
+        # try to find the real year from title/summary/URL text.
+        if is_fake_date(published, collected):
+            real_year = (
+                extract_year(title) or 
+                extract_year(summary) or 
+                extract_year(llm_summary) or
+                extract_year(url)
+            )
+            if real_year is not None and real_year < 2025:
+                candidate_count += 1
+                continue  # Skip pre-2025 articles with no real timestamp
+            # Keep it but note the date is uncertain
+            published = collected  # Keep collection time as-is
 
         # Generate a stable item id
         item_id = hashlib.sha1(url.encode()).hexdigest() if url else f"trendscan_{aid}"
