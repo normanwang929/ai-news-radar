@@ -1,8 +1,137 @@
 {
-  "generated_at": "2026-06-30T13:47:04.007203+00:00",
+  "generated_at": "2026-06-30T14:03:56.667228+00:00",
   "window_hours": 24,
-  "total_items": 6,
+  "total_items": 8,
   "items": [
+    {
+      "story_id": "trendscan_18",
+      "title": "2026年人工智能研究全解，轻松掌握前沿技术",
+      "url": "https://api.zhihu.com/articles/1994420537296909470",
+      "primary_url": "https://api.zhihu.com/articles/1994420537296909470",
+      "source": "知乎搜索:人工智能",
+      "source_name": "知乎搜索:人工智能",
+      "sources": [
+        "知乎搜索:人工智能",
+        "知乎搜索:人工智能",
+        "知乎搜索:人工智能",
+        "知乎搜索:人工智能",
+        "知乎搜索:大模型"
+      ],
+      "source_count": 4,
+      "source_names": [
+        "知乎搜索:人工智能",
+        "知乎搜索:大模型",
+        "知乎搜索:AI",
+        "知乎热榜"
+      ],
+      "items": [
+        "https://api.zhihu.com/articles/1994420537296909470",
+        "https://api.zhihu.com/answers/2053953050998477259",
+        "https://api.zhihu.com/articles/713690467",
+        "https://api.zhihu.com/answers/2046571326287172833",
+        "https://api.zhihu.com/answers/2003230895809782610",
+        "https://api.zhihu.com/articles/2023902911621599414",
+        "https://api.zhihu.com/articles/2052797293653500947",
+        "https://api.zhihu.com/articles/1888670947805984061",
+        "https://api.zhihu.com/answers/2055333363972576411",
+        "https://api.zhihu.com/articles/31864213680",
+        "https://api.zhihu.com/answers/2055320813604171841",
+        "https://api.zhihu.com/answers/1993355664689484659",
+        "https://api.zhihu.com/articles/1919046969076195976",
+        "https://api.zhihu.com/answers/2041488953736423304",
+        "https://api.zhihu.com/articles/1986489328881394585",
+        "https://api.zhihu.com/articles/31863323446",
+        "https://api.zhihu.com/answers/2003232153480226496",
+        "https://www.zhihu.com/question/2055222122289558459",
+        "https://www.zhihu.com/question/2055040930516824522",
+        "https://www.zhihu.com/question/2055052533110937112"
+      ],
+      "item_count": 47,
+      "duplicate_count": 0,
+      "score": 56.1,
+      "importance": 0.6666666666666666,
+      "importance_score": 66,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "知乎 聚合 47 条"
+      ],
+      "earliest_at": "2026-06-30 14:03:01",
+      "latest_at": "2026-06-30 14:03:19",
+      "primary_item": {
+        "title": "2026年人工智能研究全解，轻松掌握前沿技术",
+        "url": "https://api.zhihu.com/articles/1994420537296909470",
+        "source": "知乎搜索:人工智能"
+      }
+    },
+    {
+      "story_id": "trendscan_17",
+      "title": "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！",
+      "url": "https://www.bilibili.com/video/BV1uNk1YxEJQ",
+      "primary_url": "https://www.bilibili.com/video/BV1uNk1YxEJQ",
+      "source": "B站 搜索:AI 大模型",
+      "source_name": "B站 搜索:AI 大模型",
+      "sources": [
+        "B站 搜索:AI 大模型",
+        "B站 搜索:AI 大模型",
+        "B站 搜索:AI 大模型",
+        "B站 搜索:AI 大模型",
+        "B站 搜索:AI 大模型"
+      ],
+      "source_count": 2,
+      "source_names": [
+        "B站 搜索:AI 大模型",
+        "B站 热门"
+      ],
+      "items": [
+        "https://www.bilibili.com/video/BV1uNk1YxEJQ",
+        "https://www.bilibili.com/video/BV1HM7C6BEnF",
+        "https://www.bilibili.com/video/BV1h1VbzHER2",
+        "https://www.bilibili.com/video/BV1N5Ko6QEJg",
+        "https://www.bilibili.com/video/BV1KeTu64EQg",
+        "https://www.bilibili.com/video/BV1jk7y6PEid",
+        "https://www.bilibili.com/video/BV1CzovYpEy1",
+        "https://www.bilibili.com/video/BV1VCVS6PEAd",
+        "https://www.bilibili.com/video/BV12UEd6QEv7",
+        "https://www.bilibili.com/video/BV1Q2iXBtEme",
+        "https://www.bilibili.com/video/BV1o19aBJEAo",
+        "https://www.bilibili.com/video/BV17LTF6mEMB",
+        "https://www.bilibili.com/video/BV1Qm7h6pETj",
+        "https://www.bilibili.com/video/BV1xy7p6pESo",
+        "https://www.bilibili.com/video/BV1gJKd6bE9f",
+        "https://www.bilibili.com/video/BV1kKQ6YQEFg",
+        "https://www.bilibili.com/video/BV1aqjX61E6g",
+        "https://www.bilibili.com/video/BV1yyTF6ZEbv",
+        "https://www.bilibili.com/video/BV1dsTL6dEkB"
+      ],
+      "item_count": 38,
+      "duplicate_count": 0,
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.6666666666666666,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "B站 聚合 38 条"
+      ],
+      "earliest_at": "2026-06-30 14:00:49",
+      "latest_at": "2026-06-30 14:00:50",
+      "primary_item": {
+        "title": "【全748集】目前B站最全最细的AI大模型零基础全套教程，2025最新版，包含所有干货！七天就能从小白到大神！少走99%的弯路！存下吧！很难找全的！",
+        "url": "https://www.bilibili.com/video/BV1uNk1YxEJQ",
+        "source": "B站 搜索:AI 大模型"
+      }
+    },
     {
       "story_id": "trendscan_09",
       "title": "Author Correction: Natural selection and genetic diversity maintenance in a parasitic wasp during continuous biological control application",

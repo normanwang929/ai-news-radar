@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T13:47:04.006682+00:00",
+  "generated_at": "2026-06-30T14:03:56.666473+00:00",
   "sites": [
     {
       "site_id": "trendscan_ai4science",
@@ -186,6 +186,14 @@
       "error": null
     },
     {
+      "site_id": "zhihu",
+      "site_name": "知乎",
+      "ok": true,
+      "item_count": 30,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "FT Alphaville",
       "site_name": "FT Alphaville",
       "ok": true,
@@ -194,6 +202,14 @@
       "error": null
     },
     {
+      "site_id": "bilibili",
+      "site_name": "B站",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_ai4science",
       "site_name": "AI+科学",
       "ok": true,
@@ -206,6 +222,14 @@
       "site_name": "AI+科学",
       "ok": true,
       "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "bilibili",
+      "site_name": "B站",
+      "ok": true,
+      "item_count": 18,
       "duration_ms": 0,
       "error": null
     },
@@ -298,10 +322,34 @@
       "error": null
     },
     {
+      "site_id": "zhihu",
+      "site_name": "知乎",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_greenmf",
       "site_name": "绿色制造与工业互联网",
       "ok": true,
       "item_count": 5,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "zhihu",
+      "site_name": "知乎",
+      "ok": true,
+      "item_count": 5,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "zhihu",
+      "site_name": "知乎",
+      "ok": true,
+      "item_count": 4,
       "duration_ms": 0,
       "error": null
     },
@@ -314,12 +362,12 @@
       "error": null
     }
   ],
-  "successful_sites": 39,
+  "successful_sites": 45,
   "failed_sites": 0,
   "zero_item_sites": 0,
   "empty_advanced_sources": [],
-  "fetched_raw_items": 1603,
-  "items_before_topic_filter": 1603,
+  "fetched_raw_items": 1688,
+  "items_before_topic_filter": 1688,
   "items_in_24h": 96,
   "rss_opml": "bridge"
 }
