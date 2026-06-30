@@ -76,6 +76,8 @@ CLUSTER_TO_SITE = {
     "13": {"site_id": "trendscan_infrasw", "name": "基础软件与工业软件", "tier": "ai_media", "tier_rank": 1},
     "14": {"site_id": "trendscan_nano", "name": "纳米技术", "tier": "ai_media", "tier_rank": 1},
     "15": {"site_id": "trendscan_supercon", "name": "超导与量子材料", "tier": "ai_media", "tier_rank": 1},
+    "17": {"site_id": "bilibili", "name": "B站", "tier": "social_media", "tier_rank": 3},
+    "18": {"site_id": "zhihu", "name": "知乎", "tier": "social_media", "tier_rank": 3},
 }
 
 # Map llm_category → radar ai_label
