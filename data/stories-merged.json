@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T13:10:43.434717+00:00",
+  "generated_at": "2026-06-30T13:26:57.149294+00:00",
   "window_hours": 24,
   "total_stories": 6,
   "stories": [
@@ -59,7 +59,7 @@
       "reasons": [
         "6G与通信 聚合 24 条"
       ],
-      "earliest_at": "2026-06-30T04:02:19",
+      "earliest_at": "2026-06-30 04:02:19",
       "latest_at": "2026-06-30T00:00:00",
       "primary_item": {
         "title": "Author Correction: Natural selection and genetic diversity maintenance in a parasitic wasp during continuous biological control application",
@@ -119,8 +119,8 @@
       "reasons": [
         "绿色制造与工业互联网 聚合 17 条"
       ],
-      "earliest_at": "2026-06-30T04:02:58",
-      "latest_at": "2026-06-30T10:02:06",
+      "earliest_at": "2026-06-30 04:02:58",
+      "latest_at": "2026-06-30 10:02:06",
       "primary_item": {
         "title": "Can Industry 4.0-enabled smart manufacturing help firms in ...",
         "url": "https://www.sciencedirect.com/science/article/pii/S0360835224003590",
@@ -177,8 +177,8 @@
       "reasons": [
         "具身智能与机器人 聚合 15 条"
       ],
-      "earliest_at": "2026-06-30T04:01:55",
-      "latest_at": "2026-06-30T12:00:02",
+      "earliest_at": "2026-06-30 04:01:55",
+      "latest_at": "2026-06-30 12:00:02",
       "primary_item": {
         "title": "A startup taught humanoid robots to retrieve packages, climb stairs, and unpack boxes – no human steering needed",
         "url": "https://www.techspot.com/news/112938-startup-taught-humanoid-robots-retrieve-packages-climb-stairs.html",
@@ -233,8 +233,8 @@
       "reasons": [
         "AI+科学 聚合 13 条"
       ],
-      "earliest_at": "2026-06-30T04:01:10",
-      "latest_at": "2026-06-30T11:59:37",
+      "earliest_at": "2026-06-30 04:01:10",
+      "latest_at": "2026-06-30 11:59:37",
       "primary_item": {
         "title": "Machine Learning in Drug Discovery: Oren Kraus - YouTube",
         "url": "https://www.youtube.com/watch?v=cVKhAMi_gIg",
@@ -279,8 +279,8 @@
       "reasons": [
         "合成生物学与生物制造 聚合 4 条"
       ],
-      "earliest_at": "2026-06-30T10:02:18",
-      "latest_at": "2026-06-30T10:02:18",
+      "earliest_at": "2026-06-30 10:02:18",
+      "latest_at": "2026-06-30 10:02:18",
       "primary_item": {
         "title": "Synthetic biology promised to rewrite life—with the death of its ...",
         "url": "https://phys.org/news/2026-05-synthetic-biology-rewrite-life-death.html",

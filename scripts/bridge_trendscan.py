@@ -173,8 +173,10 @@ def generate_latest_24h(conn: sqlite3.Connection, hours: int) -> dict:
         site_id = site_def.get("site_id", cluster_raw or "unknown")
 
         # ── Fake date detection ──
-        # When published == collected (AnySearch/RSS don't extract real dates),
+        # When published is empty or equals collected (AnySearch has no real dates),
         # try to find the real year from title/summary/URL text.
+        date_uncertain = False
+        has_year_verify = False
         if is_fake_date(published, collected):
             real_year = (
                 extract_year(title) or 
@@ -185,14 +187,20 @@ def generate_latest_24h(conn: sqlite3.Connection, hours: int) -> dict:
             if real_year is not None and real_year < 2025:
                 candidate_count += 1
                 continue  # Skip pre-2025 articles with no real timestamp
-            # Keep it but note the date is uncertain
-            published = collected  # Keep collection time as-is
+            if real_year is not None and real_year >= 2025:
+                has_year_verify = True
+            date_uncertain = True
+            published = collected
 
-        # Generate a stable item id
         item_id = hashlib.sha1(url.encode()).hexdigest() if url else f"trendscan_{aid}"
 
-        # Score: trend_score or default
-        ai_score = trend_score if trend_score and trend_score > 0 else 5.0
+        base_score = trend_score if trend_score and trend_score > 0 else 5.0
+        if not date_uncertain:
+            ai_score = base_score  # RSS with real date
+        elif has_year_verify:
+            ai_score = base_score  # AnySearch with year in text
+        else:
+            ai_score = min(base_score, 4.0)  # AnySearch unverifiable, slight penalty
 
         policy_tag = extract_policy_str(policy_relevance)
 
