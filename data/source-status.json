@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T08:20:03.767750+00:00",
+  "generated_at": "2026-09-16T08:20:36.927048+00:00",
   "sites": [
     {
       "site_id": "weibo",
       "site_name": "微博热搜",
       "ok": true,
-      "item_count": 1121,
+      "item_count": 1249,
       "duration_ms": 0,
       "error": null
     },
@@ -13,7 +13,7 @@
       "site_id": "toutiao",
       "site_name": "头条热搜",
       "ok": true,
-      "item_count": 1091,
+      "item_count": 1205,
       "duration_ms": 0,
       "error": null
     },
@@ -21,7 +21,7 @@
       "site_id": "douyin",
       "site_name": "抖音热搜",
       "ok": true,
-      "item_count": 885,
+      "item_count": 944,
       "duration_ms": 0,
       "error": null
     },
@@ -29,7 +29,7 @@
       "site_id": "zhihu",
       "site_name": "知乎",
       "ok": true,
-      "item_count": 668,
+      "item_count": 724,
       "duration_ms": 0,
       "error": null
     },
@@ -37,13 +37,21 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 405,
+      "item_count": 434,
       "duration_ms": 0,
       "error": null
     },
     {
       "site_id": "trendscan_embodied",
       "site_name": "具身智能与机器人",
+      "ok": true,
+      "item_count": 380,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "bilibili",
+      "site_name": "B站",
       "ok": true,
       "item_count": 352,
       "duration_ms": 0,
@@ -61,7 +69,7 @@
       "site_id": "trendscan_6g",
       "site_name": "6G与通信",
       "ok": true,
-      "item_count": 307,
+      "item_count": 332,
       "duration_ms": 0,
       "error": null
     },
@@ -69,15 +77,7 @@
       "site_id": "trendscan_meddevice",
       "site_name": "高端医疗器械",
       "ok": true,
-      "item_count": 301,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "bilibili",
-      "site_name": "B站",
-      "ok": true,
-      "item_count": 301,
+      "item_count": 313,
       "duration_ms": 0,
       "error": null
     },
@@ -85,7 +85,7 @@
       "site_id": "trendscan_space",
       "site_name": "商业航天",
       "ok": true,
-      "item_count": 277,
+      "item_count": 303,
       "duration_ms": 0,
       "error": null
     },
@@ -93,7 +93,7 @@
       "site_id": "trendscan_synbio",
       "site_name": "合成生物学与生物制造",
       "ok": true,
-      "item_count": 276,
+      "item_count": 294,
       "duration_ms": 0,
       "error": null
     },
@@ -101,15 +101,7 @@
       "site_id": "trendscan_greenmf",
       "site_name": "绿色制造与工业互联网",
       "ok": true,
-      "item_count": 271,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_fusion",
-      "site_name": "核聚变与先进储能",
-      "ok": true,
-      "item_count": 242,
+      "item_count": 285,
       "duration_ms": 0,
       "error": null
     },
@@ -117,7 +109,7 @@
       "site_id": "trendscan_bci",
       "site_name": "脑机接口与神经工程",
       "ok": true,
-      "item_count": 241,
+      "item_count": 264,
       "duration_ms": 0,
       "error": null
     },
@@ -125,7 +117,23 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 237,
+      "item_count": 258,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_fusion",
+      "site_name": "核聚变与先进储能",
+      "ok": true,
+      "item_count": 257,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "bilibili",
+      "site_name": "B站",
+      "ok": true,
+      "item_count": 257,
       "duration_ms": 0,
       "error": null
     },
@@ -133,23 +141,7 @@
       "site_id": "trendscan_ai4science",
       "site_name": "AI+科学",
       "ok": true,
-      "item_count": 235,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_quantum",
-      "site_name": "量子科技",
-      "ok": true,
-      "item_count": 233,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "bilibili",
-      "site_name": "B站",
-      "ok": true,
-      "item_count": 228,
+      "item_count": 256,
       "duration_ms": 0,
       "error": null
     },
@@ -157,7 +149,15 @@
       "site_id": "trendscan_2dmaterials",
       "site_name": "二维材料与原子制造",
       "ok": true,
-      "item_count": 226,
+      "item_count": 251,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_quantum",
+      "site_name": "量子科技",
+      "ok": true,
+      "item_count": 241,
       "duration_ms": 0,
       "error": null
     },
@@ -165,7 +165,7 @@
       "site_id": "trendscan_deepspace",
       "site_name": "深空与深地探测",
       "ok": true,
-      "item_count": 219,
+      "item_count": 236,
       "duration_ms": 0,
       "error": null
     },
@@ -173,7 +173,7 @@
       "site_id": "AnySearch 政策 (中国政策与监管)",
       "site_name": "AnySearch 政策 (中国政策与监管)",
       "ok": true,
-      "item_count": 203,
+      "item_count": 223,
       "duration_ms": 0,
       "error": null
     },
@@ -181,7 +181,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 187,
+      "item_count": 193,
       "duration_ms": 0,
       "error": null
     },
@@ -205,7 +205,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 111,
+      "item_count": 115,
       "duration_ms": 0,
       "error": null
     },
@@ -237,7 +237,39 @@
       "site_id": "trendscan_6g",
       "site_name": "6G与通信",
       "ok": true,
+      "item_count": 60,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_6g",
+      "site_name": "6G与通信",
+      "ok": true,
       "item_count": 57,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_space",
+      "site_name": "商业航天",
+      "ok": true,
+      "item_count": 57,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_infrasw",
+      "site_name": "基础软件与工业软件",
+      "ok": true,
+      "item_count": 55,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_fusion",
+      "site_name": "核聚变与先进储能",
+      "ok": true,
+      "item_count": 53,
       "duration_ms": 0,
       "error": null
     },
@@ -250,10 +282,10 @@
       "error": null
     },
     {
-      "site_id": "trendscan_6g",
-      "site_name": "6G与通信",
+      "site_id": "trendscan_ai4science",
+      "site_name": "AI+科学",
       "ok": true,
-      "item_count": 50,
+      "item_count": 51,
       "duration_ms": 0,
       "error": null
     },
@@ -274,10 +306,82 @@
       "error": null
     },
     {
+      "site_id": "人民网时政",
+      "site_name": "人民网时政",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "新华社",
+      "site_name": "新华社",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "求是网",
+      "site_name": "求是网",
+      "ok": true,
+      "item_count": 50,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_bci",
+      "site_name": "脑机接口与神经工程",
+      "ok": true,
+      "item_count": 49,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_quantum",
       "site_name": "量子科技",
       "ok": true,
       "item_count": 48,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_synbio",
+      "site_name": "合成生物学与生物制造",
+      "ok": true,
+      "item_count": 47,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "Unite.AI",
+      "site_name": "Unite.AI",
+      "ok": true,
+      "item_count": 42,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_meddevice",
+      "site_name": "高端医疗器械",
+      "ok": true,
+      "item_count": 41,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_infrasw",
+      "site_name": "基础软件与工业软件",
+      "ok": true,
+      "item_count": 32,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_embodied",
+      "site_name": "具身智能与机器人",
+      "ok": true,
+      "item_count": 31,
       "duration_ms": 0,
       "error": null
     },
@@ -290,10 +394,50 @@
       "error": null
     },
     {
+      "site_id": "trendscan_meddevice",
+      "site_name": "高端医疗器械",
+      "ok": true,
+      "item_count": 29,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "FT Alphaville",
       "site_name": "FT Alphaville",
       "ok": true,
       "item_count": 27,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_quantum",
+      "site_name": "量子科技",
+      "ok": true,
+      "item_count": 27,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_ai4science",
+      "site_name": "AI+科学",
+      "ok": true,
+      "item_count": 25,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_space",
+      "site_name": "商业航天",
+      "ok": true,
+      "item_count": 20,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "Astral Codex Ten",
+      "site_name": "Astral Codex Ten",
+      "ok": true,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null
     },
@@ -322,10 +466,114 @@
       "error": null
     },
     {
+      "site_id": "trendscan_embodied",
+      "site_name": "具身智能与机器人",
+      "ok": true,
+      "item_count": 18,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_quantum",
+      "site_name": "量子科技",
+      "ok": true,
+      "item_count": 17,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_6g",
+      "site_name": "6G与通信",
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_embodied",
+      "site_name": "具身智能与机器人",
+      "ok": true,
+      "item_count": 15,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_ai4science",
       "site_name": "AI+科学",
       "ok": true,
       "item_count": 15,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_space",
+      "site_name": "商业航天",
+      "ok": true,
+      "item_count": 14,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_quantum",
+      "site_name": "量子科技",
+      "ok": true,
+      "item_count": 14,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_infrasw",
+      "site_name": "基础软件与工业软件",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "MIT Technology Review (AI)",
+      "site_name": "MIT Technology Review (AI)",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_meddevice",
+      "site_name": "高端医疗器械",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_6g",
+      "site_name": "6G与通信",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_fusion",
+      "site_name": "核聚变与先进储能",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "Wired AI",
+      "site_name": "Wired AI",
+      "ok": true,
+      "item_count": 11,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_deepspace",
+      "site_name": "深空与深地探测",
+      "ok": true,
+      "item_count": 10,
       "duration_ms": 0,
       "error": null
     },
@@ -346,14 +594,6 @@
       "error": null
     },
     {
-      "site_id": "trendscan_6g",
-      "site_name": "6G与通信",
-      "ok": true,
-      "item_count": 10,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "trendscan_space",
       "site_name": "商业航天",
       "ok": true,
@@ -362,6 +602,14 @@
       "error": null
     },
     {
+      "site_id": "trendscan_infrasw",
+      "site_name": "基础软件与工业软件",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_6g",
       "site_name": "6G与通信",
       "ok": true,
@@ -370,8 +618,32 @@
       "error": null
     },
     {
+      "site_id": "Nobel Prize",
+      "site_name": "Nobel Prize",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "Our World in Data",
+      "site_name": "Our World in Data",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_ai4science",
       "site_name": "AI+科学",
+      "ok": true,
+      "item_count": 10,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_infrasw",
+      "site_name": "基础软件与工业软件",
       "ok": true,
       "item_count": 10,
       "duration_ms": 0,
@@ -394,16 +666,48 @@
       "error": null
     },
     {
-      "site_id": "trendscan_6g",
-      "site_name": "6G与通信",
+      "site_id": "trendscan_fusion",
+      "site_name": "核聚变与先进储能",
       "ok": true,
       "item_count": 9,
       "duration_ms": 0,
       "error": null
     },
     {
+      "site_id": "trendscan_deepspace",
+      "site_name": "深空与深地探测",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_meddevice",
+      "site_name": "高端医疗器械",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_synbio",
+      "site_name": "合成生物学与生物制造",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_nano",
       "site_name": "纳米技术",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_fusion",
+      "site_name": "核聚变与先进储能",
       "ok": true,
       "item_count": 8,
       "duration_ms": 0,
@@ -418,10 +722,50 @@
       "error": null
     },
     {
+      "site_id": "trendscan_ai4science",
+      "site_name": "AI+科学",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_bci",
+      "site_name": "脑机接口与神经工程",
+      "ok": true,
+      "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "zhihu",
       "site_name": "知乎",
       "ok": true,
       "item_count": 8,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_space",
+      "site_name": "商业航天",
+      "ok": true,
+      "item_count": 7,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_nano",
+      "site_name": "纳米技术",
+      "ok": true,
+      "item_count": 6,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "Quanta Magazine",
+      "site_name": "Quanta Magazine",
+      "ok": true,
+      "item_count": 5,
       "duration_ms": 0,
       "error": null
     },
@@ -442,6 +786,14 @@
       "error": null
     },
     {
+      "site_id": "trendscan_supercon",
+      "site_name": "超导与量子材料",
+      "ok": true,
+      "item_count": 4,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "zhihu",
       "site_name": "知乎",
       "ok": true,
@@ -458,12 +810,12 @@
       "error": null
     }
   ],
-  "successful_sites": 57,
+  "successful_sites": 101,
   "failed_sites": 0,
   "zero_item_sites": 0,
   "empty_advanced_sources": [],
-  "fetched_raw_items": 10033,
-  "items_before_topic_filter": 10033,
-  "items_in_24h": 1121,
+  "fetched_raw_items": 11790,
+  "items_before_topic_filter": 11790,
+  "items_in_24h": 1249,
   "rss_opml": "bridge"
 }
