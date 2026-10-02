@@ -1,13 +1,80 @@
 {
-  "generated_at": "2026-10-01T08:20:32.087480+00:00",
+  "generated_at": "2026-10-02T08:20:20.895271+00:00",
   "window_hours": 24,
   "total_stories": 21,
   "stories": [
     {
+      "story_id": "trendscan_18",
+      "title": "《机器人总动员》如何展示机器人工程学 - 知乎",
+      "url": "https://zhuanlan.zhihu.com/p/2089115253187536845?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+      "primary_url": "https://zhuanlan.zhihu.com/p/2089115253187536845?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+      "source": "知乎搜索:机器人",
+      "source_name": "知乎搜索:机器人",
+      "sources": [
+        "知乎搜索:机器人",
+        "知乎搜索:机器人",
+        "知乎搜索:机器人",
+        "知乎搜索:机器人",
+        "知乎搜索:机器人"
+      ],
+      "source_count": 5,
+      "source_names": [
+        "知乎搜索:机器人",
+        "知乎搜索:人工智能",
+        "知乎搜索:大模型",
+        "知乎搜索:AI",
+        "知乎热榜"
+      ],
+      "items": [
+        "https://zhuanlan.zhihu.com/p/2089115253187536845?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/20843899/answer/2088672360660464585?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/5472847261/answer/2089327847353610686?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2085011007097906455?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2084960302794388081?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/2064060062973289643/answer/2086500740319666311?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2086468651436318813?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2083565285265650828?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/13457479779/answer/2079080657960158469?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2081744872449614795?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2088955031533909821?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2087968310910509872?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2088944381923439727?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/316674332/answer/2088321826602730278?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/2084713276806542245?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://zhuanlan.zhihu.com/p/269284598?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/599328170/answer/2084908967159976323?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/46563853/answer/2087493090718258657?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/608763410/answer/2088416650798299050?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "https://www.zhihu.com/question/15233385904/answer/2088580405691733778?utm_medium=openapi_platform&utm_source=cf621feb3f2d"
+      ],
+      "item_count": 88,
+      "duplicate_count": 0,
+      "score": 70.55,
+      "importance": 0.8333333333333334,
+      "importance_score": 83,
+      "importance_label": "high",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "知乎 聚合 88 条"
+      ],
+      "earliest_at": "2026-10-02T04:45:34",
+      "latest_at": "2026-10-02 05:48:55",
+      "primary_item": {
+        "title": "《机器人总动员》如何展示机器人工程学 - 知乎",
+        "url": "https://zhuanlan.zhihu.com/p/2089115253187536845?utm_medium=openapi_platform&utm_source=cf621feb3f2d",
+        "source": "知乎搜索:机器人"
+      }
+    },
+    {
       "story_id": "trendscan_19",
-      "title": "华为Mate90价格",
-      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E4%BB%B7%E6%A0%BC",
-      "primary_url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E4%BB%B7%E6%A0%BC",
+      "title": "TOP林珍娜 嘴唇互补",
+      "url": "https://s.weibo.com/weibo?q=TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%20%E5%98%B4%E5%94%87%E4%BA%92%E8%A1%A5",
+      "primary_url": "https://s.weibo.com/weibo?q=TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%20%E5%98%B4%E5%94%87%E4%BA%92%E8%A1%A5",
       "source": "微博热搜",
       "source_name": "微博热搜",
       "sources": [
@@ -22,28 +89,28 @@
         "微博热搜"
       ],
       "items": [
-        "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E4%BB%B7%E6%A0%BC",
-        "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E9%98%B5%E5%AE%B9%E5%8F%91%E5%B8%83",
-        "https://s.weibo.com/weibo?q=%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%8F%91%E9%95%BF%E6%96%87%E5%B0%98%E5%9F%83%E7%BB%88%E5%B0%86%E8%90%BD%E5%AE%9A",
-        "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E9%98%BF%E4%B8%98%E8%A2%AB%E9%80%9A%E6%8A%A5",
-        "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%96%AD%E5%8F%A5%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1",
-        "https://s.weibo.com/weibo?q=2026%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95",
-        "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E6%8A%8A%E8%8A%AF%E7%89%87%E9%87%8C%E7%9A%84%E5%BC%AF%E8%B7%AF%E8%B5%B0%E7%9B%B4%E4%BA%86",
-        "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E6%97%A6%E4%BC%9A%E7%A9%BF%E6%90%AD",
-        "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E5%A4%AA%E5%B9%B3%E9%B8%9F",
-        "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%89%BF%E9%93%89%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2",
-        "https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BC%9A%E7%A9%BF%E6%90%AD%E7%9A%84%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B",
-        "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE",
-        "https://s.weibo.com/weibo?q=%E8%91%A3%E7%92%87%E5%9B%9E%E5%BA%94%E5%86%8D%E5%A9%9A%E5%8E%9F%E5%9B%A0",
-        "https://s.weibo.com/weibo?q=%E6%AD%A6%E4%BE%AF%E7%A5%A0%E6%8A%8A%E9%9D%9E%E9%81%97%E5%B8%82%E9%9B%86%E7%8E%A9%E6%88%90%E4%BA%86%E4%B8%89%E5%9B%BD%E5%89%AF%E6%9C%AC",
-        "https://s.weibo.com/weibo?q=%E6%B7%A1%E6%B7%A1%E5%A6%88%E5%A6%88%E4%B8%BA%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E9%B8%A3%E4%B8%8D%E5%B9%B3",
-        "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87vs%E6%96%BD%E6%99%97",
-        "https://s.weibo.com/weibo?q=Mate90%E5%85%A8%E7%B3%BB%E6%90%AD%E8%BD%BD%E6%97%97%E8%88%B0%E9%9F%AC%E8%8A%AF%E7%89%87",
-        "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E9%A6%96%E5%8F%91%E6%A8%A1%E5%9D%97%E7%9B%B8%E6%9C%BA",
-        "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%AE%98%E5%AE%A3XMAGE%E4%B8%AD%E6%96%87%E5%90%8D",
-        "https://s.weibo.com/weibo?q=Mate90%E7%B3%BB%E5%88%97%E5%8D%87%E7%BA%A7%E7%9D%BF%E5%BD%B1%E7%BA%A2%E6%9E%AB%E4%BA%BA%E5%83%8F"
+        "https://s.weibo.com/weibo?q=TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%20%E5%98%B4%E5%94%87%E4%BA%92%E8%A1%A5",
+        "https://s.weibo.com/weibo?q=%E9%95%BF%E5%BE%97%E5%83%8F%E9%83%AD%E7%A2%A7%E5%A9%B7%E8%A2%AB%E6%8B%89%E5%8E%BB%E5%92%8C%E5%90%91%E4%BD%90%E7%9B%B4%E6%92%AD",
+        "https://s.weibo.com/weibo?q=%E5%A4%9A%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E5%84%BF%E7%AB%A5%E8%A3%85%E9%93%B6%E9%B3%95%E9%B1%BC",
+        "https://s.weibo.com/weibo?q=%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9F%B3%E4%B9%90%E6%95%99%E5%B8%88%E5%9C%A8%E6%B3%B0%E5%9B%BD%E5%A4%B1%E8%81%94",
+        "https://s.weibo.com/weibo?q=86%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%8F%92%E6%9B%B2%E4%BD%9C%E6%9B%B2%E7%BB%B4%E6%9D%83",
+        "https://s.weibo.com/weibo?q=%E5%8D%97%E6%9E%9D%20%E9%83%BD%E8%AF%B4%E4%BA%86%E6%98%AF%E5%90%BE%E5%A6%BB%E6%B7%91%E6%9F%94",
+        "https://s.weibo.com/weibo?q=%E8%A5%BF%E8%A5%BF%E9%87%8C%E5%81%B6%E9%81%87%E6%AA%80%E5%81%A5%E6%AC%A1%E5%BA%A6%E5%81%87",
+        "https://s.weibo.com/weibo?q=%E4%B8%A4%E9%98%9F%E8%80%81%E5%B9%B4%E6%9A%B4%E8%B5%B0%E5%9B%A2%E6%9C%89%E4%BA%BA%E4%BA%92%E6%89%87%E8%80%B3%E5%85%89",
+        "https://s.weibo.com/weibo?q=%E6%9D%9C%E4%BC%A65%E5%B9%B42%E4%BA%BF%E7%BB%AD%E7%BA%A6%E6%B4%BB%E5%A1%9E",
+        "https://s.weibo.com/weibo?q=%E6%9D%A8%E9%95%BF%E9%A1%BA%E6%8B%86%E8%A7%A3%E5%8D%8E%E4%B8%BA%E5%B7%A8%E7%82%AE",
+        "https://s.weibo.com/weibo?q=%E5%9C%A8%E5%9B%BD%E5%A4%96%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%BC%94%E5%91%98%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD",
+        "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E5%86%A0%E5%86%9B%E5%86%99%E8%BF%9B%E5%B1%A5%E5%8E%86%E5%81%9A%E4%BA%BA%E7%95%99%E5%9C%A8%E4%BA%BA%E5%BF%83%E9%87%8C",
+        "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E7%81%AB%E7%83%AD%E5%8F%AF%E6%9C%9F",
+        "https://s.weibo.com/weibo?q=%E6%9B%9DC%E7%BD%97%E9%80%80%E9%98%9F%E4%B8%8E%E8%BF%B7%E4%BD%A0%E7%BD%97%E8%90%BD%E9%80%89%E6%9C%89%E5%85%B3",
+        "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%94%9F%E6%B0%94%E4%BA%86",
+        "https://s.weibo.com/weibo?q=%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E4%B8%8A%E5%BA%A7%E7%BA%A6%E5%85%AD%E6%88%90",
+        "https://s.weibo.com/weibo?q=%E6%9E%97%E9%94%A6%E5%B2%90%E8%AE%A4%E5%87%BA%E8%AE%B8%E5%85%B0%E9%A6%99%E5%85%88%E7%83%A7%E8%AF%81%E6%8D%AE",
+        "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4",
+        "https://s.weibo.com/weibo?q=%E9%99%88%E6%80%9D%E8%AF%9A%E8%BF%98%E6%98%AF%E5%BF%98%E4%B8%8D%E4%BA%86%E7%A7%A6%E6%98%8A",
+        "https://s.weibo.com/weibo?q=%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E6%80%BB%E5%BA%97%E5%91%98%E5%B7%A5%E4%BB%8E180%E4%BA%BA%E5%87%8F%E8%87%B330%E5%A4%9A%E4%BA%BA"
       ],
-      "item_count": 87,
+      "item_count": 59,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -56,21 +123,89 @@
       },
       "category": "trendscan",
       "reasons": [
-        "微博热搜 聚合 87 条"
+        "微博热搜 聚合 59 条"
       ],
-      "earliest_at": "2026-10-01T02:39:46",
-      "latest_at": "2026-10-01T04:45:35",
+      "earliest_at": "2026-10-02T04:26:26",
+      "latest_at": "2026-10-02T04:45:23",
       "primary_item": {
-        "title": "华为Mate90价格",
-        "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAMate90%E4%BB%B7%E6%A0%BC",
+        "title": "TOP林珍娜 嘴唇互补",
+        "url": "https://s.weibo.com/weibo?q=TOP%E6%9E%97%E7%8F%8D%E5%A8%9C%20%E5%98%B4%E5%94%87%E4%BA%92%E8%A1%A5",
         "source": "微博热搜"
       }
     },
     {
+      "story_id": "trendscan_17",
+      "title": "从零手搓一个Agent，看完你也会",
+      "url": "https://www.bilibili.com/video/BV1CWee6WEYf",
+      "primary_url": "https://www.bilibili.com/video/BV1CWee6WEYf",
+      "source": "B站 搜索:AI Agent",
+      "source_name": "B站 搜索:AI Agent",
+      "sources": [
+        "B站 搜索:AI Agent",
+        "B站 搜索:AI Agent",
+        "B站 搜索:AI Agent",
+        "B站 搜索:AI Agent",
+        "B站 搜索:人工智能"
+      ],
+      "source_count": 6,
+      "source_names": [
+        "B站 搜索:AI Agent",
+        "B站 搜索:人工智能",
+        "B站 搜索:科技数码",
+        "B站 搜索:机器人",
+        "B站 搜索:AI 大模型",
+        "B站 热门"
+      ],
+      "items": [
+        "https://www.bilibili.com/video/BV1CWee6WEYf",
+        "https://www.bilibili.com/video/BV1u6aB6GEDD",
+        "https://www.bilibili.com/video/BV1tUja6mErW",
+        "https://www.bilibili.com/video/BV1m2aB6TEwq",
+        "https://www.bilibili.com/video/BV12Rak67EKR",
+        "https://www.bilibili.com/video/BV1iDYw6QEFh",
+        "https://www.bilibili.com/video/BV1Xkak6xEeU",
+        "https://www.bilibili.com/video/BV1zChd6uEzn",
+        "https://www.bilibili.com/video/BV1ikaW6CEwL",
+        "https://www.bilibili.com/video/BV15Haa6cEDz",
+        "https://www.bilibili.com/video/BV1hPa66yEA2",
+        "https://www.bilibili.com/video/BV1o9YP6tEMk",
+        "https://www.bilibili.com/video/BV1Xkak6xEES",
+        "https://www.bilibili.com/video/BV17Eao6uEuB",
+        "https://www.bilibili.com/video/BV1vpao6iEPL",
+        "https://www.bilibili.com/video/BV1GZaz6UEjV",
+        "https://www.bilibili.com/video/BV1MPa66yEdY",
+        "https://www.bilibili.com/video/BV1ZQaE6wE1P",
+        "https://www.bilibili.com/video/BV1BhtB6CECf",
+        "https://www.bilibili.com/video/BV1Yra96dEbo"
+      ],
+      "item_count": 59,
+      "duplicate_count": 0,
+      "score": 85.0,
+      "importance": 1.0,
+      "importance_score": 100,
+      "importance_label": "high",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "B站 聚合 59 条"
+      ],
+      "earliest_at": "2026-10-02 04:25:59",
+      "latest_at": "2026-10-02 04:30:56",
+      "primary_item": {
+        "title": "从零手搓一个Agent，看完你也会",
+        "url": "https://www.bilibili.com/video/BV1CWee6WEYf",
+        "source": "B站 搜索:AI Agent"
+      }
+    },
+    {
       "story_id": "trendscan_22",
-      "title": "华为Mate90全系搭载旗舰韬芯片",
-      "url": "https://www.toutiao.com/trending/7691528727615786538",
-      "primary_url": "https://www.toutiao.com/trending/7691528727615786538",
+      "title": "中国亚运军团里的“后浪”真敢",
+      "url": "https://www.toutiao.com/trending/7691221937875320870",
+      "primary_url": "https://www.toutiao.com/trending/7691221937875320870",
       "source": "头条热搜",
       "source_name": "头条热搜",
       "sources": [
@@ -85,28 +220,28 @@
         "头条热搜"
       ],
       "items": [
-        "https://www.toutiao.com/trending/7691528727615786538",
-        "https://www.toutiao.com/trending/7690860475143438379",
-        "https://www.toutiao.com/trending/7691312266650878015",
-        "https://www.toutiao.com/trending/7690117944391450643",
-        "https://www.toutiao.com/trending/7691530166606040626",
-        "https://www.toutiao.com/trending/7691537174281326118",
-        "https://www.toutiao.com/trending/7691288062508400694",
-        "https://www.toutiao.com/trending/7691524859007864347",
-        "https://www.toutiao.com/trending/7690947709964238867",
-        "https://www.toutiao.com/trending/7691455822107607094",
-        "https://www.toutiao.com/trending/7691242221919538698",
-        "https://www.toutiao.com/trending/7691185020040839194",
-        "https://www.toutiao.com/trending/7691208666090835492",
-        "https://www.toutiao.com/trending/7690730056256684070",
-        "https://www.toutiao.com/trending/7691515143930252843",
-        "https://www.toutiao.com/trending/7690945976156307483",
-        "https://www.toutiao.com/trending/7691527279435923499",
-        "https://www.toutiao.com/trending/7691137412071751722",
-        "https://www.toutiao.com/trending/7690874466779447337",
-        "https://www.toutiao.com/trending/7690495850711973915"
+        "https://www.toutiao.com/trending/7691221937875320870",
+        "https://www.toutiao.com/trending/7691287488371474470",
+        "https://www.toutiao.com/trending/7691710594247999531",
+        "https://www.toutiao.com/trending/7691230087659831359",
+        "https://www.toutiao.com/trending/7691835250082791986",
+        "https://www.toutiao.com/trending/7691734778130730537",
+        "https://www.toutiao.com/trending/7691320455885979691",
+        "https://www.toutiao.com/trending/7691907765334392873",
+        "https://www.toutiao.com/trending/7690544731998391851",
+        "https://www.toutiao.com/trending/7690954212159193151",
+        "https://www.toutiao.com/article/7691783236309090850",
+        "https://www.toutiao.com/trending/7690801154955575339",
+        "https://www.toutiao.com/trending/7691564295507214386",
+        "https://www.toutiao.com/trending/7691533447906590783",
+        "https://www.toutiao.com/trending/7691891527051853843",
+        "https://www.toutiao.com/trending/7691186743206314026",
+        "https://www.toutiao.com/trending/7691510296900894761",
+        "https://www.toutiao.com/trending/7691203491251372073",
+        "https://www.toutiao.com/trending/7690946672423210539",
+        "https://www.toutiao.com/trending/7691637840761733156"
       ],
-      "item_count": 68,
+      "item_count": 55,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -119,150 +254,21 @@
       },
       "category": "trendscan",
       "reasons": [
-        "头条热搜 聚合 68 条"
+        "头条热搜 聚合 55 条"
       ],
-      "earliest_at": "2026-10-01T02:39:55",
-      "latest_at": "2026-10-01T04:45:45",
+      "earliest_at": "2026-10-02T04:26:37",
+      "latest_at": "2026-10-02T04:45:32",
       "primary_item": {
-        "title": "华为Mate90全系搭载旗舰韬芯片",
-        "url": "https://www.toutiao.com/trending/7691528727615786538",
+        "title": "中国亚运军团里的“后浪”真敢",
+        "url": "https://www.toutiao.com/trending/7691221937875320870",
         "source": "头条热搜"
       }
     },
     {
-      "story_id": "trendscan_17",
-      "title": "赛博机器人角斗大赛，谁说中国没有铁甲钢拳？【AI全民制作人】",
-      "url": "https://www.bilibili.com/video/BV1EKYw6XEHg",
-      "primary_url": "https://www.bilibili.com/video/BV1EKYw6XEHg",
-      "source": "B站 搜索:机器人",
-      "source_name": "B站 搜索:机器人",
-      "sources": [
-        "B站 搜索:机器人",
-        "B站 搜索:AI 大模型",
-        "B站 搜索:AI 大模型",
-        "B站 搜索:AI 大模型",
-        "B站 热门"
-      ],
-      "source_count": 4,
-      "source_names": [
-        "B站 搜索:机器人",
-        "B站 搜索:AI 大模型",
-        "B站 热门",
-        "B站 搜索:科技数码"
-      ],
-      "items": [
-        "https://www.bilibili.com/video/BV1EKYw6XEHg",
-        "https://www.bilibili.com/video/BV1aDaW6MEEX",
-        "https://www.bilibili.com/video/BV1eCaH6NE2z",
-        "https://www.bilibili.com/video/BV1dxaf6GE8p",
-        "https://www.bilibili.com/video/BV1wbad6CEFf",
-        "https://www.bilibili.com/video/BV1Faad6rEe7",
-        "https://www.bilibili.com/video/BV1QgaZ6YE8c",
-        "https://www.bilibili.com/video/BV1PSaf6dELr",
-        "https://www.bilibili.com/video/BV16oao6VEAt",
-        "https://www.bilibili.com/video/BV1LFad6YEB7",
-        "https://www.bilibili.com/video/BV1cDap6JEVa",
-        "https://www.bilibili.com/video/BV1XjhH6fEsU",
-        "https://www.bilibili.com/video/BV1cLaL6cEig",
-        "https://www.bilibili.com/video/BV16iaZ62EXS",
-        "https://www.bilibili.com/video/BV1hzhC6WEwe",
-        "https://www.bilibili.com/video/BV1rGao6VE5J",
-        "https://www.bilibili.com/video/BV1GjYF6MEPi",
-        "https://www.bilibili.com/video/BV1YAe16qEGW",
-        "https://www.bilibili.com/video/BV1gSe16KE8M",
-        "https://www.bilibili.com/video/BV151bjzZE5V"
-      ],
-      "item_count": 44,
-      "duplicate_count": 0,
-      "score": 56.1,
-      "importance": 0.6666666666666666,
-      "importance_score": 66,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 1.0,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "B站 聚合 44 条"
-      ],
-      "earliest_at": "2026-10-01 02:39:36",
-      "latest_at": "2026-10-01 04:30:51",
-      "primary_item": {
-        "title": "赛博机器人角斗大赛，谁说中国没有铁甲钢拳？【AI全民制作人】",
-        "url": "https://www.bilibili.com/video/BV1EKYw6XEHg",
-        "source": "B站 搜索:机器人"
-      }
-    },
-    {
-      "story_id": "trendscan_18",
-      "title": "前有张雪机车团队在意大利被盗，后有惠英红团队巴黎遇抢劫，为啥欧洲小偷都这么猖獗？海外遇抢劫该如何应对？",
-      "url": "https://www.zhihu.com/question/2088690399845902204",
-      "primary_url": "https://www.zhihu.com/question/2088690399845902204",
-      "source": "知乎热榜",
-      "source_name": "知乎热榜",
-      "sources": [
-        "知乎热榜",
-        "知乎热榜",
-        "知乎热榜",
-        "知乎热榜",
-        "知乎热榜"
-      ],
-      "source_count": 1,
-      "source_names": [
-        "知乎热榜"
-      ],
-      "items": [
-        "https://www.zhihu.com/question/2088690399845902204",
-        "https://www.zhihu.com/question/2087929053441479782",
-        "https://www.zhihu.com/question/2088956328886678092",
-        "https://www.zhihu.com/question/2079307985957011515",
-        "https://www.zhihu.com/question/2088569106697908895",
-        "https://www.zhihu.com/question/2088665188237041777",
-        "https://www.zhihu.com/question/2088665087024354912",
-        "https://www.zhihu.com/question/2055710194500482083",
-        "https://www.zhihu.com/question/29370871",
-        "https://www.zhihu.com/question/2087630515687920074",
-        "https://www.zhihu.com/question/2069056042865006448",
-        "https://www.zhihu.com/question/2088582238271010192",
-        "https://www.zhihu.com/question/302935324",
-        "https://www.zhihu.com/question/2088012562457519505",
-        "https://www.zhihu.com/question/2085753079916388794",
-        "https://www.zhihu.com/question/2079838395874988448",
-        "https://www.zhihu.com/question/1928586591108035982",
-        "https://www.zhihu.com/question/2087701224590140233",
-        "https://www.zhihu.com/question/2083222866280171324",
-        "https://www.zhihu.com/question/268772430"
-      ],
-      "item_count": 38,
-      "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "知乎 聚合 38 条"
-      ],
-      "earliest_at": "2026-10-01T02:39:58",
-      "latest_at": "2026-10-01T04:45:49",
-      "primary_item": {
-        "title": "前有张雪机车团队在意大利被盗，后有惠英红团队巴黎遇抢劫，为啥欧洲小偷都这么猖獗？海外遇抢劫该如何应对？",
-        "url": "https://www.zhihu.com/question/2088690399845902204",
-        "source": "知乎热榜"
-      }
-    },
-    {
       "story_id": "trendscan_20",
-      "title": "长长长假给祖国整点新技艺",
-      "url": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA",
-      "primary_url": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA",
+      "title": "送你一百朵国庆烟花",
+      "url": "https://www.douyin.com/search/%E9%80%81%E4%BD%A0%E4%B8%80%E7%99%BE%E6%9C%B5%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1",
+      "primary_url": "https://www.douyin.com/search/%E9%80%81%E4%BD%A0%E4%B8%80%E7%99%BE%E6%9C%B5%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1",
       "source": "抖音热搜",
       "source_name": "抖音热搜",
       "sources": [
@@ -277,28 +283,28 @@
         "抖音热搜"
       ],
       "items": [
-        "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA",
-        "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E9%95%BF%E5%9C%A8%E6%98%A5%E9%A3%8E%E9%87%8C",
-        "https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9Fvs%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%A4%A7%E5%86%9B%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%85%A8%E4%B8%96%E7%95%8C",
-        "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate90%E5%AE%9A%E4%BB%B75999%E8%B5%B7",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F%E4%BB%8E%E7%9C%8B%E5%8D%87%E6%97%97%E5%BC%80%E5%A7%8B",
-        "https://www.douyin.com/search/%E6%8D%A2%E4%B8%8A%E7%BA%A2%E8%A3%85%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F",
-        "https://www.douyin.com/search/%E9%87%8D%E7%94%9F2%E7%99%BD%E5%AE%A2%E6%B4%BB%E5%9F%8B%E6%A2%81%E6%B4%9B%E6%96%BD%E7%94%B7%E9%AC%BC%E6%84%9F%E6%8B%89%E6%BB%A1",
-        "https://www.douyin.com/search/%E5%85%A8%E7%BD%91%E8%BF%9B%E5%85%A5%E4%B8%8D%E7%83%A7%E5%BF%83%E6%97%B6%E4%BB%A3",
-        "https://www.douyin.com/search/%E6%B2%A1%E6%83%B3%E5%88%B0%E7%A5%9E%E6%8E%A2%E4%B9%8B%E7%97%95%E8%BF%B9%E5%B0%BA%E5%BA%A6%E8%BF%99%E4%B9%88%E5%A4%A7",
-        "https://www.douyin.com/search/%E6%81%AD%E5%96%9C%E6%A1%83%E6%99%9A%E5%AE%89",
-        "https://www.douyin.com/search/%E5%BC%BA%E5%86%9B%E6%88%98%E6%AD%8C%E5%B0%8F%E6%8F%90%E7%90%B4%E6%BC%94%E7%BB%8E%E7%89%88",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E6%87%92%E4%BA%BA%E5%A5%97%E8%A3%85%E7%A9%BF%E6%90%AD",
-        "https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E5%BF%AB%E4%B9%90",
-        "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%B4%E7%BD%91",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E8%8A%82%E6%96%87%E6%A1%88",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%B8%80%E8%B5%B7%E5%90%88%E5%94%B1%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD",
-        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%85%AB%E4%B8%80%E5%B9%BF%E5%9C%BA%E5%8D%87%E6%97%97%E6%89%93%E5%8D%A1",
-        "https://www.douyin.com/search/%E5%96%9D%E6%97%A0%E9%86%87%E5%95%A4%E9%85%92%E5%BC%80%E8%BD%A6%E4%B8%8D%E7%AE%97%E9%85%92%E9%A9%BE%E7%B3%BB%E8%B0%A3%E8%A8%80"
+        "https://www.douyin.com/search/%E9%80%81%E4%BD%A0%E4%B8%80%E7%99%BE%E6%9C%B5%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1",
+        "https://www.douyin.com/search/%E4%BB%80%E4%B9%88%E6%98%AFskillcation",
+        "https://www.douyin.com/search/%E6%8A%93%E7%B4%A7%E4%BD%A0%E7%9A%84%E6%89%8B%20%E8%B5%B0%E8%BF%87%E6%88%91%E7%9A%84%E6%9C%9D%E6%9C%9D%E6%9A%AE%E6%9A%AE",
+        "https://www.douyin.com/search/%E7%94%A8%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%E9%A3%9F%E6%9D%90%E5%81%9A%E4%B8%80%E6%A1%8C%E5%9B%BD%E5%BA%86%E5%AE%B6%E5%AE%B4",
+        "https://www.douyin.com/search/%E9%82%A3%E5%B9%B4%E6%A2%A8%E8%8A%B1%E7%98%A6%E4%BD%A0%E8%A6%81%E8%B5%B0",
+        "https://www.douyin.com/search/%E9%AA%91%E7%9D%80%E5%8D%95%E8%BD%A6%E8%AE%A9%E7%BA%A2%E6%97%97%E9%A3%98%E8%BF%87%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3",
+        "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E6%AD%A6%E6%B1%89%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%A7%E7%89%87",
+        "https://www.douyin.com/search/%E6%9C%80%E9%AA%84%E5%82%B2%E7%9A%84%E9%A2%9C%E8%89%B2%E6%9D%A5%E8%87%AA%E5%B1%B1%E6%B2%B3",
+        "https://www.douyin.com/search/%E8%B5%A4%E5%A3%81%E4%B9%8B%E6%88%98%E6%9C%AA%E5%BF%85%E6%9C%89%E8%BF%99%E8%A7%84%E6%A8%A1",
+        "https://www.douyin.com/search/%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4",
+        "https://www.douyin.com/search/%E4%BA%9A%E8%BF%90%E9%93%9C%E7%89%8C%E6%88%98%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3vs%E9%9F%A9%E5%9B%BD",
+        "https://www.douyin.com/search/%E8%8B%B1%E9%9B%84%E5%9F%8E%E5%8D%97%E6%98%8C%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1%E5%A4%AA%E6%B5%AA%E6%BC%AB",
+        "https://www.douyin.com/search/%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%A0%B4%E5%B1%80",
+        "https://www.douyin.com/search/%E6%89%80%E8%B0%93%E2%80%9C12306%E5%80%99%E8%A1%A5%E5%A6%99%E6%8B%9B%E2%80%9D%E9%83%BD%E6%98%AF%E5%81%87%E7%9A%84",
+        "https://www.douyin.com/search/C%E7%BD%97%E8%8E%B1%E5%A5%A5%E5%90%8C%E4%B8%BA%E8%91%A1%E8%90%84%E7%89%99%E9%98%9F7%E5%8F%B7",
+        "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E5%BC%80%E5%90%AF%E6%B0%94%E6%B3%A1%E7%86%8A%E5%8D%96%E8%90%8C%E6%A8%A1%E5%BC%8F",
+        "https://www.douyin.com/search/%E8%B4%BA%E5%85%B0%E5%B1%B1%E6%97%A5%E5%87%BA%E9%85%8D%E5%9B%BD%E6%97%97%E5%A4%AA%E7%87%83%E4%BA%86",
+        "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E5%96%9C%E5%89%A7%E6%82%AC%E7%96%91%E5%A5%BD%E7%9C%8B",
+        "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%90%85%E7%90%8A%E5%8F%A4%E5%9F%8E%E6%B8%B8%E7%8E%A9%E6%94%BB%E7%95%A5%E8%AF%B7%E6%94%B6%E5%A5%BD",
+        "https://www.douyin.com/search/%E8%8A%B1%E5%B0%8F%E9%BE%99%E5%B8%A6%E5%B0%8F%E6%B2%88%E9%98%B3%E8%87%AA%E5%BE%8B%E7%9A%84%E4%B8%80%E5%A4%A9"
       ],
-      "item_count": 37,
+      "item_count": 36,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -311,58 +317,58 @@
       },
       "category": "trendscan",
       "reasons": [
-        "抖音热搜 聚合 37 条"
+        "抖音热搜 聚合 36 条"
       ],
-      "earliest_at": "2026-10-01T02:39:50",
-      "latest_at": "2026-10-01T04:45:40",
+      "earliest_at": "2026-10-02T04:26:30",
+      "latest_at": "2026-10-02T04:45:26",
       "primary_item": {
-        "title": "长长长假给祖国整点新技艺",
-        "url": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA",
+        "title": "送你一百朵国庆烟花",
+        "url": "https://www.douyin.com/search/%E9%80%81%E4%BD%A0%E4%B8%80%E7%99%BE%E6%9C%B5%E5%9B%BD%E5%BA%86%E7%83%9F%E8%8A%B1",
         "source": "抖音热搜"
       }
     },
     {
-      "story_id": "trendscan_05",
-      "title": "The risk of space debris falling to Earth and causing deaths ...",
-      "url": "https://www.space.com/space-exploration/satellites/the-risk-of-space-debris-falling-to-earth-and-causing-deaths-and-is-growing-experts-say",
-      "primary_url": "https://www.space.com/space-exploration/satellites/the-risk-of-space-debris-falling-to-earth-and-causing-deaths-and-is-growing-experts-say",
-      "source": "AnySearch 空间 (商业航天与卫星互联网)",
-      "source_name": "AnySearch 空间 (商业航天与卫星互联网)",
+      "story_id": "trendscan_23",
+      "title": "What Does the Fourth Dimension Actually Look Like?",
+      "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "primary_url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+      "source": "Quanta Magazine",
+      "source_name": "Quanta Magazine",
       "sources": [
-        "AnySearch 空间 (商业航天与卫星互联网)",
-        "AnySearch 空间 (商业航天与卫星互联网)",
-        "AnySearch 空间 (商业航天与卫星互联网)",
-        "AnySearch 空间 (商业航天与卫星互联网)",
-        "AnySearch 空间 (商业航天与卫星互联网)"
+        "Quanta Magazine",
+        "Unite.AI",
+        "Unite.AI",
+        "Unite.AI",
+        "Unite.AI"
       ],
       "source_count": 4,
       "source_names": [
-        "AnySearch 空间 (商业航天与卫星互联网)",
-        "NASA News",
-        "Space News",
-        "Ars Technica Space"
+        "Quanta Magazine",
+        "Unite.AI",
+        "Wired AI",
+        "Astral Codex Ten"
       ],
       "items": [
-        "https://www.space.com/space-exploration/satellites/the-risk-of-space-debris-falling-to-earth-and-causing-deaths-and-is-growing-experts-say",
-        "https://www.reddit.com/r/technews/comments/1w819ks/first_3d_metal_part_printed_in_space_is_a/",
-        "https://interestingengineering.com/space/astronauts-to-3dprint-circuits-in-space",
-        "https://www.linkedin.com/posts/9-months-later_bioorbit-is-exploring-drug-manufacturing-activity-7476560303531593729-zrea",
-        "https://caddcentre.com/blog/3d-printing-in-space-revolution/",
-        "https://www.sciencedirect.com/org/science/article/pii/S2692765926000426",
-        "https://content.govdelivery.com/accounts/CAELSEGUNDO/bulletins/35fcead",
-        "https://www.facebook.com/TechBriefsMagazine/posts/flexible-silicon-photovoltaics-a-breakthrough-in-space-grade-solar-powerin-space/1487544856064837/",
-        "https://actcotool.com/how-microgravity-shapes-advanced-machining-and-additive-manufacturing-in-space/",
-        "https://www.instagram.com/p/Dd6gCfXlx1I/",
-        "https://bevjobs.breakthroughenergy.org/companies/cowboy-space-corporation/jobs/95241659-senior-site-safety-manager",
-        "https://starlink.com/technology?srsltid=AU7gw4XWuv49LXyH84uSNSncl9AcW7-kCkC95-0El_kpISGBWO2hVPWD",
-        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4WcF5I92QW5zdKk1Iysf0-dxSYtH2iOiHwC9ynuJ0aD7U3SMOz3",
-        "https://www.youtube.com/watch?v=mlfzT_nD6GE",
-        "https://science.nasa.gov/earth/earth-observatory/powerful-storms-continue-to-prowl-the-pacific/",
-        "https://science.nasa.gov/image-article/apod-2026-september-30-arp-78-peculiar-galaxy-in-aries/",
-        "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
-        "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
-        "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
-        "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+        "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+        "https://www.unite.ai/cellcarta-imagene-ai-broaden-ties-on-ai-biomarkers-companion-diagnostics/",
+        "https://www.unite.ai/ai-data-governance-audit-trails-legal-compliance/",
+        "https://www.unite.ai/ymx-outrider-sign-five-year-self-driving-yard-truck-partnership/",
+        "https://www.unite.ai/why-ai-pilots-fail-finance-operating-model/",
+        "https://www.unite.ai/bloomberg-closes-acquisition-of-ai-private-markets-platform-canoe/",
+        "https://www.unite.ai/adventhealth-makes-openevidence-available-across-clinical-roles/",
+        "https://www.unite.ai/llamaindex-launches-extract-v2-5-with-accuracy-and-grounding-gains/",
+        "https://www.unite.ai/ai2-releases-olmo-core-3-open-training-stack-for-trillion-parameter-moes/",
+        "https://www.unite.ai/ai-procurement-rules-vendor-risk-governance/",
+        "https://www.unite.ai/volantis-raises-88m-series-a-to-build-photonic-ai-inference-system/",
+        "https://www.unite.ai/lokdeep-singh-ceo-of-unily-interview-series/",
+        "https://www.unite.ai/google-brings-real-time-visual-assistance-to-blind-users-on-android/",
+        "https://www.unite.ai/shopify-rolls-out-canvas-a-sidekick-powered-store-design-surface/",
+        "https://www.unite.ai/on-prem-voice-agents-get-new-hardware-path-as-smallest-ai-joins-tenstorrent/",
+        "https://www.unite.ai/leo-brunnick-chief-product-officer-at-cloudera-interview-series/",
+        "https://www.unite.ai/schwartz-releases-bootloops-1-0-an-open-source-llm-harness-for-science/",
+        "https://www.unite.ai/sony-unveils-qssr-a-new-ai-upscaling-tier-for-the-standard-ps5/",
+        "https://www.unite.ai/decagon-expands-ai-concierge-platform-with-four-new-releases/",
+        "https://www.unite.ai/decagon-introduces-voice-3-agent-with-chord-speech-model/"
       ],
       "item_count": 29,
       "duplicate_count": 0,
@@ -377,95 +383,29 @@
       },
       "category": "trendscan",
       "reasons": [
-        "商业航天 聚合 29 条"
+        "23 聚合 29 条"
       ],
-      "earliest_at": "2026-10-01T00:24:08",
-      "latest_at": "2026-10-01 04:08:00",
+      "earliest_at": "2026-10-02T01:08:13",
+      "latest_at": "2026-10-01T13:20:29",
       "primary_item": {
-        "title": "The risk of space debris falling to Earth and causing deaths ...",
-        "url": "https://www.space.com/space-exploration/satellites/the-risk-of-space-debris-falling-to-earth-and-causing-deaths-and-is-growing-experts-say",
-        "source": "AnySearch 空间 (商业航天与卫星互联网)"
-      }
-    },
-    {
-      "story_id": "trendscan_13",
-      "title": "DeepSeek 开源昇腾基础组件",
-      "url": "https://www.oschina.net/news/502814",
-      "primary_url": "https://www.oschina.net/news/502814",
-      "source": "开源中国",
-      "source_name": "开源中国",
-      "sources": [
-        "开源中国",
-        "开源中国",
-        "开源中国",
-        "开源中国",
-        "开源中国"
-      ],
-      "source_count": 4,
-      "source_names": [
-        "开源中国",
-        "The New Stack",
-        "CNCF Blog",
-        "SD Times"
-      ],
-      "items": [
-        "https://www.oschina.net/news/502814",
-        "https://www.oschina.net/news/502815",
-        "https://www.oschina.net/news/502816",
-        "https://www.oschina.net/news/502817",
-        "https://www.oschina.net/news/502818",
-        "https://www.oschina.net/news/502820/openai-dots",
-        "https://www.oschina.net/news/502823",
-        "https://www.oschina.net/news/502825",
-        "https://www.oschina.net/news/502827/google-ending-chromeos-support-two-years-early",
-        "https://www.oschina.net/news/502831/openai-gpt-6-1-sol",
-        "https://www.oschina.net/news/502832",
-        "https://www.oschina.net/news/502833",
-        "https://www.oschina.net/news/502835/anthropic-research-glm-5-3-advanced-cyber-capabilities",
-        "https://thenewstack.io/openclaw-enterprise-kubernetes-agents/",
-        "https://www.cncf.io/blog/2026/09/30/from-40-seconds-to-under-10-rebuilding-incident-detection-on-opentelemetry-apache-kafka-and-apache-flink-on-kubernetes/",
-        "https://thenewstack.io/eclipse-sovereign-ai-foundation/",
-        "https://thenewstack.io/cra-readiness-starts-codebase/",
-        "https://thenewstack.io/kill-code-review-theater/",
-        "https://thenewstack.io/microsoft-fabric-agent-context/",
-        "https://thenewstack.io/ai-agents-production-data/"
-      ],
-      "item_count": 28,
-      "duplicate_count": 0,
-      "score": 56.1,
-      "importance": 0.6666666666666666,
-      "importance_score": 66,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 1.0,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "基础软件与工业软件 聚合 28 条"
-      ],
-      "earliest_at": "2026-09-30T20:00:00",
-      "latest_at": "2026-09-30T04:40:55",
-      "primary_item": {
-        "title": "DeepSeek 开源昇腾基础组件",
-        "url": "https://www.oschina.net/news/502814",
-        "source": "开源中国"
+        "title": "What Does the Fourth Dimension Actually Look Like?",
+        "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001/",
+        "source": "Quanta Magazine"
       }
     },
     {
       "story_id": "trendscan_04",
-      "title": "Fusion News, June 24, 2026",
-      "url": "https://www.youtube.com/watch?v=a0jZ96VvtVA",
-      "primary_url": "https://www.youtube.com/watch?v=a0jZ96VvtVA",
+      "title": "Alkaline-based aqueous sodium-ion batteries for large- ...",
+      "url": "https://www.nature.com/articles/s41467-024-44855-6",
+      "primary_url": "https://www.nature.com/articles/s41467-024-44855-6",
       "source": "AnySearch 能源 (核聚变与先进储能)",
       "source_name": "AnySearch 能源 (核聚变与先进储能)",
       "sources": [
         "AnySearch 能源 (核聚变与先进储能)",
         "AnySearch 能源 (核聚变与先进储能)",
         "AnySearch 能源 (核聚变与先进储能)",
-        "ScienceDaily Energy",
-        "Energy Storage News"
+        "AnySearch 能源 (核聚变与先进储能)",
+        "AnySearch 能源 (核聚变与先进储能)"
       ],
       "source_count": 4,
       "source_names": [
@@ -475,28 +415,28 @@
         "PV Magazine"
       ],
       "items": [
-        "https://www.youtube.com/watch?v=a0jZ96VvtVA",
-        "https://www.ans.org/news/article-7765/fusion-roundup-helion-sets-temperature-record-inertia-raises-450m/",
-        "https://www.gov.ca.gov/2026/09/30/governor-newsom-signs-legislation-to-accelerate-californias-fusion-industry-announces-major-investment-for-quantum-research/",
-        "https://www.sciencedaily.com/releases/2026/09/260929053550.htm",
-        "https://www.energy-storage.news/spain-is-making-batteries-a-licensing-condition-for-data-centres-and-nobody-noticed/",
-        "https://www.energy-storage.news/kerala-indian-state-proposes-five-year-electricity-tariff-framework-with-new-provisions-for-bess/",
-        "https://www.pv-magazine.com/2026/09/30/cubas-pv-capacity-tops-1-4-gw/",
-        "https://www.pv-magazine.com/2026/09/30/panasonic-deploys-fuel-cell-heat-pump-at-pv-powered-hydrogen-house/",
-        "https://www.energy-storage.news/availability-why-this-bess-performance-metric-matters-so-much-and-how-to-calculate-it/",
-        "https://www.pv-magazine.com/2026/09/30/researchers-test-laminated-bamboo-structures-for-floating-pv-platforms/",
-        "https://www.pv-magazine.com/2026/09/30/ireland-introduces-e600-residential-battery-grant-expands-pv-support/",
-        "https://www.energy-storage.news/volkswagens-new-lfp-battery-jvs-with-gotion-will-adjust-ev-and-bess-cell-production-split-based-on-demand/",
-        "https://www.pv-magazine.com/2026/09/30/belgium-reveals-results-of-pv-cable-assessment/",
-        "https://www.pv-magazine.com/2026/09/30/eus-largest-solar-project-reaches-financial-close/",
-        "https://www.pv-magazine.com/2026/09/30/fox-ess-launches-modular-ci-battery-system-scalable-to-96-mwh/",
-        "https://www.energy-storage.news/northland-power-puts-canadian-province-of-albertas-largest-bess-into-operation/",
-        "https://www.energy-storage.news/us-utilities-ameren-missouri-dte-energy-in-michigan-and-black-hills-energy-in-colorado-submit-irps-with-highlighted-bess-additions/",
-        "https://www.pv-magazine.com/2026/09/30/chinese-scientists-develop-hydrogen-powered-co%e2%82%82-heat-pump-with-pcm-storage/",
-        "https://www.pv-magazine.com/2026/09/30/over-easy-solar-launches-256-w-vertical-rooftop-pv-unit/",
-        "https://www.pv-magazine.com/2026/09/30/the-rationale-behind-the-uks-largest-compressed-air-energy-storage-plan/"
+        "https://www.nature.com/articles/s41467-024-44855-6",
+        "https://www.facebook.com/groups/849994733672039/posts/1494411172563722/",
+        "https://www.facebook.com/theelectricvikingfb/posts/solid-state-batteries-finally-have-a-price-and-its-surprisingly-lowvolkswagen-ba/1526233732857652/",
+        "https://www.youtube.com/watch?v=jvt25N-avDQ",
+        "https://www.sciencealert.com/breakthrough-evidence-nuclear-fusion-flaw-could-actually-be-part-of-the-solution",
+        "https://www.facebook.com/61554988015714/videos/4713345258922022/",
+        "https://www.sciencedaily.com/releases/2026/09/260928100554.htm",
+        "https://www.energy-storage.news/sungrow-completes-108mw-grid-forming-battery-storage-system-with-black-start-capability-in-cambodia/",
+        "https://www.energy-storage.news/it-will-work-and-itll-be-in-australia-eora-energy-on-the-future-of-vanadium-flow-batteries/",
+        "https://www.energy-storage.news/california-energy-commissions-noemi-gallardo-on-the-states-bess-expansion/",
+        "https://www.pv-magazine.com/2026/10/01/a-closer-look-at-marsteks-5-kwh-plug-in-battery/",
+        "https://www.pv-magazine.com/2026/10/01/adani-group-backed-vishakha-renewables-files-for-ipo/",
+        "https://www.energy-storage.news/wartsilas-energy-storage-division-rebrands-through-rct-solar-joint-venture/",
+        "https://www.pv-magazine.com/2026/10/01/ireland-energizes-first-sress-solar-farm-opening-new-revenue-opportunities-for-farmers-and-landowners/",
+        "https://www.pv-magazine.com/2026/10/01/spanish-researchers-validate-10000-cycles-for-iron-lead-flow-battery/",
+        "https://www.pv-magazine.com/2026/10/01/two-stage-pyrolysis-process-turns-waste-solar-panels-into-silicon-carbide/",
+        "https://www.pv-magazine.com/2026/10/01/south-korea-grid-overhaul-to-connect-more-than-100-gw-of-renewables/",
+        "https://www.energy-storage.news/maharashtras-regulator-proposes-mandatory-bess-for-renewable-projects-seeking-grid-connectivity-in-indian-state/",
+        "https://www.energy-storage.news/major-us-partnerships-may-signal-battery-storages-infrastructure-era/",
+        "https://www.pv-magazine.com/2026/10/01/u-s-small-scale-solar-adds-1-6-gw-in-q2-2026-as-fossil-fuel-capacity-surges/"
       ],
-      "item_count": 22,
+      "item_count": 25,
       "duplicate_count": 0,
       "score": 56.1,
       "importance": 0.6666666666666666,
@@ -509,57 +449,124 @@
       },
       "category": "trendscan",
       "reasons": [
-        "核聚变与先进储能 聚合 22 条"
+        "核聚变与先进储能 聚合 25 条"
       ],
-      "earliest_at": "2026-10-01T02:58:48",
-      "latest_at": "2026-10-01 04:07:28",
+      "earliest_at": "2026-10-02T04:00:00",
+      "latest_at": "2026-10-02 04:28:01",
       "primary_item": {
-        "title": "Fusion News, June 24, 2026",
-        "url": "https://www.youtube.com/watch?v=a0jZ96VvtVA",
+        "title": "Alkaline-based aqueous sodium-ion batteries for large- ...",
+        "url": "https://www.nature.com/articles/s41467-024-44855-6",
         "source": "AnySearch 能源 (核聚变与先进储能)"
       }
     },
     {
-      "story_id": "trendscan_09",
-      "title": "Faulty yet Secure: Sum Secrecy Rate Optimization under ...",
-      "url": "https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/2084/2026_ieee_twc_faulty-yet-secure_gholian-et-al_author-version.pdf?sequence=1",
-      "primary_url": "https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/2084/2026_ieee_twc_faulty-yet-secure_gholian-et-al_author-version.pdf?sequence=1",
-      "source": "AnySearch 信息 (6G与下一代通信)",
-      "source_name": "AnySearch 信息 (6G与下一代通信)",
+      "story_id": "trendscan_13",
+      "title": "dummyscheme，轻量 scheme 解释器，支持 r5rs，基于字节码和寄存器寻址",
+      "url": "https://www.oschina.net/news/502824",
+      "primary_url": "https://www.oschina.net/news/502824",
+      "source": "开源中国",
+      "source_name": "开源中国",
       "sources": [
-        "AnySearch 信息 (6G与下一代通信)",
-        "AnySearch 信息 (6G与下一代通信)",
-        "AnySearch 信息 (6G与下一代通信)",
-        "AnySearch 信息 (6G与下一代通信)",
-        "Light Reading"
+        "开源中国",
+        "The New Stack",
+        "CNCF Blog",
+        "The New Stack",
+        "The New Stack"
+      ],
+      "source_count": 5,
+      "source_names": [
+        "开源中国",
+        "The New Stack",
+        "CNCF Blog",
+        "Linux Foundation",
+        "SD Times"
+      ],
+      "items": [
+        "https://www.oschina.net/news/502824",
+        "https://thenewstack.io/unified-api-layer-agents/",
+        "https://www.cncf.io/blog/2026/10/01/guardrails-not-gates-rethinking-policy-in-platform-teams/",
+        "https://thenewstack.io/coding-agents-leaked-screenshots/",
+        "https://thenewstack.io/ai-security-attacker-mindset/",
+        "https://thenewstack.io/when-to-use-graph-rag/",
+        "https://www.oschina.net/news/502836",
+        "https://thenewstack.io/kubernetes-operations-ownership-governance/",
+        "https://thenewstack.io/aws-strands-decider-model/",
+        "https://www.linuxfoundation.org/blog/unlocking-the-door-to-open-source-reflections-from-nerdearla-and-getting-started-in-open-source-development",
+        "https://thenewstack.io/shadow-ai-ciso-governance/",
+        "https://thenewstack.io/bit-cloud-component-reuse/",
+        "https://sdtimes.com/agentic-rag/progress-software-connects-enterprise-knowledge-across-business-systems-with-new-agentic-rag-capabilities/",
+        "https://sdtimes.com/test/leapwork-play-a-continuous-validation-platform-for-playwright-test-suites/",
+        "https://sdtimes.com/ai/sd-times-news-roundup-oct-1-2026-ibm-bob-jetbrains-air-qodo-3-0/",
+        "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-sre-journey/",
+        "https://thenewstack.io/dynatrace-arize-agents-observability/",
+        "https://thenewstack.io/cloudflare-x402-agent-spending/",
+        "https://thenewstack.io/openai-dots-codex-usage/",
+        "https://www.cncf.io/blog/2026/10/01/kubecon-cloudnativecon-north-america-2026-build-your-application-developer-journey/"
+      ],
+      "item_count": 22,
+      "duplicate_count": 0,
+      "score": 70.55,
+      "importance": 0.8333333333333334,
+      "importance_score": 83,
+      "importance_label": "high",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "基础软件与工业软件 聚合 22 条"
+      ],
+      "earliest_at": "2026-10-02T00:13:19",
+      "latest_at": "2026-09-30T07:19:00",
+      "primary_item": {
+        "title": "dummyscheme，轻量 scheme 解释器，支持 r5rs，基于字节码和寄存器寻址",
+        "url": "https://www.oschina.net/news/502824",
+        "source": "开源中国"
+      }
+    },
+    {
+      "story_id": "trendscan_05",
+      "title": "Satellite Internet: Starlink's Rivals Scale Up Constellations",
+      "url": "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4XbGNtRcZUfcIZ_Hk72K_BCYpfPmavsew1PM0-NtY-nURDXKT2X",
+      "primary_url": "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4XbGNtRcZUfcIZ_Hk72K_BCYpfPmavsew1PM0-NtY-nURDXKT2X",
+      "source": "AnySearch 空间 (商业航天与卫星互联网)",
+      "source_name": "AnySearch 空间 (商业航天与卫星互联网)",
+      "sources": [
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "NASA News"
       ],
       "source_count": 4,
       "source_names": [
-        "AnySearch 信息 (6G与下一代通信)",
-        "Light Reading",
-        "Nature Photonics",
-        "IEEE ComSoc"
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "NASA News",
+        "Space News",
+        "Ars Technica Space"
       ],
       "items": [
-        "https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/2084/2026_ieee_twc_faulty-yet-secure_gholian-et-al_author-version.pdf?sequence=1",
-        "https://starlink.com/technology?srsltid=AU7gw4VSV9DXa4QAT0cGHL2cBAJnGueeE7C9cKR1qpSM0tAy80ojcqif",
-        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4X2R4IfWKZNICiJPKzWGuXzON9PzH-rwLB4g60KUxADbZGK7T9M",
-        "https://www.reddit.com/r/Starlink/comments/1wuicxd/fcc_clears_more_downlink_spectrum_for_satellite/",
-        "https://www.lightreading.com/network-technology/orange-business-to-provide-european-union-s-backbone-network-for-trusted-data-exchange",
-        "https://www.nature.com/articles/s41566-026-02018-7",
-        "https://www.nature.com/articles/s41566-026-02017-8",
-        "https://www.nature.com/articles/s41566-026-02015-w",
-        "https://www.nature.com/articles/s41566-026-02006-x",
-        "https://www.nature.com/articles/s41566-026-01994-0",
-        "https://www.nature.com/articles/s41566-026-02011-0",
-        "https://www.nature.com/articles/s41566-026-01984-2",
-        "https://www.lightreading.com/6g/ericsson-and-nokia-face-6g-teething-troubles-and-telco-pushback",
-        "https://www.lightreading.com/security/eurobites-deutsche-telekom-connects-with-cloudflare",
-        "https://www.lightreading.com/data-centers/globe-telecom-bets-1b-on-data-centers-as-the-philippines-positions-for-hyperscale-boom",
-        "https://www.lightreading.com/satellite/starship-launch-reignites-rocket-shortage-worries-for-starlink-rivals",
-        "https://www.lightreading.com/ai-machine-learning/four-forces-set-to-reshape-technology-in-2027-omdia",
-        "https://www.lightreading.com/ai-machine-learning/coreweave-forge-launches",
-        "https://www.comsoc.org/conferences-events/ieee-international-conference-network-softwarization-2027"
+        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4XbGNtRcZUfcIZ_Hk72K_BCYpfPmavsew1PM0-NtY-nURDXKT2X",
+        "https://www.youtube.com/watch?v=XTitkOfRvII&xstg=CAMSBhUD_LL2Hw%3D%3D",
+        "https://starlink.com/?srsltid=AU7gw4WXpWMMDR2UfXkRjXik_xE6oHT23OniHEySIEUdHrdl4EcS29Gp",
+        "https://nextspaceflight.com/launches/",
+        "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+        "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
+        "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/",
+        "https://science.nasa.gov/missions/webb/nasas-webb-provides-crash-course-on-planet-shattering-collisions/",
+        "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
+        "https://spacenews.com/rethinking-risk-with-electronics-for-space/",
+        "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
+        "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station/",
+        "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/",
+        "https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/",
+        "https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/",
+        "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+        "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+        "https://science.nasa.gov/solar-system/10-things-movie-night/"
       ],
       "item_count": 19,
       "duplicate_count": 0,
@@ -574,21 +581,83 @@
       },
       "category": "trendscan",
       "reasons": [
-        "6G与通信 聚合 19 条"
+        "商业航天 聚合 19 条"
       ],
-      "earliest_at": "2026-09-30T20:05:11",
-      "latest_at": "2026-10-01 04:06:22",
+      "earliest_at": "2026-10-02T00:25:36",
+      "latest_at": "2026-10-02 04:28:10",
       "primary_item": {
-        "title": "Faulty yet Secure: Sum Secrecy Rate Optimization under ...",
-        "url": "https://dspace.networks.imdea.org/bitstream/handle/20.500.12761/2084/2026_ieee_twc_faulty-yet-secure_gholian-et-al_author-version.pdf?sequence=1",
+        "title": "Satellite Internet: Starlink's Rivals Scale Up Constellations",
+        "url": "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4XbGNtRcZUfcIZ_Hk72K_BCYpfPmavsew1PM0-NtY-nURDXKT2X",
+        "source": "AnySearch 空间 (商业航天与卫星互联网)"
+      }
+    },
+    {
+      "story_id": "trendscan_09",
+      "title": "Single-Varactor Dual-Polarized Reconfigurable Intelligent ...",
+      "url": "https://www.mdpi.com/2079-9292/15/19/4494",
+      "primary_url": "https://www.mdpi.com/2079-9292/15/19/4494",
+      "source": "AnySearch 信息 (6G与下一代通信)",
+      "source_name": "AnySearch 信息 (6G与下一代通信)",
+      "sources": [
+        "AnySearch 信息 (6G与下一代通信)",
+        "AnySearch 信息 (6G与下一代通信)",
+        "AnySearch 信息 (6G与下一代通信)",
+        "AnySearch 信息 (6G与下一代通信)",
+        "IEEE ComSoc"
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AnySearch 信息 (6G与下一代通信)",
+        "IEEE ComSoc",
+        "Light Reading"
+      ],
+      "items": [
+        "https://www.mdpi.com/2079-9292/15/19/4494",
+        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AU7gw4UiVWWZ3rAibFvAupxPL6761PQYYhysjuW9gqwm6Vxq8JUU9szK",
+        "https://starlink.com/?srsltid=AU7gw4VwTCnKp5GFRvuovWULUUftyj-Cyfr9ZJRGsVsWjzX2c4SPYPaE",
+        "https://www.facebook.com/spacefans1/posts/spacex-satellites-are-reaching-an-entirely-new-scalethe-comparison-shows-how-dra/1529321262560211/",
+        "https://www.comsoc.org/education-training/media-center/bit-communications-token-and-agentic-communications-new-paradigm-6g-networks",
+        "https://www.lightreading.com/5g/at-t-proof-of-concept-labs-has-spent-30-years-validating-technology-for-customers",
+        "https://www.lightreading.com/5g/cellnex-uk-boss-banks-on-vodafonethree-spurring-5g-buildout",
+        "https://www.lightreading.com/satellite/eurobites-nokia-and-iceye-plan-sovereign-satellite-comms",
+        "https://www.lightreading.com/broadband/new-bead-round-presents-complications-uncertain-timeline",
+        "https://www.lightreading.com/sustainability/greenwatch-climate-resilience-is-about-more-than-tech",
+        "https://www.lightreading.com/6g/the-6g-core-divide",
+        "https://www.lightreading.com/security/covert-chinese-ship-visit-sparks-subsea-cable-fears-in-philippines",
+        "https://www.lightreading.com/satellite/at-t-t-mobile-and-verizon-launch-joint-venture-that-helps-end-dead-zones-name-paul-roth-interim-ceo",
+        "https://www.lightreading.com/ai-machine-learning/singtel-s-re-ai-launches-ai-token-as-a-service",
+        "https://www.lightreading.com/fixed-wireless-access/inseego-finalizes-nokia-fwa-buy",
+        "https://www.lightreading.com/fttx/rightfiber-seals-fastwyre-broadband-deal",
+        "https://www.comsoc.org/education-training/instructor/gurdeep-gill"
+      ],
+      "item_count": 17,
+      "duplicate_count": 0,
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "6G与通信 聚合 17 条"
+      ],
+      "earliest_at": "2026-10-01T19:26:53",
+      "latest_at": "2026-10-02 04:26:47",
+      "primary_item": {
+        "title": "Single-Varactor Dual-Polarized Reconfigurable Intelligent ...",
+        "url": "https://www.mdpi.com/2079-9292/15/19/4494",
         "source": "AnySearch 信息 (6G与下一代通信)"
       }
     },
     {
       "story_id": "trendscan_03",
-      "title": "Closed-loop neuromodulation: a paradigm shift in precision ...",
-      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1943905/full",
-      "primary_url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1943905/full",
+      "title": "Artificial Intelligence as the Computational Framework for ...",
+      "url": "https://www.psychiatryonline.org/doi/10.1176/appi.ajp.20260137",
+      "primary_url": "https://www.psychiatryonline.org/doi/10.1176/appi.ajp.20260137",
       "source": "AnySearch 健康 (脑机接口与神经工程)",
       "source_name": "AnySearch 健康 (脑机接口与神经工程)",
       "sources": [
@@ -596,7 +665,7 @@
         "AnySearch 健康 (脑机接口与神经工程)",
         "AnySearch 健康 (脑机接口与神经工程)",
         "AnySearch 健康 (脑机接口与神经工程)",
-        "AnySearch 健康 (脑机接口与神经工程)"
+        "Nature Neuroscience"
       ],
       "source_count": 2,
       "source_names": [
@@ -604,26 +673,20 @@
         "Nature Neuroscience"
       ],
       "items": [
-        "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1943905/full",
-        "https://scitechbulletin.com/wireless-60-channel-ai-neurostimulation-platform/",
-        "https://www.clinicaltrialvanguard.com/clinical-trial-ops-brief/enrollment-closed-what-moleculins-miracle-trial-teaches-about-aml-site-execution/",
-        "https://www.mdpi.com/2306-5354/13/10/1129",
-        "https://www.facebook.com/thearabianstories/posts/khoula-hospital-has-introduced-vagus-nerve-stimulation-vns-therapy-for-patients-/1564202445724284/",
-        "https://nuropod.com/blogs/articles/neuromodulation-wearable-how-nervous-system-technology-works?srsltid=AU7gw4X6jDiRXxKoUovFy36TXkF7dGb4ccGizNt_T0dxevR4sG6Lqf5z",
-        "https://www.sciencedirect.com/science/article/pii/S2666998624006045",
-        "https://www.facebook.com/61590791063043/posts/world-top-bci-research-led-by-seuseu-research-team-developed-a-non-invasive-brai/122134588503359702/",
-        "https://news.darden.virginia.edu/podcasts/good-disruption/good-disruption-brain-computer-interface",
-        "https://www.tesmanian.com/blogs/tesmanian-blog/neuralink-jobs?srsltid=AU7gw4X5FMuVbbULAPPePwWQRYVFVrZKQN60-VzJF2OrnFHHy3qrgaG-",
-        "https://www.facebook.com/Famouspulse/posts/a-man-with-amyotrophic-lateral-sclerosis-communicated-i-love-you-to-his-wife-thr/122232983858307698/",
-        "https://www.reddit.com/r/singularity/comments/1tc36va/worlds_first_braincomputer_interface_bci/",
-        "https://theholyquran.co.in/articles/brain-computer-interfaces-neuralink-clinical-trials-2026",
-        "http://education.chinadaily.com.cn/2026-02/10/c_1160335.htm",
-        "https://www.instagram.com/reel/Dd6vCl7kmuP/",
-        "https://www.facebook.com/traphousenature/posts/a-thought-becomes-a-grasp-for-some-people-with-paralysis-a-brain-implant-and-an-/122301557138069845/",
-        "https://www.nature.com/articles/s41593-026-02423-9",
-        "https://www.nature.com/articles/s41593-026-02436-4"
+        "https://www.psychiatryonline.org/doi/10.1176/appi.ajp.20260137",
+        "https://www.instagram.com/reel/Dd834TZAQr-/",
+        "https://www.facebook.com/61557719964049/posts/neuralink-is-conducting-clinical-trials-in-people-with-paralysis-including-spina/122263198166257332/",
+        "https://digg.com/ai/jgo3u83v",
+        "https://www.nature.com/articles/s41593-026-02477-9",
+        "https://www.nature.com/articles/s41593-026-02478-8",
+        "https://www.nature.com/articles/s41593-026-02476-w",
+        "https://www.nature.com/articles/s41593-026-02443-5",
+        "https://www.nature.com/articles/s41593-026-02467-x",
+        "https://www.nature.com/articles/s41593-026-02450-6",
+        "https://www.nature.com/articles/s41593-026-02453-3",
+        "https://www.nature.com/articles/s41593-026-02451-5"
       ],
-      "item_count": 18,
+      "item_count": 12,
       "duplicate_count": 0,
       "score": 28.05,
       "importance": 0.3333333333333333,
@@ -636,57 +699,56 @@
       },
       "category": "trendscan",
       "reasons": [
-        "脑机接口与神经工程 聚合 18 条"
+        "脑机接口与神经工程 聚合 12 条"
       ],
-      "earliest_at": "2026-09-30T00:00:00",
-      "latest_at": "2026-10-01 04:07:26",
+      "earliest_at": "2026-10-01T00:00:00",
+      "latest_at": "2026-10-02 04:27:49",
       "primary_item": {
-        "title": "Closed-loop neuromodulation: a paradigm shift in precision ...",
-        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2026.1943905/full",
+        "title": "Artificial Intelligence as the Computational Framework for ...",
+        "url": "https://www.psychiatryonline.org/doi/10.1176/appi.ajp.20260137",
         "source": "AnySearch 健康 (脑机接口与神经工程)"
       }
     },
     {
       "story_id": "trendscan_06",
-      "title": "France Deploys A Quantum Key Distribution Network",
-      "url": "https://quantumzeitgeist.com/cote-dazur-france-deployment-quantum-key/",
-      "primary_url": "https://quantumzeitgeist.com/cote-dazur-france-deployment-quantum-key/",
+      "title": "Quantum Network for Quantum Communication",
+      "url": "https://ieeexplore.ieee.org/iel7/10333972/10333315/10334148.pdf",
+      "primary_url": "https://ieeexplore.ieee.org/iel7/10333972/10333315/10334148.pdf",
       "source": "AnySearch 材料 (量子科技)",
       "source_name": "AnySearch 材料 (量子科技)",
       "sources": [
         "AnySearch 材料 (量子科技)",
-        "Nature Physics Quantum",
-        "Nature Physics Quantum",
+        "Quantum Insider",
+        "Quantum Insider",
         "Quantum Insider",
         "Quantum Insider"
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "AnySearch 材料 (量子科技)",
-        "Nature Physics Quantum",
         "Quantum Insider"
       ],
       "items": [
-        "https://quantumzeitgeist.com/cote-dazur-france-deployment-quantum-key/",
-        "https://www.nature.com/articles/s41566-026-02005-y",
-        "https://www.nature.com/articles/s41567-026-03471-5",
-        "https://thequantuminsider.com/2026/09/30/french-national-quantum-update-september-2026/",
-        "https://thequantuminsider.com/2026/09/30/new-quantum-algorithm-targets-bottleneck-in-fluid-flow-modeling/",
-        "https://thequantuminsider.com/2026/09/30/nato-sets-quantum-roadmap-for-military-trials-and-secure-communications/",
-        "https://thequantuminsider.com/2026/09/30/quantlase-tests-photonic-computing-platform-on-financial-market-data/",
-        "https://thequantuminsider.com/2026/09/30/quantum-emotion-acquire-plurilock-quantum-ai-cybersecurity/",
-        "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/",
-        "https://thequantuminsider.com/2026/09/30/new-report-positions-florida-as-an-emerging-leader-in-defense-led-quantum-technology/",
-        "https://thequantuminsider.com/2026/09/30/charles-black-c2qa-scalable-quantum-computing/"
+        "https://ieeexplore.ieee.org/iel7/10333972/10333315/10334148.pdf",
+        "https://thequantuminsider.com/2026/10/01/alice-bob-demonstrates-new-approach-to-stabilising-cat-with-dc-voltage-bias/",
+        "https://thequantuminsider.com/2026/10/01/scientists-find-structural-guide-to-unusual-magnetism-in-quantum-materials/",
+        "https://thequantuminsider.com/2026/10/01/diraq-quantum-rd-laboratory-new-mexico/",
+        "https://thequantuminsider.com/2026/10/01/choi-next-generation-quantum-sensors/",
+        "https://thequantuminsider.com/2026/10/01/california-fusion-legislation-30-million-quantum-investment/",
+        "https://thequantuminsider.com/2026/10/01/d-wave-gate-model-quantum-simulator-beta/",
+        "https://thequantuminsider.com/2026/10/01/researchers-demonstrate-building-blocks-for-zinc-oxide-spin-qubits/",
+        "https://thequantuminsider.com/2026/10/01/pasqal-appoints-florence-lao-chief-legal-officer/",
+        "https://thequantuminsider.com/2026/10/01/quantum-renaissance-to-convene-global-quantum-leaders-in-florence-in-april-2027/",
+        "https://thequantuminsider.com/2026/10/01/quanome-ceo-15-million-growth-capital/"
       ],
       "item_count": 11,
       "duplicate_count": 0,
-      "score": 42.5,
-      "importance": 0.5,
-      "importance_score": 50,
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
       "importance_label": "medium",
       "importance_breakdown": {
-        "source_tier_diversity": 1.0,
+        "source_tier_diversity": 0.6666666666666666,
         "multi_source_confirmation": 1.0,
         "recent_boost": 0.5
       },
@@ -694,146 +756,46 @@
       "reasons": [
         "量子科技 聚合 11 条"
       ],
-      "earliest_at": "2026-09-30T13:30:11",
-      "latest_at": "2026-10-01 04:08:20",
+      "earliest_at": "2026-10-01T16:37:34",
+      "latest_at": "2026-10-02 04:28:37",
       "primary_item": {
-        "title": "France Deploys A Quantum Key Distribution Network",
-        "url": "https://quantumzeitgeist.com/cote-dazur-france-deployment-quantum-key/",
+        "title": "Quantum Network for Quantum Communication",
+        "url": "https://ieeexplore.ieee.org/iel7/10333972/10333315/10334148.pdf",
         "source": "AnySearch 材料 (量子科技)"
       }
     },
     {
       "story_id": "trendscan_02",
-      "title": "Imitation Learning in Robotics: The Ultimate Guide",
-      "url": "https://www.trossenrobotics.com/post/imitation-learning-in-robotics-guide",
-      "primary_url": "https://www.trossenrobotics.com/post/imitation-learning-in-robotics-guide",
+      "title": "Every robot has an expiration date. Figure's second-generation ...",
+      "url": "https://www.instagram.com/reel/Dd800vqoL6d/",
+      "primary_url": "https://www.instagram.com/reel/Dd800vqoL6d/",
       "source": "AnySearch 信息 (具身智能与机器人)",
       "source_name": "AnySearch 信息 (具身智能与机器人)",
       "sources": [
         "AnySearch 信息 (具身智能与机器人)",
         "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)"
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AnySearch 信息 (具身智能与机器人)",
-        "Robot Report"
-      ],
-      "items": [
-        "https://www.trossenrobotics.com/post/imitation-learning-in-robotics-guide",
-        "https://www.applykite.com/positions/postdoc-in-robot-learning-for-manipulation-at-kth-royal-institute-of-technology-ylfltxi4es",
-        "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-        "https://www.facebook.com/cnbc/posts/with-chinas-securities-regulator-raising-the-bar-for-public-listings-of-humanoid/1493070669360988/",
-        "https://medium.com/@adnanmasood/robot-foundation-models-a-complete-technical-survey-5bf9add22d1c",
-        "https://www.facebook.com/NVIDIA.AP/posts/skild-ais-new-s1-robot-foundation-model-helps-robots-learn-previously-unseen-tas/1143945334622595/",
-        "https://arxiv.org/abs/2505.20503",
-        "https://www.facebook.com/trendinginchina/posts/the-worlds-first-embodied-ai-robot-with-a-fully-domestically-developed-electroni/1531310485696572/",
-        "https://www.therobotreport.com/tackling-construction-labor-shortages-asi-softbank-partner-autonomous-fleets/",
-        "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people/",
-        "https://www.therobotreport.com/robot-report-parent-arrowfly-launches-ai-for-engineers-platform-events-engineers-navigating-ai/"
-      ],
-      "item_count": 11,
-      "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "具身智能与机器人 聚合 11 条"
-      ],
-      "earliest_at": "2026-09-30T14:03:31",
-      "latest_at": "2026-10-01 04:06:10",
-      "primary_item": {
-        "title": "Imitation Learning in Robotics: The Ultimate Guide",
-        "url": "https://www.trossenrobotics.com/post/imitation-learning-in-robotics-guide",
-        "source": "AnySearch 信息 (具身智能与机器人)"
-      }
-    },
-    {
-      "story_id": "trendscan_08",
-      "title": "Introduction to MOFs & COFs",
-      "url": "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4VY1fd5NTNtAsz2E2Oec5MuxmfXElpI2Zf5UaUlvAyK5RrBvYJG",
-      "primary_url": "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4VY1fd5NTNtAsz2E2Oec5MuxmfXElpI2Zf5UaUlvAyK5RrBvYJG",
-      "source": "AnySearch 材料 (二维材料与原子级制造)",
-      "source_name": "AnySearch 材料 (二维材料与原子级制造)",
-      "sources": [
-        "AnySearch 材料 (二维材料与原子级制造)",
-        "AnySearch 材料 (二维材料与原子级制造)",
-        "AnySearch 材料 (二维材料与原子级制造)",
-        "Nature Materials",
-        "Nature Materials"
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AnySearch 材料 (二维材料与原子级制造)",
-        "Nature Materials"
-      ],
-      "items": [
-        "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4VY1fd5NTNtAsz2E2Oec5MuxmfXElpI2Zf5UaUlvAyK5RrBvYJG",
-        "https://www.graphenea.com/pages/graphene-uses-applications?srsltid=AU7gw4VZnYSHTigS2n5WKjjb0ftowDEVEfshoW7Zm2Thhvp0oXQWtJqa",
-        "https://www.facebook.com/GrapheneEU/posts/a-breakthrough-idea-is-only-the-beginning-turning-2d-material-research-into-real/1524628393044166/",
-        "https://www.nature.com/articles/s41563-026-02762-9",
-        "https://www.nature.com/articles/s41563-026-02747-8"
-      ],
-      "item_count": 5,
-      "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "二维材料与原子制造 聚合 5 条"
-      ],
-      "earliest_at": "2026-09-30T00:00:00",
-      "latest_at": "2026-10-01 04:08:34",
-      "primary_item": {
-        "title": "Introduction to MOFs & COFs",
-        "url": "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4VY1fd5NTNtAsz2E2Oec5MuxmfXElpI2Zf5UaUlvAyK5RrBvYJG",
-        "source": "AnySearch 材料 (二维材料与原子级制造)"
-      }
-    },
-    {
-      "story_id": "trendscan_23",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "primary_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "source": "MIT Technology Review (AI)",
-      "source_name": "MIT Technology Review (AI)",
-      "sources": [
-        "MIT Technology Review (AI)",
-        "Quanta Magazine",
-        "Wired AI",
-        "Wired AI",
-        "Wired AI"
+        "Robot Report",
+        "Robot Report",
+        "IEEE Spectrum Robotics"
       ],
       "source_count": 3,
       "source_names": [
-        "MIT Technology Review (AI)",
-        "Quanta Magazine",
-        "Wired AI"
+        "AnySearch 信息 (具身智能与机器人)",
+        "Robot Report",
+        "IEEE Spectrum Robotics"
       ],
       "items": [
-        "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-        "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-        "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
-        "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
-        "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/"
+        "https://www.instagram.com/reel/Dd800vqoL6d/",
+        "https://www.robot-magazine.fr/en/2026-global-directory-of-humanoid-robot-manufacturers-ranking-by-country-and-sector/",
+        "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
+        "https://www.therobotreport.com/how-maven-robotics-plans-automate-industrial-work-one-task-at-a-time/",
+        "https://spectrum.ieee.org/robust-robot-hand",
+        "https://www.therobotreport.com/your-robots-safety-functions-already-work-what-if-the-input-lies/",
+        "https://www.therobotreport.com/precision-in-motion-vishay-precision-group-inc-vpg-to-showcase-custom-sensing-capabilities-for-humanoid-robotics-at-robobusiness-2026/",
+        "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
+        "https://www.therobotreport.com/top-10-robotics-stories-of-september-2026/"
       ],
-      "item_count": 5,
+      "item_count": 9,
       "duplicate_count": 0,
       "score": 42.5,
       "importance": 0.5,
@@ -846,86 +808,239 @@
       },
       "category": "trendscan",
       "reasons": [
-        "23 聚合 5 条"
+        "具身智能与机器人 聚合 9 条"
       ],
-      "earliest_at": "2026-09-30T20:30:09",
-      "latest_at": "2026-09-30T10:40:30",
+      "earliest_at": "2026-10-01T20:42:08",
+      "latest_at": "2026-10-02 04:26:31",
       "primary_item": {
-        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-        "source": "MIT Technology Review (AI)"
+        "title": "Every robot has an expiration date. Figure's second-generation ...",
+        "url": "https://www.instagram.com/reel/Dd800vqoL6d/",
+        "source": "AnySearch 信息 (具身智能与机器人)"
       }
     },
     {
-      "story_id": "trendscan_10",
-      "title": "Medtronic earns FDA Breakthrough Device designation for ...",
-      "url": "https://news.medtronic.com/Medtronic-earns-FDA-Breakthrough-Device-designation-for-IN-PACT-TM-BTK-drug-coated-balloon",
-      "primary_url": "https://news.medtronic.com/Medtronic-earns-FDA-Breakthrough-Device-designation-for-IN-PACT-TM-BTK-drug-coated-balloon",
-      "source": "AnySearch 健康 (高端医疗器械)",
-      "source_name": "AnySearch 健康 (高端医疗器械)",
+      "story_id": "trendscan_08",
+      "title": "Introduction to MOFs & COFs",
+      "url": "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4WBCqC2Wix06O0MyAx2WF-4EPOrAPqd9n2ma6ta506qu_xe6V88",
+      "primary_url": "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4WBCqC2Wix06O0MyAx2WF-4EPOrAPqd9n2ma6ta506qu_xe6V88",
+      "source": "AnySearch 材料 (二维材料与原子级制造)",
+      "source_name": "AnySearch 材料 (二维材料与原子级制造)",
       "sources": [
-        "AnySearch 健康 (高端医疗器械)",
-        "MedTech Dive",
-        "MedTech Dive",
-        "MedTech Dive"
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)"
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AnySearch 健康 (高端医疗器械)",
-        "MedTech Dive"
+        "AnySearch 材料 (二维材料与原子级制造)"
       ],
       "items": [
-        "https://news.medtronic.com/Medtronic-earns-FDA-Breakthrough-Device-designation-for-IN-PACT-TM-BTK-drug-coated-balloon",
-        "https://www.medtechdive.com/news/ge-healthcare-hires-new-global-chief-ai-officer/831730/",
-        "https://www.medtechdive.com/news/us-china-trade-board-carves-path-for-tariff-relief-on-60b-of-goods/831668/",
-        "https://www.medtechdive.com/news/abbott-launches-freenomes-colorectal-cancer-screening-test/831771/"
+        "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4WBCqC2Wix06O0MyAx2WF-4EPOrAPqd9n2ma6ta506qu_xe6V88",
+        "https://ui.adsabs.harvard.edu/abs/2018AdM....3005454P/abstract",
+        "https://www.graphenea.com/pages/graphene-uses-applications?srsltid=AU7gw4Xccxuwl2PuTC8GDKecOit_Y89E7OVTp_O686V8H8nY3hA6pfin",
+        "https://graphene-flagship.eu/events/2d-materials-for-future-electronics/",
+        "https://news.ucsb.edu/2026/022845/mechanical-engineer-bolin-liao-develop-platform-imaging-and-controlling-quantum",
+        "https://cns.utexas.edu/news/accolades/jia-leo-li-selected-2026-moore-foundation-experimental-physics-investigator"
       ],
-      "item_count": 4,
+      "item_count": 6,
       "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
       "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
-        "multi_source_confirmation": 0.8,
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "高端医疗器械 聚合 4 条"
+        "二维材料与原子制造 聚合 6 条"
       ],
-      "earliest_at": "2026-09-30T14:58:51",
-      "latest_at": "2026-10-01 04:06:51",
+      "earliest_at": "2026-10-02 04:28:44",
+      "latest_at": "2026-10-02 04:28:54",
       "primary_item": {
-        "title": "Medtronic earns FDA Breakthrough Device designation for ...",
-        "url": "https://news.medtronic.com/Medtronic-earns-FDA-Breakthrough-Device-designation-for-IN-PACT-TM-BTK-drug-coated-balloon",
+        "title": "Introduction to MOFs & COFs",
+        "url": "https://www.acsmaterial.com/blog-detail/introduction-to-mofs-cofs.html?srsltid=AU7gw4WBCqC2Wix06O0MyAx2WF-4EPOrAPqd9n2ma6ta506qu_xe6V88",
+        "source": "AnySearch 材料 (二维材料与原子级制造)"
+      }
+    },
+    {
+      "story_id": "trendscan_10",
+      "title": "sensing cups and earbuds, UC San Diego researchers are ...",
+      "url": "https://www.facebook.com/UCSanDiego/posts/from-smart-rings-and-sweat-powered-patches-to-health-sensing-cups-and-earbuds-uc/1561445269356387/",
+      "primary_url": "https://www.facebook.com/UCSanDiego/posts/from-smart-rings-and-sweat-powered-patches-to-health-sensing-cups-and-earbuds-uc/1561445269356387/",
+      "source": "AnySearch 健康 (高端医疗器械)",
+      "source_name": "AnySearch 健康 (高端医疗器械)",
+      "sources": [
+        "AnySearch 健康 (高端医疗器械)",
+        "AnySearch 健康 (高端医疗器械)",
+        "ScienceDaily Medical Devices",
+        "MedTech Dive",
+        "MedTech Dive"
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AnySearch 健康 (高端医疗器械)",
+        "ScienceDaily Medical Devices",
+        "MedTech Dive"
+      ],
+      "items": [
+        "https://www.facebook.com/UCSanDiego/posts/from-smart-rings-and-sweat-powered-patches-to-health-sensing-cups-and-earbuds-uc/1561445269356387/",
+        "https://evtoday.com/news/medtronics-inpact-btk-dcb-earns-FDA-breakthrough-device-designation?c4src=home",
+        "https://www.sciencedaily.com/releases/2026/09/260930225503.htm",
+        "https://www.medtechdive.com/news/medtronic-reveals-cardiac-mapping-and-ablation-software-clearances/831852/",
+        "https://www.medtechdive.com/news/medtronic-drug-coated-balloon-gets-fda-breakthrough-status/831906/",
+        "https://www.medtechdive.com/news/fda-selects-first-5-participants-for-readi-home-initiative/831911/"
+      ],
+      "item_count": 6,
+      "duplicate_count": 0,
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "高端医疗器械 聚合 6 条"
+      ],
+      "earliest_at": "2026-10-01T16:04:26",
+      "latest_at": "2026-10-02 04:27:25",
+      "primary_item": {
+        "title": "sensing cups and earbuds, UC San Diego researchers are ...",
+        "url": "https://www.facebook.com/UCSanDiego/posts/from-smart-rings-and-sweat-powered-patches-to-health-sensing-cups-and-earbuds-uc/1561445269356387/",
         "source": "AnySearch 健康 (高端医疗器械)"
       }
     },
     {
+      "story_id": "trendscan_01",
+      "title": "Shifting from knowledge retrieval to evidence exploration and synthesis",
+      "url": "https://www.nature.com/articles/s42256-026-01313-w",
+      "primary_url": "https://www.nature.com/articles/s42256-026-01313-w",
+      "source": "Nature Machine Intelligence",
+      "source_name": "Nature Machine Intelligence",
+      "sources": [
+        "Nature Machine Intelligence",
+        "Nature Machine Intelligence",
+        "ScienceDaily AI",
+        "ScienceDaily AI",
+        "MIT News AI"
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Nature Machine Intelligence",
+        "ScienceDaily AI",
+        "MIT News AI"
+      ],
+      "items": [
+        "https://www.nature.com/articles/s42256-026-01313-w",
+        "https://www.nature.com/articles/s42256-026-01307-8",
+        "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+        "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+        "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+        "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002"
+      ],
+      "item_count": 6,
+      "duplicate_count": 0,
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "AI+科学 聚合 6 条"
+      ],
+      "earliest_at": "2026-10-02T04:00:00",
+      "latest_at": "2026-10-01T00:00:00",
+      "primary_item": {
+        "title": "Shifting from knowledge retrieval to evidence exploration and synthesis",
+        "url": "https://www.nature.com/articles/s42256-026-01313-w",
+        "source": "Nature Machine Intelligence"
+      }
+    },
+    {
       "story_id": "trendscan_07",
-      "title": "Engineering the sco1897–sco1901 region affects phosphate ...",
-      "url": "https://link.springer.com/article/10.1186/s12934-026-03132-5",
-      "primary_url": "https://link.springer.com/article/10.1186/s12934-026-03132-5",
+      "title": "Metabolic Engineering for Biotech",
+      "url": "https://bio-fermen.bocsci.com/services/metabolic-engineering.html",
+      "primary_url": "https://bio-fermen.bocsci.com/services/metabolic-engineering.html",
       "source": "AnySearch 健康 (合成生物学与生物制造)",
       "source_name": "AnySearch 健康 (合成生物学与生物制造)",
       "sources": [
         "AnySearch 健康 (合成生物学与生物制造)",
         "AnySearch 健康 (合成生物学与生物制造)",
         "AnySearch 健康 (合成生物学与生物制造)",
-        "ScienceDaily Biotech"
+        "AnySearch 健康 (合成生物学与生物制造)",
+        "Nature Biotechnology"
       ],
       "source_count": 2,
       "source_names": [
         "AnySearch 健康 (合成生物学与生物制造)",
-        "ScienceDaily Biotech"
+        "Nature Biotechnology"
       ],
       "items": [
-        "https://link.springer.com/article/10.1186/s12934-026-03132-5",
-        "https://www.facebook.com/AmericanMedicalAssociation/posts/a-new-option-for-children-with-sickle-cell-disease-with-recurrent-voc-or-tdt-the/1586820570155682/",
-        "https://www.nature.com/molcellbio",
-        "https://www.sciencedaily.com/releases/2026/09/260928100551.htm"
+        "https://bio-fermen.bocsci.com/services/metabolic-engineering.html",
+        "https://www.nature.com/articles/s41392-023-01309-7",
+        "https://www.youtube.com/watch?v=2pp17E4E-O8",
+        "https://www.instagram.com/p/Dd8I-f9mjvP/",
+        "https://www.nature.com/articles/s41587-026-03307-w"
+      ],
+      "item_count": 5,
+      "duplicate_count": 0,
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.6666666666666666,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "合成生物学与生物制造 聚合 5 条"
+      ],
+      "earliest_at": "2026-10-01T00:00:00",
+      "latest_at": "2026-10-02 04:27:15",
+      "primary_item": {
+        "title": "Metabolic Engineering for Biotech",
+        "url": "https://bio-fermen.bocsci.com/services/metabolic-engineering.html",
+        "source": "AnySearch 健康 (合成生物学与生物制造)"
+      }
+    },
+    {
+      "story_id": "trendscan_12",
+      "title": "From Mars Exploration to Human Sustainability: Building ...",
+      "url": "https://www.facebook.com/galaxyaerosgh/posts/from-mars-exploration-to-human-sustainability-building-life-support-systems-for-/1775016724162180/",
+      "primary_url": "https://www.facebook.com/galaxyaerosgh/posts/from-mars-exploration-to-human-sustainability-building-life-support-systems-for-/1775016724162180/",
+      "source": "AnySearch 空间 (深空与深地探测)",
+      "source_name": "AnySearch 空间 (深空与深地探测)",
+      "sources": [
+        "AnySearch 空间 (深空与深地探测)",
+        "AnySearch 空间 (深空与深地探测)",
+        "AnySearch 空间 (深空与深地探测)",
+        "AGU News"
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AnySearch 空间 (深空与深地探测)",
+        "AGU News"
+      ],
+      "items": [
+        "https://www.facebook.com/galaxyaerosgh/posts/from-mars-exploration-to-human-sustainability-building-life-support-systems-for-/1775016724162180/",
+        "https://bios.asu.edu/currents/expanding-access-global-deep-sea-exploration",
+        "https://www.facebook.com/groups/SpaceLaunchSchedule/posts/1804117520628697/",
+        "https://news.agu.org/10-1-2026-the-earth-is-getting-rounder/"
       ],
       "item_count": 4,
       "duplicate_count": 0,
@@ -940,167 +1055,38 @@
       },
       "category": "trendscan",
       "reasons": [
-        "合成生物学与生物制造 聚合 4 条"
+        "深空与深地探测 聚合 4 条"
       ],
-      "earliest_at": "2026-09-30T11:45:42",
-      "latest_at": "2026-10-01 04:06:46",
+      "earliest_at": "2026-10-01T21:21:22",
+      "latest_at": "2026-10-02 04:28:29",
       "primary_item": {
-        "title": "Engineering the sco1897–sco1901 region affects phosphate ...",
-        "url": "https://link.springer.com/article/10.1186/s12934-026-03132-5",
-        "source": "AnySearch 健康 (合成生物学与生物制造)"
-      }
-    },
-    {
-      "story_id": "trendscan_16",
-      "title": "中国人工智能监管新规",
-      "url": "https://www.lw.com/admin/upload/SiteAttachments/Chinas-New-AI-Regulations-Chinese-version.pdf",
-      "primary_url": "https://www.lw.com/admin/upload/SiteAttachments/Chinas-New-AI-Regulations-Chinese-version.pdf",
-      "source": "AnySearch 政策 (中国政策与监管)",
-      "source_name": "AnySearch 政策 (中国政策与监管)",
-      "sources": [
-        "AnySearch 政策 (中国政策与监管)",
-        "AnySearch 政策 (中国政策与监管)",
-        "AnySearch 政策 (中国政策与监管)"
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AnySearch 政策 (中国政策与监管)"
-      ],
-      "items": [
-        "https://www.lw.com/admin/upload/SiteAttachments/Chinas-New-AI-Regulations-Chinese-version.pdf",
-        "https://cn.nytimes.com/business/20210429/china-internet-monopoly-online/",
-        "https://stcsm.sh.gov.cn/xwzx/mtjj/20260930/e791928e4860456e9aaa7f1891b23256.html"
-      ],
-      "item_count": 3,
-      "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 0.6,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "16 聚合 3 条"
-      ],
-      "earliest_at": "2026-10-01 04:08:41",
-      "latest_at": "2026-10-01 04:08:41",
-      "primary_item": {
-        "title": "中国人工智能监管新规",
-        "url": "https://www.lw.com/admin/upload/SiteAttachments/Chinas-New-AI-Regulations-Chinese-version.pdf",
-        "source": "AnySearch 政策 (中国政策与监管)"
-      }
-    },
-    {
-      "story_id": "trendscan_01",
-      "title": "Towards foundation-style models for energy-frontier heterogeneous neutrino detectors via self-supervised pretraining",
-      "url": "https://www.nature.com/articles/s42256-026-01309-6",
-      "primary_url": "https://www.nature.com/articles/s42256-026-01309-6",
-      "source": "Nature Machine Intelligence",
-      "source_name": "Nature Machine Intelligence",
-      "sources": [
-        "Nature Machine Intelligence",
-        "MIT News AI",
-        "MIT News AI"
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Nature Machine Intelligence",
-        "MIT News AI"
-      ],
-      "items": [
-        "https://www.nature.com/articles/s42256-026-01309-6",
-        "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-        "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930"
-      ],
-      "item_count": 3,
-      "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
-        "multi_source_confirmation": 0.6,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "AI+科学 聚合 3 条"
-      ],
-      "earliest_at": "2026-09-30T15:15:00",
-      "latest_at": "2026-09-30T00:00:00",
-      "primary_item": {
-        "title": "Towards foundation-style models for energy-frontier heterogeneous neutrino detectors via self-supervised pretraining",
-        "url": "https://www.nature.com/articles/s42256-026-01309-6",
-        "source": "Nature Machine Intelligence"
-      }
-    },
-    {
-      "story_id": "trendscan_12",
-      "title": "Read my new Substack letter: \"Scientists Create First ...",
-      "url": "https://www.facebook.com/michaelguillenphd/posts/read-my-new-substack-letter-scientists-create-first-martian/1675674564129619/",
-      "primary_url": "https://www.facebook.com/michaelguillenphd/posts/read-my-new-substack-letter-scientists-create-first-martian/1675674564129619/",
-      "source": "AnySearch 空间 (深空与深地探测)",
-      "source_name": "AnySearch 空间 (深空与深地探测)",
-      "sources": [
-        "AnySearch 空间 (深空与深地探测)",
-        "AnySearch 空间 (深空与深地探测)"
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AnySearch 空间 (深空与深地探测)"
-      ],
-      "items": [
-        "https://www.facebook.com/michaelguillenphd/posts/read-my-new-substack-letter-scientists-create-first-martian/1675674564129619/",
-        "https://amuedge.com/sesa-2026-looking-toward-the-future-of-space-exploration/"
-      ],
-      "item_count": 2,
-      "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 0.4,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "深空与深地探测 聚合 2 条"
-      ],
-      "earliest_at": "2026-10-01 04:08:03",
-      "latest_at": "2026-10-01 04:08:12",
-      "primary_item": {
-        "title": "Read my new Substack letter: \"Scientists Create First ...",
-        "url": "https://www.facebook.com/michaelguillenphd/posts/read-my-new-substack-letter-scientists-create-first-martian/1675674564129619/",
+        "title": "From Mars Exploration to Human Sustainability: Building ...",
+        "url": "https://www.facebook.com/galaxyaerosgh/posts/from-mars-exploration-to-human-sustainability-building-life-support-systems-for-/1775016724162180/",
         "source": "AnySearch 空间 (深空与深地探测)"
       }
     },
     {
-      "story_id": "trendscan_11",
-      "title": "Mercedes-Benz Ambition 2039",
-      "url": "https://group.mercedes-benz.com/sustainability/environment-climate/decarbonisation/ambition-2039-our-path-to-co2-neutrality.html",
-      "primary_url": "https://group.mercedes-benz.com/sustainability/environment-climate/decarbonisation/ambition-2039-our-path-to-co2-neutrality.html",
-      "source": "AnySearch 制造 (绿色制造与工业互联网)",
-      "source_name": "AnySearch 制造 (绿色制造与工业互联网)",
+      "story_id": "trendscan_24",
+      "title": "Saul Perlmutter on Scientific Thinking for All: A Toolkit",
+      "url": "https://www.nobelprize.org/educational/saul-perlmutter-on-scientific-thinking/",
+      "primary_url": "https://www.nobelprize.org/educational/saul-perlmutter-on-scientific-thinking/",
+      "source": "Nobel Prize",
+      "source_name": "Nobel Prize",
       "sources": [
-        "AnySearch 制造 (绿色制造与工业互联网)",
-        "AnySearch 制造 (绿色制造与工业互联网)"
+        "Nobel Prize",
+        "Nobel Prize",
+        "Nobel Prize"
       ],
       "source_count": 1,
       "source_names": [
-        "AnySearch 制造 (绿色制造与工业互联网)"
+        "Nobel Prize"
       ],
       "items": [
-        "https://group.mercedes-benz.com/sustainability/environment-climate/decarbonisation/ambition-2039-our-path-to-co2-neutrality.html",
-        "https://ansys.synopsys.com/blog/digital-twins-manufacturing"
+        "https://www.nobelprize.org/educational/saul-perlmutter-on-scientific-thinking/",
+        "https://www.nobelprize.org/educational/nobel-prize-lessons/",
+        "https://www.nobelprize.org/educational/one-minute-crash-courses/"
       ],
-      "item_count": 2,
+      "item_count": 3,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -1108,37 +1094,37 @@
       "importance_label": "low",
       "importance_breakdown": {
         "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 0.4,
+        "multi_source_confirmation": 0.6,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "绿色制造与工业互联网 聚合 2 条"
+        "24 聚合 3 条"
       ],
-      "earliest_at": "2026-10-01 04:06:31",
-      "latest_at": "2026-10-01 04:06:35",
+      "earliest_at": "2026-10-01T14:03:58",
+      "latest_at": "2026-10-01T12:31:16",
       "primary_item": {
-        "title": "Mercedes-Benz Ambition 2039",
-        "url": "https://group.mercedes-benz.com/sustainability/environment-climate/decarbonisation/ambition-2039-our-path-to-co2-neutrality.html",
-        "source": "AnySearch 制造 (绿色制造与工业互联网)"
+        "title": "Saul Perlmutter on Scientific Thinking for All: A Toolkit",
+        "url": "https://www.nobelprize.org/educational/saul-perlmutter-on-scientific-thinking/",
+        "source": "Nobel Prize"
       }
     },
     {
-      "story_id": "trendscan_15",
-      "title": "Fully developed active turbulence defined through a non-equilibrium phase transition",
-      "url": "https://www.nature.com/articles/s41567-026-03408-y",
-      "primary_url": "https://www.nature.com/articles/s41567-026-03408-y",
-      "source": "Nature Physics",
-      "source_name": "Nature Physics",
+      "story_id": "trendscan_16",
+      "title": "关于印发《上海市科技计划项目监督管理办法（试行）》的通知",
+      "url": "https://www.shanghai.gov.cn/gwk/search/content/52b8e1be81954c44884a9f1704d57862",
+      "primary_url": "https://www.shanghai.gov.cn/gwk/search/content/52b8e1be81954c44884a9f1704d57862",
+      "source": "AnySearch 政策 (中国政策与监管)",
+      "source_name": "AnySearch 政策 (中国政策与监管)",
       "sources": [
-        "Nature Physics"
+        "AnySearch 政策 (中国政策与监管)"
       ],
       "source_count": 1,
       "source_names": [
-        "Nature Physics"
+        "AnySearch 政策 (中国政策与监管)"
       ],
       "items": [
-        "https://www.nature.com/articles/s41567-026-03408-y"
+        "https://www.shanghai.gov.cn/gwk/search/content/52b8e1be81954c44884a9f1704d57862"
       ],
       "item_count": 1,
       "duplicate_count": 0,
@@ -1153,14 +1139,54 @@
       },
       "category": "trendscan",
       "reasons": [
-        "超导与量子材料 聚合 1 条"
+        "16 聚合 1 条"
       ],
-      "earliest_at": "2026-09-30T00:00:00",
-      "latest_at": "2026-09-30T00:00:00",
+      "earliest_at": "2026-10-02 04:29:03",
+      "latest_at": "2026-10-02 04:29:03",
       "primary_item": {
-        "title": "Fully developed active turbulence defined through a non-equilibrium phase transition",
-        "url": "https://www.nature.com/articles/s41567-026-03408-y",
-        "source": "Nature Physics"
+        "title": "关于印发《上海市科技计划项目监督管理办法（试行）》的通知",
+        "url": "https://www.shanghai.gov.cn/gwk/search/content/52b8e1be81954c44884a9f1704d57862",
+        "source": "AnySearch 政策 (中国政策与监管)"
+      }
+    },
+    {
+      "story_id": "trendscan_11",
+      "title": "Climate Neutrality",
+      "url": "https://www.covestro.com/es/sustainability/our-focus-topics/climate-neutrality",
+      "primary_url": "https://www.covestro.com/es/sustainability/our-focus-topics/climate-neutrality",
+      "source": "AnySearch 制造 (绿色制造与工业互联网)",
+      "source_name": "AnySearch 制造 (绿色制造与工业互联网)",
+      "sources": [
+        "AnySearch 制造 (绿色制造与工业互联网)"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AnySearch 制造 (绿色制造与工业互联网)"
+      ],
+      "items": [
+        "https://www.covestro.com/es/sustainability/our-focus-topics/climate-neutrality"
+      ],
+      "item_count": 1,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.2,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "绿色制造与工业互联网 聚合 1 条"
+      ],
+      "earliest_at": "2026-10-02 04:27:03",
+      "latest_at": "2026-10-02 04:27:03",
+      "primary_item": {
+        "title": "Climate Neutrality",
+        "url": "https://www.covestro.com/es/sustainability/our-focus-topics/climate-neutrality",
+        "source": "AnySearch 制造 (绿色制造与工业互联网)"
       }
     }
   ]
