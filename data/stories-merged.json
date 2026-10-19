@@ -1,80 +1,338 @@
 {
-  "generated_at": "2026-10-18T12:26:16.782744+00:00",
+  "generated_at": "2026-10-19T13:11:43.616042+00:00",
   "window_hours": 24,
-  "total_stories": 2,
+  "total_stories": 14,
   "stories": [
     {
-      "story_id": "trendscan_02",
-      "title": "Humanoid Robot Updates 2026: Latest News, ...",
-      "url": "https://keyirobot.com/en-us/blogs/insights/humanoid-robot-updates-2026-latest-news-breakthroughs-and-industry-trends?srsltid=AU7gw4WHqvRryrF20r9DDGYmZ5vkT1ytCx6JeQVnPVyIFBQVBR-mjAL7",
-      "primary_url": "https://keyirobot.com/en-us/blogs/insights/humanoid-robot-updates-2026-latest-news-breakthroughs-and-industry-trends?srsltid=AU7gw4WHqvRryrF20r9DDGYmZ5vkT1ytCx6JeQVnPVyIFBQVBR-mjAL7",
-      "source": "AnySearch 信息 (具身智能与机器人)",
-      "source_name": "AnySearch 信息 (具身智能与机器人)",
+      "story_id": "trendscan_13",
+      "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+      "url": "https://thenewstack.io/ai-agents-kubernetes-control/",
+      "primary_url": "https://thenewstack.io/ai-agents-kubernetes-control/",
+      "source": "The New Stack",
+      "source_name": "The New Stack",
       "sources": [
-        "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)",
-        "AnySearch 信息 (具身智能与机器人)"
+        "The New Stack",
+        "The New Stack",
+        "The New Stack",
+        "The New Stack",
+        "开源中国"
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AnySearch 信息 (具身智能与机器人)"
+        "The New Stack",
+        "开源中国",
+        "CNCF Blog"
       ],
       "items": [
-        "https://keyirobot.com/en-us/blogs/insights/humanoid-robot-updates-2026-latest-news-breakthroughs-and-industry-trends?srsltid=AU7gw4WHqvRryrF20r9DDGYmZ5vkT1ytCx6JeQVnPVyIFBQVBR-mjAL7",
-        "https://www.facebook.com/WIONews/posts/techitout-with-meraj-shah-and-nikita-singh-a-four-legged-robot-in-south-korea-ha/1478716157700887/",
-        "https://www.instagram.com/p/DeoNFzHledS/",
-        "https://www.youtube.com/watch?v=qLgGYhZJkVs&xstg=CAMSBhUDzO3xHw%3D%3D",
-        "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
-        "https://www.facebook.com/bazaartimes/posts/roboparty-introduced-rp1-roboto-01-a-high-performance-fully-open-source-humanoid/1968483487884545/",
-        "https://humanoid.guide/"
+        "https://thenewstack.io/ai-agents-kubernetes-control/",
+        "https://thenewstack.io/claude-code-linux-driver/",
+        "https://thenewstack.io/ai-lowering-building-barrier/",
+        "https://thenewstack.io/live-streaming-engineering-lessons/",
+        "https://www.oschina.net/news/503070",
+        "https://www.oschina.net/news/503071",
+        "https://www.oschina.net/news/503072",
+        "https://www.oschina.net/news/503073",
+        "https://thenewstack.io/scaling-kubernetes-control-planes/",
+        "https://thenewstack.io/liquid-ai-reward-hacking/",
+        "https://thenewstack.io/gemini-argon-claude-opus/",
+        "https://www.oschina.net/news/503074",
+        "https://www.oschina.net/news/503075",
+        "https://www.oschina.net/news/503080",
+        "https://www.oschina.net/news/503081",
+        "https://www.oschina.net/news/503084",
+        "https://www.oschina.net/news/503085",
+        "https://www.oschina.net/news/503086",
+        "https://www.oschina.net/news/503087",
+        "https://www.oschina.net/news/503088"
       ],
-      "item_count": 7,
+      "item_count": 25,
       "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
+        "source_tier_diversity": 1.0,
         "multi_source_confirmation": 1.0,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "具身智能与机器人 聚合 7 条"
+        "基础软件与工业软件 聚合 25 条"
       ],
-      "earliest_at": "2026-10-18 12:26:01",
-      "latest_at": "2026-10-18 12:26:13",
+      "earliest_at": "2026-10-19T13:00:00",
+      "latest_at": "2026-10-17T14:00:00",
       "primary_item": {
-        "title": "Humanoid Robot Updates 2026: Latest News, ...",
-        "url": "https://keyirobot.com/en-us/blogs/insights/humanoid-robot-updates-2026-latest-news-breakthroughs-and-industry-trends?srsltid=AU7gw4WHqvRryrF20r9DDGYmZ5vkT1ytCx6JeQVnPVyIFBQVBR-mjAL7",
-        "source": "AnySearch 信息 (具身智能与机器人)"
+        "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+        "url": "https://thenewstack.io/ai-agents-kubernetes-control/",
+        "source": "The New Stack"
       }
     },
     {
-      "story_id": "trendscan_01",
-      "title": "Generative AI Revolutionizes Materials Science with ...",
-      "url": "https://www.linkedin.com/posts/engrfayyazabbas_materialsscience-ai-machinelearning-activity-7435388847988875264-kpHN",
-      "primary_url": "https://www.linkedin.com/posts/engrfayyazabbas_materialsscience-ai-machinelearning-activity-7435388847988875264-kpHN",
-      "source": "AnySearch 信息 (AI+科学)",
-      "source_name": "AnySearch 信息 (AI+科学)",
+      "story_id": "trendscan_23",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "primary_url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "source": "Wired AI",
+      "source_name": "Wired AI",
       "sources": [
-        "AnySearch 信息 (AI+科学)",
-        "AnySearch 信息 (AI+科学)",
-        "AnySearch 信息 (AI+科学)",
-        "AnySearch 信息 (AI+科学)"
+        "Wired AI",
+        "Unite.AI",
+        "Unite.AI",
+        "Unite.AI",
+        "Wired AI"
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Wired AI",
+        "Unite.AI",
+        "MIT Technology Review (AI)"
+      ],
+      "items": [
+        "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+        "https://www.unite.ai/what-are-native-audio-models-how-speech-to-speech-ai-skips-transcription/",
+        "https://www.unite.ai/meta-rewrites-web-crawling-clause-in-pending-commercial-terms/",
+        "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/",
+        "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+        "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
+        "https://www.unite.ai/what-is-a-reranker-the-second-stage-model-that-improves-search-results/",
+        "https://www.unite.ai/could-a-model-of-models-help-untangle-alzheimers-disease/",
+        "https://www.unite.ai/my-fathers-final-weeks-revealed-why-canadian-healthcare-needs-ai/",
+        "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/",
+        "https://www.unite.ai/ultima-ug200-chosen-for-80-000-sample-uk-biobank-immune-study/",
+        "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+        "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+        "https://www.unite.ai/uk-council-for-science-and-technology-publishes-ai-sovereignty-advice/",
+        "https://www.unite.ai/ai-investment-mistakes-retail-strategy/",
+        "https://www.unite.ai/salesforce-names-madrid-emea-south-hub-in-five-year-spain-investment/",
+        "https://www.unite.ai/what-is-differential-privacy-protecting-personal-data-in-machine-learning/",
+        "https://www.unite.ai/binance-ai-pro-turns-trading-ideas-into-tested-automated-workflows/",
+        "https://www.unite.ai/huntington-bank-unveils-1866-studio-ai-operating-system-for-small-business/",
+        "https://www.unite.ai/monday-com-harmony-voice-ai-sales-agents/"
+      ],
+      "item_count": 21,
+      "duplicate_count": 0,
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "23 聚合 21 条"
+      ],
+      "earliest_at": "2026-10-19T13:02:13",
+      "latest_at": "2026-10-17T09:00:00",
+      "primary_item": {
+        "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+        "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+        "source": "Wired AI"
+      }
+    },
+    {
+      "story_id": "trendscan_05",
+      "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+      "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
+      "primary_url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
+      "source": "Space News",
+      "source_name": "Space News",
+      "sources": [
+        "Space News",
+        "NASA News",
+        "Space.com",
+        "Ars Technica Space",
+        "Space.com"
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Space News",
+        "NASA News",
+        "Space.com",
+        "Ars Technica Space"
+      ],
+      "items": [
+        "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
+        "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+        "https://www.space.com/stargazing/meteor-showers/the-orionid-meteor-shower-peaks-oct-21-22-2026-heres-what-to-expect",
+        "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+        "https://www.space.com/entertainment/space-movies-shows/lanterns-shocking-finale-left-us-with-a-lot-of-unanswered-questions-for-a-potential-season-2",
+        "https://www.space.com/stargazing/skywatching-kit/six-scientifically-accurate-star-projectors-to-turn-any-room-into-a-home-planetarium",
+        "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-232-the-lunar-dump",
+        "https://www.space.com/space-exploration/on-this-day-in-space-october-17-2026",
+        "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+        "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus",
+        "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain",
+        "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+        "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026",
+        "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed",
+        "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission",
+        "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/",
+        "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+        "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
+        "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon"
+      ],
+      "item_count": 19,
+      "duplicate_count": 0,
+      "score": 56.1,
+      "importance": 0.6666666666666666,
+      "importance_score": 66,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "商业航天 聚合 19 条"
+      ],
+      "earliest_at": "2026-10-19T12:00:00",
+      "latest_at": "2026-10-15T20:41:50",
+      "primary_item": {
+        "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+        "url": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
+        "source": "Space News"
+      }
+    },
+    {
+      "story_id": "trendscan_04",
+      "title": "Scientists who discovered a third form of magnetism win major physics prize",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "primary_url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+      "source": "ScienceDaily Energy",
+      "source_name": "ScienceDaily Energy",
+      "sources": [
+        "ScienceDaily Energy",
+        "ScienceDaily Energy",
+        "Energy Storage News",
+        "PV Magazine",
+        "PV Magazine"
+      ],
+      "source_count": 3,
+      "source_names": [
+        "ScienceDaily Energy",
+        "Energy Storage News",
+        "PV Magazine"
+      ],
+      "items": [
+        "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+        "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
+        "https://www.energy-storage.news/arcactive-switches-on-lead-acid-battery-storage-system-pilot-at-deakin-university-in-australia/",
+        "https://www.pv-magazine.com/2026/10/19/swift-current-alleges-widespread-module-defects-in-lawsuit-against-first-solar/",
+        "https://www.pv-magazine.com/2026/10/19/100-renewables-is-doable-even-in-oil-countries/",
+        "https://www.pv-magazine.com/2026/10/19/sri-lanka-asks-pv-system-owners-to-disconnect-after-nationwide-blackout/",
+        "https://www.pv-magazine.com/2026/10/19/jinkosolar-unveils-28-efficient-back-contact-topcon-solar-cell-with-amorphous-silicon-heterojunction-passivation/",
+        "https://www.energy-storage.news/evolving-role-of-energy-storage-as-infrastructure-demands-that-technology-stands-the-test-of-time-catl-ceo-says/",
+        "https://www.pv-magazine.com/2026/10/19/longi-researchers-reveals-how-edge-masking-reduces-recombination-losses-in-solar-cells/",
+        "https://www.pv-magazine.com/2026/10/19/indonesian-president-instructs-transformation-of-power-utility/",
+        "https://www.pv-magazine.com/2026/10/19/bangladesh-plans-70-mw-solar-plant-at-coal-power-station/",
+        "https://www.pv-magazine.com/2026/10/19/taiwanese-firm-to-make-floating-pv-components-in-philippines/",
+        "https://www.pv-magazine.com/2026/10/19/politicians-propose-plug-in-solar-batteries-in-norway/",
+        "https://www.energy-storage.news/bess-beats-gas-peaker-plants-on-lcoe-globally-wood-mackenzie-finds/",
+        "https://www.energy-storage.news/year-end-scramble-exposes-us-bess-sectors-commissioning-and-policy-strains/",
+        "https://www.pv-magazine.com/2026/10/19/acme-solar-signs-ppa-with-seci-for-300-mw-1200-mwh-fdre-project-at-inr-6-kwh/"
+      ],
+      "item_count": 16,
+      "duplicate_count": 0,
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "核聚变与先进储能 聚合 16 条"
+      ],
+      "earliest_at": "2026-10-19T12:37:19",
+      "latest_at": "2026-10-18T09:41:44",
+      "primary_item": {
+        "title": "Scientists who discovered a third form of magnetism win major physics prize",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261017230035.htm",
+        "source": "ScienceDaily Energy"
+      }
+    },
+    {
+      "story_id": "trendscan_06",
+      "title": "Realisation of a protected cat-qutrit manifold via engineered quantum tunnelling",
+      "url": "https://www.nature.com/articles/s41467-026-78631-5",
+      "primary_url": "https://www.nature.com/articles/s41467-026-78631-5",
+      "source": "Nature Physics Quantum",
+      "source_name": "Nature Physics Quantum",
+      "sources": [
+        "Nature Physics Quantum",
+        "Quantum Insider",
+        "Quantum Insider",
+        "Quantum Insider",
+        "Quantum Insider"
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Nature Physics Quantum",
+        "Quantum Insider"
+      ],
+      "items": [
+        "https://www.nature.com/articles/s41467-026-78631-5",
+        "https://thequantuminsider.com/2026/10/17/ai-infrastructure-investment-future-quantum-computing/",
+        "https://thequantuminsider.com/2026/10/17/robert-wille-munich-quantum-software-company-quantum-software-needs-design-automation-not-just-algorithms/",
+        "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+        "https://thequantuminsider.com/2026/10/19/ukri-backs-uk-quantum-businesses-with-share-of-50-million/",
+        "https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/",
+        "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
+        "https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/"
+      ],
+      "item_count": 8,
+      "duplicate_count": 0,
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.6666666666666666,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "量子科技 聚合 8 条"
+      ],
+      "earliest_at": "2026-10-19T11:00:57",
+      "latest_at": "2026-10-17T00:00:00",
+      "primary_item": {
+        "title": "Realisation of a protected cat-qutrit manifold via engineered quantum tunnelling",
+        "url": "https://www.nature.com/articles/s41467-026-78631-5",
+        "source": "Nature Physics Quantum"
+      }
+    },
+    {
+      "story_id": "trendscan_09",
+      "title": "6G faces a spectrum-sharing future",
+      "url": "https://www.lightreading.com/6g/6g-faces-a-spectrum-sharing-future",
+      "primary_url": "https://www.lightreading.com/6g/6g-faces-a-spectrum-sharing-future",
+      "source": "Light Reading",
+      "source_name": "Light Reading",
+      "sources": [
+        "Light Reading",
+        "Light Reading",
+        "Light Reading",
+        "Light Reading"
       ],
       "source_count": 1,
       "source_names": [
-        "AnySearch 信息 (AI+科学)"
+        "Light Reading"
       ],
       "items": [
-        "https://www.linkedin.com/posts/engrfayyazabbas_materialsscience-ai-machinelearning-activity-7435388847988875264-kpHN",
-        "https://www.linkedin.com/pulse/role-machine-learning-accelerating-computational-drug-iojjc/",
-        "https://www.weforum.org/stories/technological-innovation/ai-innovation-democratizes-breakthrough-science",
-        "https://blog.stackademic.com/ai-emerges-as-sciences-secret-weapon-for-faster-breakthroughs-d0fde09de28f"
+        "https://www.lightreading.com/6g/6g-faces-a-spectrum-sharing-future",
+        "https://www.lightreading.com/satellite/virgin-media-o2-feels-highs-and-lows-of-starlink-in-wales",
+        "https://www.lightreading.com/data-centers/eurobites-microsoft-unplugs-from-nscale-data-center-project-in-uk",
+        "https://www.lightreading.com/fixed-wireless-access/univastu-india-scoops-up-what-s-left-of-cambium-for-5-1m"
       ],
       "item_count": 4,
       "duplicate_count": 0,
@@ -89,14 +347,352 @@
       },
       "category": "trendscan",
       "reasons": [
-        "AI+科学 聚合 4 条"
+        "6G与通信 聚合 4 条"
       ],
-      "earliest_at": "2026-10-18 12:25:38",
-      "latest_at": "2026-10-18 12:25:56",
+      "earliest_at": "2026-10-19T13:00:00",
+      "latest_at": "2026-10-19T08:00:00",
       "primary_item": {
-        "title": "Generative AI Revolutionizes Materials Science with ...",
-        "url": "https://www.linkedin.com/posts/engrfayyazabbas_materialsscience-ai-machinelearning-activity-7435388847988875264-kpHN",
-        "source": "AnySearch 信息 (AI+科学)"
+        "title": "6G faces a spectrum-sharing future",
+        "url": "https://www.lightreading.com/6g/6g-faces-a-spectrum-sharing-future",
+        "source": "Light Reading"
+      }
+    },
+    {
+      "story_id": "trendscan_07",
+      "title": "Stanford’s new microscope reveals living cells like never before",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+      "primary_url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+      "source": "ScienceDaily Biotech",
+      "source_name": "ScienceDaily Biotech",
+      "sources": [
+        "ScienceDaily Biotech",
+        "ScienceDaily Biotech",
+        "Nature Biotechnology"
+      ],
+      "source_count": 2,
+      "source_names": [
+        "ScienceDaily Biotech",
+        "Nature Biotechnology"
+      ],
+      "items": [
+        "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+        "https://www.sciencedaily.com/releases/2026/10/261014015525.htm",
+        "https://www.nature.com/articles/s41587-026-03345-4"
+      ],
+      "item_count": 3,
+      "duplicate_count": 0,
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.6666666666666666,
+        "multi_source_confirmation": 0.6,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "合成生物学与生物制造 聚合 3 条"
+      ],
+      "earliest_at": "2026-10-19T00:00:00",
+      "latest_at": "2026-10-17T01:06:05",
+      "primary_item": {
+        "title": "Stanford’s new microscope reveals living cells like never before",
+        "url": "https://www.sciencedaily.com/releases/2026/10/261015073231.htm",
+        "source": "ScienceDaily Biotech"
+      }
+    },
+    {
+      "story_id": "trendscan_02",
+      "title": "ADI explains the race to make AI physical",
+      "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+      "primary_url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+      "source": "Robot Report",
+      "source_name": "Robot Report",
+      "sources": [
+        "Robot Report",
+        "Robot Report",
+        "Robot Report"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Robot Report"
+      ],
+      "items": [
+        "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+        "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+        "https://www.therobotreport.com/a-guide-to-everything-happening-at-robobusiness-2026/"
+      ],
+      "item_count": 3,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.6,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "具身智能与机器人 聚合 3 条"
+      ],
+      "earliest_at": "2026-10-19T12:00:34",
+      "latest_at": "2026-10-17T21:33:57",
+      "primary_item": {
+        "title": "ADI explains the race to make AI physical",
+        "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+        "source": "Robot Report"
+      }
+    },
+    {
+      "story_id": "trendscan_03",
+      "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
+      "url": "https://www.nature.com/articles/s41593-026-02488-6",
+      "primary_url": "https://www.nature.com/articles/s41593-026-02488-6",
+      "source": "Nature Neuroscience",
+      "source_name": "Nature Neuroscience",
+      "sources": [
+        "Nature Neuroscience",
+        "Nature Neuroscience"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nature Neuroscience"
+      ],
+      "items": [
+        "https://www.nature.com/articles/s41593-026-02488-6",
+        "https://www.nature.com/articles/s41593-026-02473-z"
+      ],
+      "item_count": 2,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.4,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "脑机接口与神经工程 聚合 2 条"
+      ],
+      "earliest_at": "2026-10-19T00:00:00",
+      "latest_at": "2026-10-19T00:00:00",
+      "primary_item": {
+        "title": "Spatiotemporal remodeling in habenula marks the onset of depression-related phenotypes",
+        "url": "https://www.nature.com/articles/s41593-026-02488-6",
+        "source": "Nature Neuroscience"
+      }
+    },
+    {
+      "story_id": "trendscan_08",
+      "title": "Bridging microwaves and light",
+      "url": "https://www.nature.com/articles/s41563-026-02763-8",
+      "primary_url": "https://www.nature.com/articles/s41563-026-02763-8",
+      "source": "Nature Materials",
+      "source_name": "Nature Materials",
+      "sources": [
+        "Nature Materials",
+        "Nature Materials"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nature Materials"
+      ],
+      "items": [
+        "https://www.nature.com/articles/s41563-026-02763-8",
+        "https://www.nature.com/articles/s41563-026-02759-4"
+      ],
+      "item_count": 2,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.4,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "二维材料与原子制造 聚合 2 条"
+      ],
+      "earliest_at": "2026-10-19T00:00:00",
+      "latest_at": "2026-10-19T00:00:00",
+      "primary_item": {
+        "title": "Bridging microwaves and light",
+        "url": "https://www.nature.com/articles/s41563-026-02763-8",
+        "source": "Nature Materials"
+      }
+    },
+    {
+      "story_id": "trendscan_10",
+      "title": "An interpretable AI model decodes the rules of cell recruitment to specific destinations",
+      "url": "https://www.nature.com/articles/s41551-026-01803-7",
+      "primary_url": "https://www.nature.com/articles/s41551-026-01803-7",
+      "source": "Nature Biomedical Engineering",
+      "source_name": "Nature Biomedical Engineering",
+      "sources": [
+        "Nature Biomedical Engineering",
+        "MedTech Dive"
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Nature Biomedical Engineering",
+        "MedTech Dive"
+      ],
+      "items": [
+        "https://www.nature.com/articles/s41551-026-01803-7",
+        "https://www.medtechdive.com/spons/ai-that-understands-reasons-and-acts-closing-the-integration-gap-in-enter/833071/"
+      ],
+      "item_count": 2,
+      "duplicate_count": 0,
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.6666666666666666,
+        "multi_source_confirmation": 0.4,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "高端医疗器械 聚合 2 条"
+      ],
+      "earliest_at": "2026-10-19T09:00:00",
+      "latest_at": "2026-10-19T00:00:00",
+      "primary_item": {
+        "title": "An interpretable AI model decodes the rules of cell recruitment to specific destinations",
+        "url": "https://www.nature.com/articles/s41551-026-01803-7",
+        "source": "Nature Biomedical Engineering"
+      }
+    },
+    {
+      "story_id": "trendscan_15",
+      "title": "A liquid-crystal analogue of the skyrmion Hall effect",
+      "url": "https://www.nature.com/articles/s41567-026-03379-0",
+      "primary_url": "https://www.nature.com/articles/s41567-026-03379-0",
+      "source": "Nature Physics",
+      "source_name": "Nature Physics",
+      "sources": [
+        "Nature Physics",
+        "Nature Physics"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nature Physics"
+      ],
+      "items": [
+        "https://www.nature.com/articles/s41567-026-03379-0",
+        "https://www.nature.com/articles/s41567-026-03454-6"
+      ],
+      "item_count": 2,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.4,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "超导与量子材料 聚合 2 条"
+      ],
+      "earliest_at": "2026-10-19T00:00:00",
+      "latest_at": "2026-10-19T00:00:00",
+      "primary_item": {
+        "title": "A liquid-crystal analogue of the skyrmion Hall effect",
+        "url": "https://www.nature.com/articles/s41567-026-03379-0",
+        "source": "Nature Physics"
+      }
+    },
+    {
+      "story_id": "trendscan_01",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "primary_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "source": "MIT News AI",
+      "source_name": "MIT News AI",
+      "sources": [
+        "MIT News AI"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MIT News AI"
+      ],
+      "items": [
+        "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+      ],
+      "item_count": 1,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.2,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "AI+科学 聚合 1 条"
+      ],
+      "earliest_at": "2026-10-18T04:00:00",
+      "latest_at": "2026-10-18T04:00:00",
+      "primary_item": {
+        "title": "Giving AI a “crystal clear” view of the materials world",
+        "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+        "source": "MIT News AI"
+      }
+    },
+    {
+      "story_id": "trendscan_24",
+      "title": "When do people experience mental health conditions for the first time?",
+      "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "primary_url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+      "source": "Our World in Data",
+      "source_name": "Our World in Data",
+      "sources": [
+        "Our World in Data"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Our World in Data"
+      ],
+      "items": [
+        "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time"
+      ],
+      "item_count": 1,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.2,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "24 聚合 1 条"
+      ],
+      "earliest_at": "2026-10-19T00:00:00",
+      "latest_at": "2026-10-19T00:00:00",
+      "primary_item": {
+        "title": "When do people experience mental health conditions for the first time?",
+        "url": "https://ourworldindata.org/when-do-people-experience-mental-health-conditions-for-the-first-time",
+        "source": "Our World in Data"
       }
     }
   ]
