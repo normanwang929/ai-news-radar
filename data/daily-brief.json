@@ -1,8 +1,213 @@
 {
-  "generated_at": "2026-10-25T04:56:56.359995+00:00",
+  "generated_at": "2026-10-25T08:20:22.667236+00:00",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 20,
   "items": [
+    {
+      "story_id": "trendscan_17",
+      "title": "红魔12pro+拆解测评！这个水冷系统可以改装到其他手机上吗？ 红魔10pro+",
+      "url": "https://www.bilibili.com/video/BV1PyHw6qERQ",
+      "primary_url": "https://www.bilibili.com/video/BV1PyHw6qERQ",
+      "source": "B站 搜索:科技数码",
+      "source_name": "B站 搜索:科技数码",
+      "sources": [
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码"
+      ],
+      "source_count": 6,
+      "source_names": [
+        "B站 搜索:科技数码",
+        "B站 搜索:机器人",
+        "B站 搜索:AI Agent",
+        "B站 搜索:人工智能",
+        "B站 搜索:AI 大模型",
+        "B站 热门"
+      ],
+      "items": [
+        "https://www.bilibili.com/video/BV1PyHw6qERQ",
+        "https://www.bilibili.com/video/BV1rtnb6uESe",
+        "https://www.bilibili.com/video/BV1qvnb6eEaS",
+        "https://www.bilibili.com/video/BV1sap16bEEk",
+        "https://www.bilibili.com/video/BV1ZYnB6dESZ",
+        "https://www.bilibili.com/video/BV1vTHN6bEyN",
+        "https://www.bilibili.com/video/BV17VTa6uE9u",
+        "https://www.bilibili.com/video/BV1hgHA6UEdv",
+        "https://www.bilibili.com/video/BV1rRpy6XE7D",
+        "https://www.bilibili.com/video/BV1GxHw6SE4U",
+        "https://www.bilibili.com/video/BV1ySai64EyW",
+        "https://www.bilibili.com/video/BV1u6na6ZEAU",
+        "https://www.bilibili.com/video/BV1g7nY6YE7F",
+        "https://www.bilibili.com/video/BV1aTHA6DE5j",
+        "https://www.bilibili.com/video/BV1h8HV61EFi",
+        "https://www.bilibili.com/video/BV151nh6vEw6",
+        "https://www.bilibili.com/video/BV1vPHA6XEpH",
+        "https://www.bilibili.com/video/BV1fVHw6oEyt",
+        "https://www.bilibili.com/video/BV1VXnY6BEQN",
+        "https://www.bilibili.com/video/BV1ySna6DEXp"
+      ],
+      "item_count": 81,
+      "duplicate_count": 0,
+      "score": 85.0,
+      "importance": 1.0,
+      "importance_score": 100,
+      "importance_label": "high",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "B站 聚合 81 条"
+      ],
+      "earliest_at": "2026-10-25 04:57:01",
+      "latest_at": "2026-10-25 04:58:07",
+      "primary_item": {
+        "title": "红魔12pro+拆解测评！这个水冷系统可以改装到其他手机上吗？ 红魔10pro+",
+        "url": "https://www.bilibili.com/video/BV1PyHw6qERQ",
+        "source": "B站 搜索:科技数码"
+      }
+    },
+    {
+      "story_id": "trendscan_25",
+      "title": "อธิบดีฯ นำคณะผู้บริหารกรมศุลกากร ร่วมวางพวงมาลาถวายราชสักการะพระบรมราชานุสาวรีย์พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว (รัชกาลที่ 5) ณ กระทรวงการคลัง",
+      "url": "https://www.customs.go.th/cont_strc_simple_with_date.php?lang=th&top_menu=menu_homepage&ini_menu=menu_public_relations_160421_04&left_menu=menu_public_relations_160421_04_160421_01&current_id=14232b324148505f47464b47464a4e",
+      "primary_url": "https://www.customs.go.th/cont_strc_simple_with_date.php?lang=th&top_menu=menu_homepage&ini_menu=menu_public_relations_160421_04&left_menu=menu_public_relations_160421_04_160421_01&current_id=14232b324148505f47464b47464a4e",
+      "source": "泰国·海关 customs.go.th（公告 + 新闻）",
+      "source_name": "泰国·海关 customs.go.th（公告 + 新闻）",
+      "sources": [
+        "泰国·海关 customs.go.th（公告 + 新闻）",
+        "泰国·海关 customs.go.th（公告 + 新闻）",
+        "印度·外贸总局 DGFT（Notification / Public Notice）",
+        "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+        "泰国·国际贸易谈判厅 DTN（泰语）"
+      ],
+      "source_count": 9,
+      "source_names": [
+        "泰国·海关 customs.go.th（公告 + 新闻）",
+        "印度·外贸总局 DGFT（Notification / Public Notice）",
+        "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+        "泰国·国际贸易谈判厅 DTN（泰语）",
+        "韩国·产业通商资源部 MOTIE（韩语）",
+        "印尼·检疫局 BARANTIN（印尼语）",
+        "越南·政府法规库（越南语）",
+        "墨西哥·DOF 官方日报（西语）",
+        "Federal Register（贸易/海关/出口管制）"
+      ],
+      "items": [
+        "https://www.customs.go.th/cont_strc_simple_with_date.php?lang=th&top_menu=menu_homepage&ini_menu=menu_public_relations_160421_04&left_menu=menu_public_relations_160421_04_160421_01&current_id=14232b324148505f47464b47464a4e",
+        "https://www.customs.go.th/cont_strc_simple_with_date.php?lang=th&top_menu=menu_homepage&ini_menu=menu_public_relations_160421_04&left_menu=menu_public_relations_160421_04_160421_01&current_id=14232b324148505f47464b47464a4f",
+        "https://content.dgft.gov.in/Website/dgftprod/48221271-6844-4069-9a0a-3fe0f55983a9/Public%20Notice%2036%20dated%2023.10.26-%20English.pdf",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202690912",
+        "https://www.dtn.go.th/th/content/category/detail/id/22/iid/15105",
+        "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/172327/view",
+        "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/172325/view",
+        "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/172324/view",
+        "https://karantinaindonesia.go.id/berita/menteri-umkm-dorong-barantin-bertransformasi-dari-keeper-jadi-striker-ekspor-nasional",
+        "https://karantinaindonesia.go.id/berita/ekspor-durian-manggis-salak-ke-china-capai-rp594-triliun-barantin-perluas-pasar-buah-tropis",
+        "https://karantinaindonesia.go.id/berita/tidak-hanya-punya-pasar-ini-5-langkah-memulai-ekspor-untuk-pelaku-usaha",
+        "https://vanban.chinhphu.vn/?pageid=27160&docid=220080",
+        "https://dof.gob.mx/nota_detalle.php?codigo=5802077&fecha=23/10/2026",
+        "https://www.federalregister.gov/documents/2026/10/23/2026-21683/agency-information-collection-activities-extension-of-a-currently-approved-collection-electronic",
+        "https://www.federalregister.gov/documents/2026/10/23/2026-21714/agency-information-collection-activities-proposed-collection-comment-request-export-certificates-for",
+        "https://www.federalregister.gov/documents/2026/10/26/2026-21819/certain-small-vertical-shaft-engines-between-99cc-and-up-to-225cc-and-parts-thereof-from-the-peoples",
+        "https://www.federalregister.gov/documents/2026/10/26/2026-21793/carbazole-violet-pigment-23-from-india-final-results-and-rescission-in-part-of-countervailing-duty",
+        "https://www.federalregister.gov/documents/2026/10/26/2026-21792/notice-of-extension-of-the-deadline-for-determining-the-adequacy-of-the-antidumping-and",
+        "https://www.federalregister.gov/documents/2026/10/26/2026-21791/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
+        "https://www.federalregister.gov/documents/2026/10/26/2026-21790/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-mexico-initiation-and-expedited"
+      ],
+      "item_count": 26,
+      "duplicate_count": 0,
+      "score": 85.0,
+      "importance": 1.0,
+      "importance_score": 100,
+      "importance_label": "high",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "25 聚合 26 条"
+      ],
+      "earliest_at": "2026-10-26",
+      "latest_at": "2026-10-23",
+      "primary_item": {
+        "title": "อธิบดีฯ นำคณะผู้บริหารกรมศุลกากร ร่วมวางพวงมาลาถวายราชสักการะพระบรมราชานุสาวรีย์พระบาทสมเด็จพระจุลจอมเกล้าเจ้าอยู่หัว (รัชกาลที่ 5) ณ กระทรวงการคลัง",
+        "url": "https://www.customs.go.th/cont_strc_simple_with_date.php?lang=th&top_menu=menu_homepage&ini_menu=menu_public_relations_160421_04&left_menu=menu_public_relations_160421_04_160421_01&current_id=14232b324148505f47464b47464a4e",
+        "source": "泰国·海关 customs.go.th（公告 + 新闻）"
+      }
+    },
+    {
+      "story_id": "trendscan_18",
+      "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2097409044340105309",
+      "primary_url": "https://www.zhihu.com/question/2097409044340105309",
+      "source": "知乎热榜",
+      "source_name": "知乎热榜",
+      "sources": [
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜"
+      ],
+      "source_count": 4,
+      "source_names": [
+        "知乎热榜",
+        "知乎搜索:机器人",
+        "知乎搜索:人工智能",
+        "知乎搜索:大模型"
+      ],
+      "items": [
+        "https://www.zhihu.com/question/2097409044340105309",
+        "https://www.zhihu.com/question/2097101591828607209",
+        "https://www.zhihu.com/question/2097479998525518163",
+        "https://www.zhihu.com/question/2097263594421188141",
+        "https://www.zhihu.com/question/2096995356298798326",
+        "https://api.zhihu.com/articles/2097354215165380205",
+        "https://api.zhihu.com/articles/2094718486157211527",
+        "https://api.zhihu.com/answers/3257957942",
+        "https://api.zhihu.com/answers/2097424509552936549",
+        "https://www.zhihu.com/question/2097021346526001046",
+        "https://www.zhihu.com/question/2094830367932770236",
+        "https://www.zhihu.com/question/2096903756369458155",
+        "https://www.zhihu.com/question/2096913276739367170",
+        "https://www.zhihu.com/question/1890868469970474047",
+        "https://www.zhihu.com/question/2097019307393802452",
+        "https://www.zhihu.com/question/2096743580895397227",
+        "https://www.zhihu.com/question/2097439336874467725",
+        "https://www.zhihu.com/question/2097587323957527800",
+        "https://www.zhihu.com/question/2095443485298004597",
+        "https://www.zhihu.com/question/1968296046963701519"
+      ],
+      "item_count": 35,
+      "duplicate_count": 0,
+      "score": 56.1,
+      "importance": 0.6666666666666666,
+      "importance_score": 66,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "知乎 聚合 35 条"
+      ],
+      "earliest_at": "2026-10-25 04:57:47",
+      "latest_at": "2026-10-25T05:05:44",
+      "primary_item": {
+        "title": "广西一病人转院被网约车司机丢弃致死，家属索赔96万，法院一审判司机平台赔1.3万，如何从法律角度解读？",
+        "url": "https://www.zhihu.com/question/2097409044340105309",
+        "source": "知乎热榜"
+      }
+    },
     {
       "story_id": "trendscan_23",
       "title": "Polish Research Institute NASK, OpenAI Reach Deal on AI Safety Work",
@@ -565,6 +770,195 @@
       }
     },
     {
+      "story_id": "trendscan_22",
+      "title": "张雪机车刷新水上漂吉尼斯世界纪录",
+      "url": "https://www.toutiao.com/trending/7700435988002295305",
+      "primary_url": "https://www.toutiao.com/trending/7700435988002295305",
+      "source": "头条热搜",
+      "source_name": "头条热搜",
+      "sources": [
+        "头条热搜",
+        "头条热搜",
+        "头条热搜",
+        "头条热搜",
+        "头条热搜"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "头条热搜"
+      ],
+      "items": [
+        "https://www.toutiao.com/trending/7700435988002295305",
+        "https://www.toutiao.com/trending/7699509225088745526",
+        "https://www.toutiao.com/article/7700268366656717366",
+        "https://www.toutiao.com/trending/7699488753051631679",
+        "https://www.toutiao.com/trending/7700453725483322890",
+        "https://www.toutiao.com/trending/7699853418193993778",
+        "https://www.toutiao.com/trending/7700115642267844644",
+        "https://www.toutiao.com/trending/7699576136581513252",
+        "https://www.toutiao.com/trending/7700164112277962788",
+        "https://www.toutiao.com/trending/7699619544650186788",
+        "https://www.toutiao.com/trending/7699081979290976299",
+        "https://www.toutiao.com/trending/7699717741762887731",
+        "https://www.toutiao.com/trending/7700238435788849215",
+        "https://www.toutiao.com/trending/7700442295597796883",
+        "https://www.toutiao.com/trending/7699312196769316927",
+        "https://www.toutiao.com/trending/7699554624717586482",
+        "https://www.toutiao.com/trending/7700416153847496714",
+        "https://www.toutiao.com/trending/7699813230826455076",
+        "https://www.toutiao.com/trending/7700139588664328754",
+        "https://www.toutiao.com/trending/7697545375591318042"
+      ],
+      "item_count": 50,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "头条热搜 聚合 50 条"
+      ],
+      "earliest_at": "2026-10-25T05:05:41",
+      "latest_at": "2026-10-25T05:05:41",
+      "primary_item": {
+        "title": "张雪机车刷新水上漂吉尼斯世界纪录",
+        "url": "https://www.toutiao.com/trending/7700435988002295305",
+        "source": "头条热搜"
+      }
+    },
+    {
+      "story_id": "trendscan_19",
+      "title": "日剧Vivant抹黑中国",
+      "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+      "primary_url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+      "source": "微博热搜",
+      "source_name": "微博热搜",
+      "sources": [
+        "微博热搜",
+        "微博热搜",
+        "微博热搜",
+        "微博热搜",
+        "微博热搜"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "微博热搜"
+      ],
+      "items": [
+        "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%88%B7%E6%96%B0%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+        "https://s.weibo.com/weibo?q=%E5%90%91%E8%8B%B1%E9%9B%84%E8%87%B4%E6%95%AC%E8%BF%8E%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
+        "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E8%A2%AB%E6%8C%A4%E7%88%86",
+        "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%A7%91%E5%A8%98%E7%BD%91%E8%B4%AD%E9%B9%A4%E5%B2%97%E6%88%BF%E6%90%AC%E8%BF%9B%E5%8E%BB%E5%90%8E%E5%82%BB%E7%9C%BC",
+        "https://s.weibo.com/weibo?q=%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8B%92%E7%BB%9D%E5%BC%A0%E9%9B%AA%E4%B8%BA%E5%AE%B6%E4%B9%A1%E6%89%93%E5%B9%BF%E5%91%8A",
+        "https://s.weibo.com/weibo?q=2025%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E7%94%B7%E5%AD%A9%E5%A4%9A%E4%BA%8E%E5%A5%B3%E5%AD%A9",
+        "https://s.weibo.com/weibo?q=178%E5%B9%B3%E6%88%BF%E6%94%B96%E4%B8%AA%E5%A5%97%E9%97%B4%E6%A5%BC%E4%B8%8B%E9%82%BB%E5%B1%85%E5%B4%A9%E6%BA%83",
+        "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E7%85%A7%E7%89%87%E8%A2%AB%E5%8F%91%E8%89%B2%E6%83%85%E8%BD%AF%E4%BB%B6%E4%B8%BA%E4%BD%95%E7%BB%B4%E6%9D%83%E9%9A%BE",
+        "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B7%B3%E6%9D%8E%E6%9F%AF%E4%BB%A5%E7%9F%AD%E5%89%A7%E9%A1%B6%E6%B5%81%E9%A6%96%E6%90%AD",
+        "https://s.weibo.com/weibo?q=%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A9%9A%E7%A4%BC%E5%8F%91%E8%A8%80%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BA%89%E8%AE%AE",
+        "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%88%86%E5%87%BA%E5%9C%88",
+        "https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E5%81%A5%E5%B7%B2%E6%97%A0%E6%B3%95%E8%AF%B4%E8%AF%9D",
+        "https://s.weibo.com/weibo?q=2026%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95",
+        "https://s.weibo.com/weibo?q=S16%E7%91%9E%E5%A3%AB%E8%BD%AE1-1%E7%BB%84%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%E5%87%BA%E7%82%89",
+        "https://s.weibo.com/weibo?q=%E7%A5%96%E6%B5%B7%E6%80%81%E5%BA%A6",
+        "https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E8%9C%80%E9%81%93%E5%BC%80%E6%9C%BA%E4%BA%86",
+        "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%9B%9E%E5%BA%94%E7%98%A6%E5%BE%97%E5%A4%B8%E5%BC%A0",
+        "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%86%8D%E9%97%B9%E5%8F%B6%E6%96%87%E6%B4%81%E6%8C%89%E6%8C%89%E9%92%AE%E4%BA%86",
+        "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8D%A2%E8%8B%B9%E6%9E%9C%E5%8D%A1%E5%9C%A8%E5%8A%9E%E6%89%8B%E6%9C%BA%E5%8D%A1"
+      ],
+      "item_count": 50,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "微博热搜 聚合 50 条"
+      ],
+      "earliest_at": "2026-10-25T05:05:32",
+      "latest_at": "2026-10-25T05:05:32",
+      "primary_item": {
+        "title": "日剧Vivant抹黑中国",
+        "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E5%89%A7Vivant%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+        "source": "微博热搜"
+      }
+    },
+    {
+      "story_id": "trendscan_20",
+      "title": "台湾光复81周年",
+      "url": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
+      "primary_url": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
+      "source": "抖音热搜",
+      "source_name": "抖音热搜",
+      "sources": [
+        "抖音热搜",
+        "抖音热搜",
+        "抖音热搜",
+        "抖音热搜",
+        "抖音热搜"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "抖音热搜"
+      ],
+      "items": [
+        "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
+        "https://www.douyin.com/search/%E7%81%AB%E7%AE%AD%E9%99%A9%E8%83%9C%E8%80%81%E9%B9%B0%E8%B1%AA%E5%8F%96%E4%B8%89%E8%BF%9E%E8%83%9C",
+        "https://www.douyin.com/search/%E8%87%B4%E6%95%AC%E6%9C%80%E5%8F%AF%E7%88%B1%E7%9A%84%E4%BA%BA",
+        "https://www.douyin.com/search/iPhone%20Duo%E8%A2%AB%E5%90%90%E6%A7%BD%E2%80%9C%E5%85%AC%E6%91%8A%E9%9D%A2%E7%A7%AF%E2%80%9D%E8%BF%87%E5%A4%A7",
+        "https://www.douyin.com/search/A%E8%82%A1%E6%8C%87%E6%95%B0%E8%B0%83%E6%95%B410%E6%9C%8826%E6%97%A5%E8%90%BD%E5%9C%B0",
+        "https://www.douyin.com/search/%E7%BA%AA%E5%BF%B5%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E5%87%BA%E5%9B%BD%E4%BD%9C%E6%88%9876%E5%91%A8%E5%B9%B4",
+        "https://www.douyin.com/search/%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B%E8%90%BD%E5%B9%95",
+        "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%9C%A8%E6%88%91%E5%9B%BD%E8%BF%91%E6%B5%B7%E6%B4%BB%E8%B7%83",
+        "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%88%B7%E6%96%B0%E6%B0%B4%E4%B8%8A%E6%BC%82%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95",
+        "https://www.douyin.com/search/TES%E6%88%98%E8%83%9CAL",
+        "https://www.douyin.com/search/%E2%80%9C%E7%A3%81%E6%9E%81%E5%8D%B3%E5%B0%86%E5%80%92%E8%BD%AC%E2%80%9D%E7%9A%84%E4%BC%A0%E8%A8%80%E5%8F%AF%E4%BF%A1%E5%90%97",
+        "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CTLAW",
+        "https://www.douyin.com/search/%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87%E6%8F%90%E5%89%8D%E9%99%8D%E7%BA%A7",
+        "https://www.douyin.com/search/%E5%88%87%E5%B0%94%E8%A5%BF0%3A2%E7%83%AD%E5%88%BA",
+        "https://www.douyin.com/search/S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B5%9B%E6%9E%9C",
+        "https://www.douyin.com/search/%E8%B4%9D%E6%96%AF%E5%8A%A0%E9%BC%93%E7%82%B9%E9%9A%8F%E4%BE%BF%E9%85%8D%E5%BC%A0%E7%85%A7%E7%89%87%E9%83%BD%E5%A5%BD%E6%8B%BD",
+        "https://www.douyin.com/search/%E5%9C%A8%E4%B9%9D%E5%AF%A8%E6%B2%9F%E6%8B%8D%E5%88%B0%E9%87%8E%E7%94%9F%E6%B0%B4%E7%8D%AD%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F",
+        "https://www.douyin.com/search/%E5%BF%AB%E7%A1%AC%E5%A4%B8%E6%88%91%E4%B8%80%E5%8F%A5",
+        "https://www.douyin.com/search/IG%E6%88%98%E8%83%9CTSW",
+        "https://www.douyin.com/search/%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%A1%A1%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A"
+      ],
+      "item_count": 48,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "抖音热搜 聚合 48 条"
+      ],
+      "earliest_at": "2026-10-25T05:05:36",
+      "latest_at": "2026-10-25T05:05:36",
+      "primary_item": {
+        "title": "台湾光复81周年",
+        "url": "https://www.douyin.com/search/%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D81%E5%91%A8%E5%B9%B4",
+        "source": "抖音热搜"
+      }
+    },
+    {
       "story_id": "trendscan_12",
       "title": "Apparent magnetic field decay in a solar flare from Zeeman splitting of the Mg I 12.32-µm line",
       "url": "https://www.nature.com/articles/s41550-026-03013-2",
@@ -726,46 +1120,6 @@
         "title": "Maxwell’s demon with memory",
         "url": "https://www.nature.com/articles/s41567-026-03509-8",
         "source": "Nature Physics"
-      }
-    },
-    {
-      "story_id": "trendscan_07",
-      "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-      "primary_url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-      "source": "ScienceDaily Biotech",
-      "source_name": "ScienceDaily Biotech",
-      "sources": [
-        "ScienceDaily Biotech"
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ScienceDaily Biotech"
-      ],
-      "items": [
-        "https://www.sciencedaily.com/releases/2026/10/261023023726.htm"
-      ],
-      "item_count": 1,
-      "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 0.2,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "合成生物学与生物制造 聚合 1 条"
-      ],
-      "earliest_at": "2026-10-24T12:39:16",
-      "latest_at": "2026-10-24T12:39:16",
-      "primary_item": {
-        "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-        "url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-        "source": "ScienceDaily Biotech"
       }
     }
   ]
