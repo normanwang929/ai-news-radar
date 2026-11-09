@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T05:16:23.494864+00:00",
+  "generated_at": "2026-11-09T12:56:58.504078+00:00",
   "sites": [
     {
       "site_id": "weibo",
@@ -29,7 +29,7 @@
       "site_id": "zhihu",
       "site_name": "知乎",
       "ok": true,
-      "item_count": 2952,
+      "item_count": 2973,
       "duration_ms": 0,
       "error": null
     },
@@ -37,7 +37,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 1719,
+      "item_count": 1733,
       "duration_ms": 0,
       "error": null
     },
@@ -53,7 +53,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 1129,
+      "item_count": 1143,
       "duration_ms": 0,
       "error": null
     },
@@ -69,7 +69,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 754,
+      "item_count": 759,
       "duration_ms": 0,
       "error": null
     },
@@ -974,8 +974,8 @@
   "failed_sites": 0,
   "zero_item_sites": 0,
   "empty_advanced_sources": [],
-  "fetched_raw_items": 38513,
-  "items_before_topic_filter": 38513,
+  "fetched_raw_items": 38567,
+  "items_before_topic_filter": 38567,
   "items_in_24h": 5285,
   "rss_opml": "bridge"
 }
