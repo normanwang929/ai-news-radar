@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-09T05:16:23.576545+00:00",
+  "generated_at": "2026-11-09T12:56:58.640386+00:00",
   "window_hours": 24,
   "total_stories": 20,
   "stories": [
     {
       "story_id": "trendscan_17",
-      "title": "iPhone灵动岛机型一定要开启的功能！#数码科技 #iphone小技巧 #手机使用技巧 #iphone #灵动岛",
-      "url": "https://www.bilibili.com/video/BV1ptW76nEzA",
-      "primary_url": "https://www.bilibili.com/video/BV1ptW76nEzA",
-      "source": "B站 搜索:科技数码",
-      "source_name": "B站 搜索:科技数码",
+      "title": "第5期：早期的人工智能",
+      "url": "https://www.bilibili.com/video/BV1pQWt6yEY6",
+      "primary_url": "https://www.bilibili.com/video/BV1pQWt6yEY6",
+      "source": "B站 搜索:人工智能",
+      "source_name": "B站 搜索:人工智能",
       "sources": [
-        "B站 搜索:科技数码",
-        "B站 搜索:科技数码",
-        "B站 搜索:科技数码",
-        "B站 搜索:科技数码",
-        "B站 搜索:科技数码"
+        "B站 搜索:人工智能",
+        "B站 搜索:人工智能",
+        "B站 搜索:人工智能",
+        "B站 搜索:人工智能",
+        "B站 搜索:人工智能"
       ],
       "source_count": 6,
       "source_names": [
-        "B站 搜索:科技数码",
-        "B站 搜索:机器人",
-        "B站 搜索:AI Agent",
         "B站 搜索:人工智能",
         "B站 搜索:AI 大模型",
-        "B站 热门"
+        "B站 热门",
+        "B站 搜索:科技数码",
+        "B站 搜索:机器人",
+        "B站 搜索:AI Agent"
       ],
       "items": [
-        "https://www.bilibili.com/video/BV1ptW76nEzA",
-        "https://www.bilibili.com/video/BV15mW76qE5T",
-        "https://www.bilibili.com/video/BV1QqWE6PE2c",
-        "https://www.bilibili.com/video/BV1AZWn6tEWH",
-        "https://www.bilibili.com/video/BV1zZWE6UEDc",
-        "https://www.bilibili.com/video/BV16cWH6sE7E",
-        "https://www.bilibili.com/video/BV19h4x6wEkj",
-        "https://www.bilibili.com/video/BV18JWJ6eEwT",
-        "https://www.bilibili.com/video/BV1ssW76pEDG",
-        "https://www.bilibili.com/video/BV1tAWE64EkT",
-        "https://www.bilibili.com/video/BV1b5Ws6VEAy",
-        "https://www.bilibili.com/video/BV1AwWW6YECu",
-        "https://www.bilibili.com/video/BV1xpW461EsL",
-        "https://www.bilibili.com/video/BV1R8Wn61EYf",
-        "https://www.bilibili.com/video/BV15aWn6LEJk",
-        "https://www.bilibili.com/video/BV1oxWn6EEy6",
-        "https://www.bilibili.com/video/BV1h4WW6LEvK",
-        "https://www.bilibili.com/video/BV13AWs6DEXb",
-        "https://www.bilibili.com/video/BV1qUWH6pEQK",
-        "https://www.bilibili.com/video/BV1g44H6EEyf"
+        "https://www.bilibili.com/video/BV1pQWt6yEY6",
+        "https://www.bilibili.com/video/BV1LAWb6TESw",
+        "https://www.bilibili.com/video/BV1hjWb6tEbX",
+        "https://www.bilibili.com/video/BV1euWb6AEt5",
+        "https://www.bilibili.com/video/BV1YuWb6AEUa",
+        "https://www.bilibili.com/video/BV1YpWx6oEX4",
+        "https://www.bilibili.com/video/BV1tqWx6jEvZ",
+        "https://www.bilibili.com/video/BV1YgWb6aENC",
+        "https://www.bilibili.com/video/BV1d6W46AE8U",
+        "https://www.bilibili.com/video/BV1jJWt6qEpP",
+        "https://www.bilibili.com/video/BV16oxh6RE3R",
+        "https://www.bilibili.com/video/BV16v4467Eem",
+        "https://www.bilibili.com/video/BV1RbWE6BExJ",
+        "https://www.bilibili.com/video/BV1ZfWx6wEJ1",
+        "https://www.bilibili.com/video/BV1iJWx6ZEH8",
+        "https://www.bilibili.com/video/BV1ZG4H6ZEmQ",
+        "https://www.bilibili.com/video/BV1fX4H68EEQ",
+        "https://www.bilibili.com/video/BV1GxWx6REbf",
+        "https://www.bilibili.com/video/BV1gjWb6tEq3",
+        "https://www.bilibili.com/video/BV1WEWs66EBP"
       ],
-      "item_count": 110,
+      "item_count": 143,
       "duplicate_count": 0,
       "score": 85.0,
       "importance": 1.0,
@@ -61,14 +61,14 @@
       },
       "category": "trendscan",
       "reasons": [
-        "B站 聚合 110 条"
+        "B站 聚合 143 条"
       ],
       "earliest_at": "2026-11-09 01:20:32",
-      "latest_at": "2026-11-09 04:31:08",
+      "latest_at": "2026-11-09 12:56:56",
       "primary_item": {
-        "title": "iPhone灵动岛机型一定要开启的功能！#数码科技 #iphone小技巧 #手机使用技巧 #iphone #灵动岛",
-        "url": "https://www.bilibili.com/video/BV1ptW76nEzA",
-        "source": "B站 搜索:科技数码"
+        "title": "第5期：早期的人工智能",
+        "url": "https://www.bilibili.com/video/BV1pQWt6yEY6",
+        "source": "B站 搜索:人工智能"
       }
     },
     {
@@ -198,6 +198,72 @@
       }
     },
     {
+      "story_id": "trendscan_18",
+      "title": "「世另我」左右手首次在全球总决赛顶峰相见，你看好谁最终夺得 S16 总决赛冠军？",
+      "url": "https://www.zhihu.com/question/2103059985731155544",
+      "primary_url": "https://www.zhihu.com/question/2103059985731155544",
+      "source": "知乎热榜",
+      "source_name": "知乎热榜",
+      "sources": [
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜"
+      ],
+      "source_count": 4,
+      "source_names": [
+        "知乎热榜",
+        "知乎搜索:机器人",
+        "知乎搜索:人工智能",
+        "知乎搜索:大模型"
+      ],
+      "items": [
+        "https://www.zhihu.com/question/2103059985731155544",
+        "https://www.zhihu.com/question/2102402187066356442",
+        "https://www.zhihu.com/question/2102717260867559519",
+        "https://www.zhihu.com/question/2103168044000178844",
+        "https://www.zhihu.com/question/2086783568102143886",
+        "https://www.zhihu.com/question/2102838731207963818",
+        "https://www.zhihu.com/question/2102816165504591480",
+        "https://www.zhihu.com/question/2102853586312849265",
+        "https://www.zhihu.com/question/2103023634302203854",
+        "https://www.zhihu.com/question/430168669",
+        "https://www.zhihu.com/question/2101953402976715116",
+        "https://www.zhihu.com/question/2102861867601479373",
+        "https://www.zhihu.com/question/2044482302038759160",
+        "https://www.zhihu.com/question/2102480088411419212",
+        "https://www.zhihu.com/question/2103063049640977024",
+        "https://www.zhihu.com/question/2100849986003124252",
+        "https://www.zhihu.com/question/2103133144081588527",
+        "https://www.zhihu.com/question/884763344",
+        "https://www.zhihu.com/question/1894422343595557725",
+        "https://www.zhihu.com/question/2102835109233694699"
+      ],
+      "item_count": 75,
+      "duplicate_count": 0,
+      "score": 56.1,
+      "importance": 0.6666666666666666,
+      "importance_score": 66,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "知乎 聚合 75 条"
+      ],
+      "earliest_at": "2026-11-09 01:20:32",
+      "latest_at": "2026-11-09 12:56:55",
+      "primary_item": {
+        "title": "「世另我」左右手首次在全球总决赛顶峰相见，你看好谁最终夺得 S16 总决赛冠军？",
+        "url": "https://www.zhihu.com/question/2103059985731155544",
+        "source": "知乎热榜"
+      }
+    },
+    {
       "story_id": "trendscan_20",
       "title": "BLG战胜T1挺进决赛",
       "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CT1%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
@@ -258,72 +324,6 @@
         "title": "BLG战胜T1挺进决赛",
         "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CT1%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
         "source": "抖音热搜"
-      }
-    },
-    {
-      "story_id": "trendscan_18",
-      "title": "山西太原迎泽区一公寓发生火灾，已致 14 人死亡，具体情况如何？",
-      "url": "https://www.zhihu.com/question/2102831883318813299",
-      "primary_url": "https://www.zhihu.com/question/2102831883318813299",
-      "source": "知乎热榜",
-      "source_name": "知乎热榜",
-      "sources": [
-        "知乎热榜",
-        "知乎热榜",
-        "知乎热榜",
-        "知乎热榜",
-        "知乎热榜"
-      ],
-      "source_count": 4,
-      "source_names": [
-        "知乎热榜",
-        "知乎搜索:机器人",
-        "知乎搜索:人工智能",
-        "知乎搜索:大模型"
-      ],
-      "items": [
-        "https://www.zhihu.com/question/2102831883318813299",
-        "https://www.zhihu.com/question/418412789",
-        "https://www.zhihu.com/question/2103060164601500808",
-        "https://www.zhihu.com/question/2102923372690663317",
-        "https://www.zhihu.com/question/2103059281805304888",
-        "https://www.zhihu.com/question/2081333782171465172",
-        "https://www.zhihu.com/question/417852496",
-        "https://www.zhihu.com/question/2100312974527313332",
-        "https://www.zhihu.com/question/2103054279376204138",
-        "https://www.zhihu.com/question/2098513012952979066",
-        "https://www.zhihu.com/question/2099388154738390010",
-        "https://www.zhihu.com/question/2102986419153249904",
-        "https://www.zhihu.com/question/2103039156586637089",
-        "https://www.zhihu.com/question/2100970860433649743",
-        "https://www.zhihu.com/question/2100297734741926971",
-        "https://www.zhihu.com/question/2101627178777409157",
-        "https://www.zhihu.com/question/2102148066476299524",
-        "https://www.zhihu.com/question/2103022165130007467",
-        "https://www.zhihu.com/question/2102816814208116348",
-        "https://www.zhihu.com/question/2096714180648760219"
-      ],
-      "item_count": 54,
-      "duplicate_count": 0,
-      "score": 56.1,
-      "importance": 0.6666666666666666,
-      "importance_score": 66,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 1.0,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "知乎 聚合 54 条"
-      ],
-      "earliest_at": "2026-11-09 01:20:32",
-      "latest_at": "2026-11-09T04:46:14",
-      "primary_item": {
-        "title": "山西太原迎泽区一公寓发生火灾，已致 14 人死亡，具体情况如何？",
-        "url": "https://www.zhihu.com/question/2102831883318813299",
-        "source": "知乎热榜"
       }
     },
     {
