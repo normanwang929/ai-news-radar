@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T08:20:42.940716+00:00",
+  "generated_at": "2026-11-19T08:20:31.411371+00:00",
   "sites": [
     {
       "site_id": "weibo",
       "site_name": "微博热搜",
       "ok": true,
-      "item_count": 5962,
+      "item_count": 6051,
       "duration_ms": 0,
       "error": null
     },
@@ -13,7 +13,7 @@
       "site_id": "toutiao",
       "site_name": "头条热搜",
       "ok": true,
-      "item_count": 5040,
+      "item_count": 5089,
       "duration_ms": 0,
       "error": null
     },
@@ -21,7 +21,7 @@
       "site_id": "douyin",
       "site_name": "抖音热搜",
       "ok": true,
-      "item_count": 4012,
+      "item_count": 4074,
       "duration_ms": 0,
       "error": null
     },
@@ -29,7 +29,7 @@
       "site_id": "zhihu",
       "site_name": "知乎",
       "ok": true,
-      "item_count": 3349,
+      "item_count": 3396,
       "duration_ms": 0,
       "error": null
     },
@@ -37,7 +37,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 1940,
+      "item_count": 1965,
       "duration_ms": 0,
       "error": null
     },
@@ -45,7 +45,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 1565,
+      "item_count": 1589,
       "duration_ms": 0,
       "error": null
     },
@@ -53,7 +53,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 1286,
+      "item_count": 1302,
       "duration_ms": 0,
       "error": null
     },
@@ -61,7 +61,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 1030,
+      "item_count": 1045,
       "duration_ms": 0,
       "error": null
     },
@@ -69,7 +69,7 @@
       "site_id": "Unite.AI",
       "site_name": "Unite.AI",
       "ok": true,
-      "item_count": 888,
+      "item_count": 913,
       "duration_ms": 0,
       "error": null
     },
@@ -77,7 +77,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 852,
+      "item_count": 861,
       "duration_ms": 0,
       "error": null
     },
@@ -93,7 +93,7 @@
       "site_id": "trendscan_space",
       "site_name": "商业航天",
       "ok": true,
-      "item_count": 729,
+      "item_count": 731,
       "duration_ms": 0,
       "error": null
     },
@@ -101,7 +101,7 @@
       "site_id": "trendscan_6g",
       "site_name": "6G与通信",
       "ok": true,
-      "item_count": 700,
+      "item_count": 702,
       "duration_ms": 0,
       "error": null
     },
@@ -109,7 +109,7 @@
       "site_id": "trendscan_infrasw",
       "site_name": "基础软件与工业软件",
       "ok": true,
-      "item_count": 677,
+      "item_count": 694,
       "duration_ms": 0,
       "error": null
     },
@@ -133,7 +133,7 @@
       "site_id": "trendscan_fusion",
       "site_name": "核聚变与先进储能",
       "ok": true,
-      "item_count": 604,
+      "item_count": 605,
       "duration_ms": 0,
       "error": null
     },
@@ -149,7 +149,7 @@
       "site_id": "AnySearch 政策 (中国政策与监管)",
       "site_name": "AnySearch 政策 (中国政策与监管)",
       "ok": true,
-      "item_count": 566,
+      "item_count": 567,
       "duration_ms": 0,
       "error": null
     },
@@ -165,7 +165,7 @@
       "site_id": "trendscan_2dmaterials",
       "site_name": "二维材料与原子制造",
       "ok": true,
-      "item_count": 552,
+      "item_count": 553,
       "duration_ms": 0,
       "error": null
     },
@@ -173,7 +173,7 @@
       "site_id": "bilibili",
       "site_name": "B站",
       "ok": true,
-      "item_count": 545,
+      "item_count": 552,
       "duration_ms": 0,
       "error": null
     },
@@ -189,7 +189,7 @@
       "site_id": "trendscan_6g",
       "site_name": "6G与通信",
       "ok": true,
-      "item_count": 512,
+      "item_count": 521,
       "duration_ms": 0,
       "error": null
     },
@@ -213,7 +213,7 @@
       "site_id": "trendscan_space",
       "site_name": "商业航天",
       "ok": true,
-      "item_count": 464,
+      "item_count": 475,
       "duration_ms": 0,
       "error": null
     },
@@ -221,7 +221,7 @@
       "site_id": "trendscan_fusion",
       "site_name": "核聚变与先进储能",
       "ok": true,
-      "item_count": 438,
+      "item_count": 448,
       "duration_ms": 0,
       "error": null
     },
@@ -229,7 +229,7 @@
       "site_id": "trendscan_infrasw",
       "site_name": "基础软件与工业软件",
       "ok": true,
-      "item_count": 394,
+      "item_count": 407,
       "duration_ms": 0,
       "error": null
     },
@@ -237,7 +237,7 @@
       "site_id": "trendscan_quantum",
       "site_name": "量子科技",
       "ok": true,
-      "item_count": 384,
+      "item_count": 394,
       "duration_ms": 0,
       "error": null
     },
@@ -245,7 +245,7 @@
       "site_id": "trendscan_fusion",
       "site_name": "核聚变与先进储能",
       "ok": true,
-      "item_count": 363,
+      "item_count": 369,
       "duration_ms": 0,
       "error": null
     },
@@ -277,7 +277,7 @@
       "site_id": "海关总署·政策文件（经 chinaport 缓存）",
       "site_name": "海关总署·政策文件（经 chinaport 缓存）",
       "ok": true,
-      "item_count": 214,
+      "item_count": 215,
       "duration_ms": 0,
       "error": null
     },
@@ -285,7 +285,7 @@
       "site_id": "Wired AI",
       "site_name": "Wired AI",
       "ok": true,
-      "item_count": 206,
+      "item_count": 214,
       "duration_ms": 0,
       "error": null
     },
@@ -293,7 +293,7 @@
       "site_id": "trendscan_embodied",
       "site_name": "具身智能与机器人",
       "ok": true,
-      "item_count": 178,
+      "item_count": 181,
       "duration_ms": 0,
       "error": null
     },
@@ -301,7 +301,7 @@
       "site_id": "Federal Register（贸易/海关/出口管制）",
       "site_name": "Federal Register（贸易/海关/出口管制）",
       "ok": true,
-      "item_count": 165,
+      "item_count": 168,
       "duration_ms": 0,
       "error": null
     },
@@ -309,7 +309,7 @@
       "site_id": "trendscan_2dmaterials",
       "site_name": "二维材料与原子制造",
       "ok": true,
-      "item_count": 162,
+      "item_count": 163,
       "duration_ms": 0,
       "error": null
     },
@@ -317,7 +317,7 @@
       "site_id": "trendscan_meddevice",
       "site_name": "高端医疗器械",
       "ok": true,
-      "item_count": 148,
+      "item_count": 153,
       "duration_ms": 0,
       "error": null
     },
@@ -330,18 +330,18 @@
       "error": null
     },
     {
-      "site_id": "trendscan_space",
-      "site_name": "商业航天",
+      "site_id": "trendscan_quantum",
+      "site_name": "量子科技",
       "ok": true,
-      "item_count": 122,
+      "item_count": 126,
       "duration_ms": 0,
       "error": null
     },
     {
-      "site_id": "trendscan_quantum",
-      "site_name": "量子科技",
+      "site_id": "trendscan_space",
+      "site_name": "商业航天",
       "ok": true,
-      "item_count": 120,
+      "item_count": 123,
       "duration_ms": 0,
       "error": null
     },
@@ -350,6 +350,14 @@
       "site_name": "超导与量子材料",
       "ok": true,
       "item_count": 116,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_infrasw",
+      "site_name": "基础软件与工业软件",
+      "ok": true,
+      "item_count": 113,
       "duration_ms": 0,
       "error": null
     },
@@ -365,15 +373,7 @@
       "site_id": "trendscan_ai4science",
       "site_name": "AI+科学",
       "ok": true,
-      "item_count": 110,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_infrasw",
-      "site_name": "基础软件与工业软件",
-      "ok": true,
-      "item_count": 109,
+      "item_count": 112,
       "duration_ms": 0,
       "error": null
     },
@@ -381,7 +381,15 @@
       "site_id": "trendscan_fusion",
       "site_name": "核聚变与先进储能",
       "ok": true,
-      "item_count": 92,
+      "item_count": 94,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "zhihu",
+      "site_name": "知乎",
+      "ok": true,
+      "item_count": 94,
       "duration_ms": 0,
       "error": null
     },
@@ -394,10 +402,10 @@
       "error": null
     },
     {
-      "site_id": "zhihu",
-      "site_name": "知乎",
+      "site_id": "trendscan_bci",
+      "site_name": "脑机接口与神经工程",
       "ok": true,
-      "item_count": 91,
+      "item_count": 81,
       "duration_ms": 0,
       "error": null
     },
@@ -413,15 +421,7 @@
       "site_id": "trendscan_infrasw",
       "site_name": "基础软件与工业软件",
       "ok": true,
-      "item_count": 79,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_bci",
-      "site_name": "脑机接口与神经工程",
-      "ok": true,
-      "item_count": 79,
+      "item_count": 80,
       "duration_ms": 0,
       "error": null
     },
@@ -429,7 +429,7 @@
       "site_id": "trendscan_space",
       "site_name": "商业航天",
       "ok": true,
-      "item_count": 75,
+      "item_count": 78,
       "duration_ms": 0,
       "error": null
     },
@@ -453,7 +453,15 @@
       "site_id": "MIT Technology Review (AI)",
       "site_name": "MIT Technology Review (AI)",
       "ok": true,
-      "item_count": 71,
+      "item_count": 73,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "泰国·海关 customs.go.th（公告 + 新闻）",
+      "site_name": "泰国·海关 customs.go.th（公告 + 新闻）",
+      "ok": true,
+      "item_count": 70,
       "duration_ms": 0,
       "error": null
     },
@@ -474,14 +482,6 @@
       "error": null
     },
     {
-      "site_id": "泰国·海关 customs.go.th（公告 + 新闻）",
-      "site_name": "泰国·海关 customs.go.th（公告 + 新闻）",
-      "ok": true,
-      "item_count": 68,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "trendscan_fusion",
       "site_name": "核聚变与先进储能",
       "ok": true,
@@ -490,24 +490,32 @@
       "error": null
     },
     {
-      "site_id": "trendscan_meddevice",
-      "site_name": "高端医疗器械",
+      "site_id": "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+      "site_name": "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
       "ok": true,
-      "item_count": 64,
+      "item_count": 66,
       "duration_ms": 0,
       "error": null
     },
     {
-      "site_id": "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
-      "site_name": "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+      "site_id": "trendscan_meddevice",
+      "site_name": "高端医疗器械",
       "ok": true,
-      "item_count": 63,
+      "item_count": 65,
       "duration_ms": 0,
       "error": null
     },
     {
       "site_id": "trendscan_synbio",
       "site_name": "合成生物学与生物制造",
+      "ok": true,
+      "item_count": 60,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "Astral Codex Ten",
+      "site_name": "Astral Codex Ten",
       "ok": true,
       "item_count": 59,
       "duration_ms": 0,
@@ -522,18 +530,10 @@
       "error": null
     },
     {
-      "site_id": "Astral Codex Ten",
-      "site_name": "Astral Codex Ten",
-      "ok": true,
-      "item_count": 58,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "trendscan_deepspace",
       "site_name": "深空与深地探测",
       "ok": true,
-      "item_count": 57,
+      "item_count": 58,
       "duration_ms": 0,
       "error": null
     },
@@ -562,6 +562,14 @@
       "error": null
     },
     {
+      "site_id": "trendscan_meddevice",
+      "site_name": "高端医疗器械",
+      "ok": true,
+      "item_count": 51,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "trendscan_6g",
       "site_name": "6G与通信",
       "ok": true,
@@ -574,14 +582,6 @@
       "site_name": "韩国·国家法令信息中心（행정규칙 告示/训令 + 법령 法律/总统令，韩语）",
       "ok": true,
       "item_count": 51,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_meddevice",
-      "site_name": "高端医疗器械",
-      "ok": true,
-      "item_count": 50,
       "duration_ms": 0,
       "error": null
     },
@@ -642,6 +642,14 @@
       "error": null
     },
     {
+      "site_id": "韩国·产业通商资源部 MOTIE（韩语）",
+      "site_name": "韩国·产业通商资源部 MOTIE（韩语）",
+      "ok": true,
+      "item_count": 42,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "site_id": "Nobel Prize",
       "site_name": "Nobel Prize",
       "ok": true,
@@ -650,10 +658,10 @@
       "error": null
     },
     {
-      "site_id": "韩国·产业通商资源部 MOTIE（韩语）",
-      "site_name": "韩国·产业通商资源部 MOTIE（韩语）",
+      "site_id": "trendscan_nano",
+      "site_name": "纳米技术",
       "ok": true,
-      "item_count": 41,
+      "item_count": 40,
       "duration_ms": 0,
       "error": null
     },
@@ -661,31 +669,7 @@
       "site_id": "Quanta Magazine",
       "site_name": "Quanta Magazine",
       "ok": true,
-      "item_count": 39,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_nano",
-      "site_name": "纳米技术",
-      "ok": true,
-      "item_count": 37,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_ai4science",
-      "site_name": "AI+科学",
-      "ok": true,
-      "item_count": 34,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "trendscan_fusion",
-      "site_name": "核聚变与先进储能",
-      "ok": true,
-      "item_count": 33,
+      "item_count": 40,
       "duration_ms": 0,
       "error": null
     },
@@ -693,7 +677,23 @@
       "site_id": "印度·外贸总局 DGFT（Notification / Public Notice）",
       "site_name": "印度·外贸总局 DGFT（Notification / Public Notice）",
       "ok": true,
-      "item_count": 33,
+      "item_count": 36,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_ai4science",
+      "site_name": "AI+科学",
+      "ok": true,
+      "item_count": 35,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "trendscan_fusion",
+      "site_name": "核聚变与先进储能",
+      "ok": true,
+      "item_count": 34,
       "duration_ms": 0,
       "error": null
     },
@@ -701,7 +701,7 @@
       "site_id": "zhihu",
       "site_name": "知乎",
       "ok": true,
-      "item_count": 33,
+      "item_count": 34,
       "duration_ms": 0,
       "error": null
     },
@@ -717,7 +717,7 @@
       "site_id": "越南·政府法规库（越南语）",
       "site_name": "越南·政府法规库（越南语）",
       "ok": true,
-      "item_count": 30,
+      "item_count": 31,
       "duration_ms": 0,
       "error": null
     },
@@ -733,6 +733,14 @@
       "site_id": "trendscan_infrasw",
       "site_name": "基础软件与工业软件",
       "ok": true,
+      "item_count": 25,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "印尼·检疫局 BARANTIN（印尼语）",
+      "site_name": "印尼·检疫局 BARANTIN（印尼语）",
+      "ok": true,
       "item_count": 24,
       "duration_ms": 0,
       "error": null
@@ -740,6 +748,14 @@
     {
       "site_id": "trendscan_embodied",
       "site_name": "具身智能与机器人",
+      "ok": true,
+      "item_count": 23,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "泰国·国际贸易谈判厅 DTN（泰语）",
+      "site_name": "泰国·国际贸易谈判厅 DTN（泰语）",
       "ok": true,
       "item_count": 23,
       "duration_ms": 0,
@@ -754,18 +770,10 @@
       "error": null
     },
     {
-      "site_id": "印尼·检疫局 BARANTIN（印尼语）",
-      "site_name": "印尼·检疫局 BARANTIN（印尼语）",
+      "site_id": "trendscan_ai4science",
+      "site_name": "AI+科学",
       "ok": true,
-      "item_count": 21,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "泰国·国际贸易谈判厅 DTN（泰语）",
-      "site_name": "泰国·国际贸易谈判厅 DTN（泰语）",
-      "ok": true,
-      "item_count": 21,
+      "item_count": 20,
       "duration_ms": 0,
       "error": null
     },
@@ -778,8 +786,8 @@
       "error": null
     },
     {
-      "site_id": "trendscan_ai4science",
-      "site_name": "AI+科学",
+      "site_id": "墨西哥·DOF 官方日报（西语）",
+      "site_name": "墨西哥·DOF 官方日报（西语）",
       "ok": true,
       "item_count": 20,
       "duration_ms": 0,
@@ -802,18 +810,18 @@
       "error": null
     },
     {
-      "site_id": "墨西哥·DOF 官方日报（西语）",
-      "site_name": "墨西哥·DOF 官方日报（西语）",
-      "ok": true,
-      "item_count": 18,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "site_id": "Our World in Data",
       "site_name": "Our World in Data",
       "ok": true,
       "item_count": 17,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "site_id": "台湾·關務署 業務公告（繁体）",
+      "site_name": "台湾·關務署 業務公告（繁体）",
+      "ok": true,
+      "item_count": 15,
       "duration_ms": 0,
       "error": null
     },
@@ -838,14 +846,6 @@
       "site_name": "印尼·贸易部 JDIH 法规库（印尼语）",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "site_id": "台湾·關務署 業務公告（繁体）",
-      "site_name": "台湾·關務署 業務公告（繁体）",
-      "ok": true,
-      "item_count": 11,
       "duration_ms": 0,
       "error": null
     },
@@ -982,8 +982,8 @@
   "failed_sites": 0,
   "zero_item_sites": 0,
   "empty_advanced_sources": [],
-  "fetched_raw_items": 43234,
-  "items_before_topic_filter": 43234,
-  "items_in_24h": 5962,
+  "fetched_raw_items": 43766,
+  "items_before_topic_filter": 43766,
+  "items_in_24h": 6051,
   "rss_opml": "bridge"
 }
