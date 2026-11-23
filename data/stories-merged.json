@@ -1,57 +1,184 @@
 {
-  "generated_at": "2026-11-20T15:04:37.153436+00:00",
+  "generated_at": "2026-11-23T05:20:11.590048+00:00",
   "window_hours": 24,
-  "total_stories": 14,
+  "total_stories": 17,
   "stories": [
     {
-      "story_id": "trendscan_13",
-      "title": "CyreneAdmin 1.6.0 发布：启动自动建表、RBAC 授权边界收敛与标签页右键最大化",
-      "url": "https://www.oschina.net/news/503659",
-      "primary_url": "https://www.oschina.net/news/503659",
-      "source": "开源中国",
-      "source_name": "开源中国",
+      "story_id": "trendscan_22",
+      "title": "特朗普深圳行照片14张是中美元首互动",
+      "url": "https://www.toutiao.com/trending/7710702493755719721",
+      "primary_url": "https://www.toutiao.com/trending/7710702493755719721",
+      "source": "头条热搜",
+      "source_name": "头条热搜",
       "sources": [
-        "开源中国",
-        "开源中国",
-        "开源中国",
-        "开源中国",
-        "开源中国"
+        "头条热搜",
+        "头条热搜",
+        "头条热搜",
+        "头条热搜",
+        "头条热搜"
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "开源中国",
-        "The New Stack",
-        "SD Times",
-        "Linux Foundation",
-        "CNCF Blog"
+        "头条热搜"
       ],
       "items": [
-        "https://www.oschina.net/news/503659",
-        "https://www.oschina.net/news/503660",
-        "https://www.oschina.net/news/503662",
-        "https://www.oschina.net/news/503663",
-        "https://www.oschina.net/news/503667/claude-dev-how-the-claude-code-team-thinks-about-verification",
-        "https://www.oschina.net/news/503675/google-gemini-4-neon",
-        "https://www.oschina.net/news/503678",
-        "https://www.oschina.net/news/503679/nginx-http2-rce-vulnerabilities",
-        "https://www.oschina.net/news/503681",
-        "https://www.oschina.net/news/503684/anthropic-prices-initial-public-offering",
-        "https://www.oschina.net/news/503685/llm-assisted-reverse-engineering",
-        "https://thenewstack.io/groundcover-ai-incident-investigations/",
-        "https://thenewstack.io/marketing-site-agent-security/",
-        "https://www.oschina.net/news/503686",
-        "https://thenewstack.io/amazon-ecs-deployment-strategies/",
-        "https://thenewstack.io/ai-workloads-data-gravity/",
-        "https://thenewstack.io/vercel-board-agent-swarms/",
-        "https://sdtimes.com/datacenters/the-ai-forever-bottleneck-data-center-power/",
-        "https://thenewstack.io/idrive-ai-agents-backup/",
-        "https://sdtimes.com/software-testing/circleci-expands-smarter-testing-to-power-independent-validation-for-ai-driven-development/"
+        "https://www.toutiao.com/trending/7710702493755719721",
+        "https://www.toutiao.com/trending/7711181505393787430",
+        "https://www.toutiao.com/trending/7711202163985956927",
+        "https://www.toutiao.com/trending/7711203722109455898",
+        "https://www.toutiao.com/trending/7710769937639735347",
+        "https://www.toutiao.com/trending/7711143363944677430",
+        "https://www.toutiao.com/trending/7711171820692324915",
+        "https://www.toutiao.com/trending/7711202650057982015",
+        "https://www.toutiao.com/trending/7711202812671036971",
+        "https://www.toutiao.com/trending/7710927150283686450",
+        "https://www.toutiao.com/trending/7711179477531574308",
+        "https://www.toutiao.com/trending/7710971227922874889",
+        "https://www.toutiao.com/trending/7710859279616180262",
+        "https://www.toutiao.com/trending/7711171004868857385",
+        "https://www.toutiao.com/trending/7711201012794917414",
+        "https://www.toutiao.com/trending/7710626284217238043",
+        "https://www.toutiao.com/trending/7711085284885234185",
+        "https://www.toutiao.com/trending/7711203623279300106",
+        "https://www.toutiao.com/trending/7710885325849838118",
+        "https://www.toutiao.com/trending/7711052302967947786"
       ],
-      "item_count": 41,
+      "item_count": 92,
       "duplicate_count": 0,
-      "score": 70.55,
-      "importance": 0.8333333333333334,
-      "importance_score": 83,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "头条热搜 聚合 92 条"
+      ],
+      "earliest_at": "2026-11-23T01:35:24",
+      "latest_at": "2026-11-23T04:46:03",
+      "primary_item": {
+        "title": "特朗普深圳行照片14张是中美元首互动",
+        "url": "https://www.toutiao.com/trending/7710702493755719721",
+        "source": "头条热搜"
+      }
+    },
+    {
+      "story_id": "trendscan_19",
+      "title": "南方豆腐掉地上能弹起来",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5",
+      "primary_url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5",
+      "source": "微博热搜",
+      "source_name": "微博热搜",
+      "sources": [
+        "微博热搜",
+        "微博热搜",
+        "微博热搜",
+        "微博热搜",
+        "微博热搜"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "微博热搜"
+      ],
+      "items": [
+        "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5",
+        "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1",
+        "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%94%BB%E5%85%8B%E7%99%BE%E5%B9%B4%E9%9A%BE%E9%A2%98%E8%8E%B7%E5%A5%96",
+        "https://s.weibo.com/weibo?q=%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
+        "https://s.weibo.com/weibo?q=369%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7Bin",
+        "https://s.weibo.com/weibo?q=%E9%A3%8E%E7%94%9F%E6%B0%B4%E8%B5%B7%E5%AE%9A%E6%A1%A3",
+        "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%20%E5%8E%86%E5%8F%B2%E5%89%A7%E6%83%85",
+        "https://s.weibo.com/weibo?q=%E6%81%A9%E5%88%A9%E5%AD%A6%E7%A7%A6%E6%98%8A%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%AD%E6%B0%94%E5%A4%AA%E5%83%8F%E4%BA%86",
+        "https://s.weibo.com/weibo?q=%E4%B8%A4%E5%B1%8A%E7%82%92%E8%82%A1%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E7%A0%B4%E4%BA%A7",
+        "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E5%8F%A3%E7%A2%91",
+        "https://s.weibo.com/weibo?q=%E5%A4%A9%E9%9C%B8%E5%85%A8%E5%91%98%E9%99%AA%E9%9D%92%E7%A8%9A%E7%9B%B4%E6%92%AD",
+        "https://s.weibo.com/weibo?q=%E6%9B%9DTheShy%E5%85%A5%E9%80%892027%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%90%8D%E4%BA%BA%E5%A0%82",
+        "https://s.weibo.com/weibo?q=76%E4%BA%BA14%E8%83%9C3%E8%B4%9F%E5%B0%86%E6%88%98%E5%BC%80%E6%8B%93%E8%80%85",
+        "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%B2%8C%E8%BD%AC%E7%A7%BB%E5%88%B0%E4%BA%86%E8%AE%B8%E9%A3%9E%E8%84%B8%E4%B8%8A",
+        "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%95%86%E5%8A%A1",
+        "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E8%B7%9F%E8%80%81%E5%AE%9E%E4%BA%BA%E4%B8%80%E5%9D%97%E6%97%B7%E8%AF%BE",
+        "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%AC%AC7%E9%9B%86%E5%B0%81%E7%A5%9E",
+        "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%9B%B4%E6%92%AD%E8%AF%B4%E6%BC%8F%E5%98%B4%E7%BB%BC%E8%89%BA%E8%AE%A1%E5%88%92",
+        "https://s.weibo.com/weibo?q=%E9%97%AE%E7%95%8C%E6%96%B0M7%E5%86%85%E5%A4%96%E7%9A%86%E5%87%BA%E8%89%B2",
+        "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%A1%AB%E9%94%99%E5%9C%B0%E5%9D%80%E5%8F%8D%E9%AA%82%E5%BF%AB%E9%80%92%E5%91%98%E6%B0%91%E8%AD%A6%E5%88%B0%E5%9C%BA%E7%A1%AC%E6%A0%B8%E6%92%91%E8%85%B0"
+      ],
+      "item_count": 80,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "微博热搜 聚合 80 条"
+      ],
+      "earliest_at": "2026-11-23T01:35:17",
+      "latest_at": "2026-11-23T04:45:56",
+      "primary_item": {
+        "title": "南方豆腐掉地上能弹起来",
+        "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5",
+        "source": "微博热搜"
+      }
+    },
+    {
+      "story_id": "trendscan_17",
+      "title": "27寸超高清大屏+丰富赠品，包邮到家#AOC数码旗舰店#一体机#直播间见#福利来啦#数码科技-7553609877415939366",
+      "url": "https://www.bilibili.com/video/BV1eNyizDEVH",
+      "primary_url": "https://www.bilibili.com/video/BV1eNyizDEVH",
+      "source": "B站 搜索:科技数码",
+      "source_name": "B站 搜索:科技数码",
+      "sources": [
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码",
+        "B站 搜索:科技数码"
+      ],
+      "source_count": 6,
+      "source_names": [
+        "B站 搜索:科技数码",
+        "B站 搜索:机器人",
+        "B站 搜索:AI Agent",
+        "B站 搜索:AI 大模型",
+        "B站 热门",
+        "B站 搜索:人工智能"
+      ],
+      "items": [
+        "https://www.bilibili.com/video/BV1eNyizDEVH",
+        "https://www.bilibili.com/video/BV16wygzoEBL",
+        "https://www.bilibili.com/video/BV1PAyvzPEG1",
+        "https://www.bilibili.com/video/BV16PygzxENS",
+        "https://www.bilibili.com/video/BV1vVygzJEXp",
+        "https://www.bilibili.com/video/BV11oyuzcEgX",
+        "https://www.bilibili.com/video/BV1xJyiz3Eih",
+        "https://www.bilibili.com/video/BV1bVyizLEu4",
+        "https://www.bilibili.com/video/BV1PcyvzvEM5",
+        "https://www.bilibili.com/video/BV1wTyvzhELW",
+        "https://www.bilibili.com/video/BV1uPynzTEwA",
+        "https://www.bilibili.com/video/BV1zNygzREnH",
+        "https://www.bilibili.com/video/BV1eYyuzmE6A",
+        "https://www.bilibili.com/video/BV1Q4yvz2ECG",
+        "https://www.bilibili.com/video/BV1HZyEzHELT",
+        "https://www.bilibili.com/video/BV119yuzAEVS",
+        "https://www.bilibili.com/video/BV1sBygzAEJF",
+        "https://www.bilibili.com/video/BV1k1yvzeEMB",
+        "https://www.bilibili.com/video/BV1gUsh6MEhv",
+        "https://www.bilibili.com/video/BV16vs26wEdR"
+      ],
+      "item_count": 58,
+      "duplicate_count": 0,
+      "score": 85.0,
+      "importance": 1.0,
+      "importance_score": 100,
       "importance_label": "high",
       "importance_breakdown": {
         "source_tier_diversity": 1.0,
@@ -60,191 +187,59 @@
       },
       "category": "trendscan",
       "reasons": [
-        "基础软件与工业软件 聚合 41 条"
+        "B站 聚合 58 条"
       ],
-      "earliest_at": "2026-11-20T12:30:00",
-      "latest_at": "2026-11-19T03:51:05",
+      "earliest_at": "2026-11-23 01:34:59",
+      "latest_at": "2026-11-23 04:31:14",
       "primary_item": {
-        "title": "CyreneAdmin 1.6.0 发布：启动自动建表、RBAC 授权边界收敛与标签页右键最大化",
-        "url": "https://www.oschina.net/news/503659",
-        "source": "开源中国"
+        "title": "27寸超高清大屏+丰富赠品，包邮到家#AOC数码旗舰店#一体机#直播间见#福利来啦#数码科技-7553609877415939366",
+        "url": "https://www.bilibili.com/video/BV1eNyizDEVH",
+        "source": "B站 搜索:科技数码"
       }
     },
     {
-      "story_id": "trendscan_23",
-      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "primary_url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "source": "Wired AI",
-      "source_name": "Wired AI",
+      "story_id": "trendscan_18",
+      "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
+      "url": "https://www.zhihu.com/question/2105992057642865192",
+      "primary_url": "https://www.zhihu.com/question/2105992057642865192",
+      "source": "知乎热榜",
+      "source_name": "知乎热榜",
       "sources": [
-        "Wired AI",
-        "Wired AI",
-        "Astral Codex Ten",
-        "Wired AI",
-        "Wired AI"
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Wired AI",
-        "Astral Codex Ten",
-        "Unite.AI",
-        "Quanta Magazine"
-      ],
-      "items": [
-        "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-        "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-        "https://www.astralcodexten.com/p/the-ai-forecasting-agenda",
-        "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-        "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-        "https://www.unite.ai/ericsson-altair-eredcap-5g-ai-wearables/",
-        "https://www.unite.ai/walmarts-sparky-ai-usage-jumps-129-as-annual-outlook-rises/",
-        "https://www.unite.ai/j-power-hitachi-and-macnica-agree-on-physical-ai-platform-study/",
-        "https://www.unite.ai/deepmind-institute-maps-four-routes-from-agi-to-superintelligence/",
-        "https://www.unite.ai/john-deere-buys-orchard-ai-to-pair-crop-scans-with-farm-equipment/",
-        "https://www.unite.ai/bonta-demands-nvidia-records-on-china-transfers-and-disclosures/",
-        "https://www.unite.ai/ntt-ssc-space-laser-ground-station-network/",
-        "https://www.unite.ai/apple-job-listing-points-to-early-development-of-a-mac-ai-agent/",
-        "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-        "https://www.unite.ai/asian-markets-slide-as-anthropics-debut-fails-to-lift-ai-stocks/",
-        "https://www.unite.ai/uk-departments-issue-first-cross-sector-ai-guidance-for-social-care/",
-        "https://www.unite.ai/anthropic-anchored-ai-campus-draws-595-objections-or-delay-requests/",
-        "https://www.unite.ai/archer-raises-10m-to-expand-ai-tools-for-candidates-and-recruiters/",
-        "https://www.unite.ai/business-context-ai-agents-investor-relations/",
-        "https://www.unite.ai/nference-plans-federated-ai-research-platform-with-cedars-sinai/"
-      ],
-      "item_count": 34,
-      "duplicate_count": 0,
-      "score": 56.1,
-      "importance": 0.6666666666666666,
-      "importance_score": 66,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 1.0,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "23 聚合 34 条"
-      ],
-      "earliest_at": "2026-11-20T14:50:41",
-      "latest_at": "2026-11-19T12:00:00",
-      "primary_item": {
-        "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
-        "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-        "source": "Wired AI"
-      }
-    },
-    {
-      "story_id": "trendscan_04",
-      "title": "Exploring the distributional implications of targeted residential electrification in California",
-      "url": "https://www.nature.com/articles/s41560-026-02155-x",
-      "primary_url": "https://www.nature.com/articles/s41560-026-02155-x",
-      "source": "Nature Energy",
-      "source_name": "Nature Energy",
-      "sources": [
-        "Nature Energy",
-        "Energy Storage News",
-        "Energy Storage News",
-        "Energy Storage News",
-        "Energy Storage News"
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Nature Energy",
-        "Energy Storage News",
-        "ScienceDaily Energy",
-        "PV Magazine"
-      ],
-      "items": [
-        "https://www.nature.com/articles/s41560-026-02155-x",
-        "https://www.energy-storage.news/agl-tomago-bess-first-100-units-installed-nsw/",
-        "https://www.energy-storage.news/nz-regulator-corrects-bess-price-band-rule-date/",
-        "https://www.energy-storage.news/statkraft-ppa-tolled-merchant-bess-dutch-solar-site/",
-        "https://www.energy-storage.news/bw-ess-wattmen-500mw-battery-storage-france/",
-        "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
-        "https://www.energy-storage.news/most-bess-supply-industry-not-ready-for-eu-2027-battery-regulations-report/",
-        "https://www.energy-storage.news/italy-macse-2-0-to-see-higher-clearing-prices-lower-capex-impact-but-enel-will-still-bid-hard-again-developer-says/",
-        "https://www.energy-storage.news/what-us-bess-industry-experts-are-saying-about-baaja-at-re-2026/",
-        "https://www.energy-storage.news/avery-dennison-argent-psa-tape-dielectric-performance-bess-30-year-lifetimes/",
-        "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/",
-        "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/",
-        "https://www.nature.com/articles/s41560-026-02174-8",
-        "https://www.nature.com/articles/s41560-026-02171-x",
-        "https://www.pv-magazine.com/2026/11/20/chinas-topcon-solar-module-export-prices-slip-as-makers-clear-low-efficiency-stock-ahead-of-new-standard/",
-        "https://www.pv-magazine.com/2026/11/20/mexicos-solar-capacity-could-reach-43-8-gw-by-2035/",
-        "https://www.pv-magazine.com/2026/11/20/jinkosolar-claims-35-24-efficiency-for-perovskite-silicon-tandem-solar-cell/",
-        "https://www.pv-magazine.com/2026/11/20/high-pressure-drives-irradiance-gains-across-south-east-asia-as-sichuan-misses-out/",
-        "https://www.energy-storage.news/how-a-spanish-battery-makes-money-today-and-what-lenders-will-finance-tomorrow/",
-        "https://www.energy-storage.news/australia-bess-storage-gap-2030-construction-18-months-ieefa-scorecard/"
-      ],
-      "item_count": 32,
-      "duplicate_count": 0,
-      "score": 56.1,
-      "importance": 0.6666666666666666,
-      "importance_score": 66,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 1.0,
-        "multi_source_confirmation": 1.0,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "核聚变与先进储能 聚合 32 条"
-      ],
-      "earliest_at": "2026-11-20T14:43:16",
-      "latest_at": "2026-11-19T00:00:00",
-      "primary_item": {
-        "title": "Exploring the distributional implications of targeted residential electrification in California",
-        "url": "https://www.nature.com/articles/s41560-026-02155-x",
-        "source": "Nature Energy"
-      }
-    },
-    {
-      "story_id": "trendscan_05",
-      "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
-      "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-      "primary_url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-      "source": "Space.com",
-      "source_name": "Space.com",
-      "sources": [
-        "Space.com",
-        "Space.com",
-        "Space.com",
-        "Ars Technica Space",
-        "Space.com"
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜",
+        "知乎热榜"
       ],
       "source_count": 3,
       "source_names": [
-        "Space.com",
-        "Ars Technica Space",
-        "Space News"
+        "知乎热榜",
+        "知乎搜索:人工智能",
+        "知乎搜索:大模型"
       ],
       "items": [
-        "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-        "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
-        "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
-        "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-        "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026",
-        "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
-        "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
-        "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
-        "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-        "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
-        "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-        "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
-        "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
-        "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
-        "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
-        "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
-        "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
-        "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
-        "https://spacenews.com/making-the-case-for-optical/",
-        "https://spacenews.com/the-sweet-spot-for-constellation-size/"
+        "https://www.zhihu.com/question/2105992057642865192",
+        "https://www.zhihu.com/question/2107183345205626254",
+        "https://www.zhihu.com/question/2105195950671245354",
+        "https://www.zhihu.com/question/2105302211651810717",
+        "https://www.zhihu.com/question/2107787943242896234",
+        "https://www.zhihu.com/question/2107780639281735166",
+        "https://www.zhihu.com/question/2107489470031335828",
+        "https://www.zhihu.com/question/2107926753717007819",
+        "https://www.zhihu.com/question/2107936450423382583",
+        "https://www.zhihu.com/question/2106795927608608695",
+        "https://www.zhihu.com/question/2105946747533006374",
+        "https://www.zhihu.com/question/2105832401150666215",
+        "https://www.zhihu.com/question/2106875464644149915",
+        "https://www.zhihu.com/question/2027723861337056286",
+        "https://www.zhihu.com/question/1987103901682516985",
+        "https://www.zhihu.com/question/2014041387084030672",
+        "https://www.zhihu.com/question/2103776256563078776",
+        "https://www.zhihu.com/question/2096642243834781737",
+        "https://www.zhihu.com/question/2100685759950709737",
+        "https://api.zhihu.com/answers/2107112927362807083"
       ],
-      "item_count": 21,
+      "item_count": 44,
       "duplicate_count": 0,
       "score": 42.5,
       "importance": 0.5,
@@ -257,49 +252,187 @@
       },
       "category": "trendscan",
       "reasons": [
-        "商业航天 聚合 21 条"
+        "知乎 聚合 44 条"
       ],
-      "earliest_at": "2026-11-20T13:35:45",
-      "latest_at": "2026-11-19T11:02:37",
+      "earliest_at": "2026-11-23 01:34:59",
+      "latest_at": "2026-11-23T04:46:08",
       "primary_item": {
-        "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
-        "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-        "source": "Space.com"
+        "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
+        "url": "https://www.zhihu.com/question/2105992057642865192",
+        "source": "知乎热榜"
       }
     },
     {
-      "story_id": "trendscan_06",
-      "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
-      "url": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
-      "primary_url": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
-      "source": "Quantum Insider",
-      "source_name": "Quantum Insider",
+      "story_id": "trendscan_05",
+      "title": "Starlink | Technology",
+      "url": "https://starlink.com/technology?srsltid=AYCX9vL14yF7__irUpy4cHi0u2WtcL7CQ0_g9coVn2_wFEGhJsZ72wQo",
+      "primary_url": "https://starlink.com/technology?srsltid=AYCX9vL14yF7__irUpy4cHi0u2WtcL7CQ0_g9coVn2_wFEGhJsZ72wQo",
+      "source": "AnySearch 空间 (商业航天与卫星互联网)",
+      "source_name": "AnySearch 空间 (商业航天与卫星互联网)",
       "sources": [
-        "Quantum Insider",
-        "Quantum Insider",
-        "Quantum Insider",
-        "Quantum Insider",
-        "Nature Physics Quantum"
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "NASA News",
+        "Space.com"
+      ],
+      "source_count": 4,
+      "source_names": [
+        "AnySearch 空间 (商业航天与卫星互联网)",
+        "NASA News",
+        "Space.com",
+        "Ars Technica Space"
+      ],
+      "items": [
+        "https://starlink.com/technology?srsltid=AYCX9vL14yF7__irUpy4cHi0u2WtcL7CQ0_g9coVn2_wFEGhJsZ72wQo",
+        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AYCX9vKTleu2C_0SCm_0cO3eEYyMNvrAoYo1i1fsV3TLvbZ-6AKUQa2M",
+        "https://www.reddit.com/r/spaceflight/comments/1o8bjod/it_seems_like_commercial_space_stations_are_way/",
+        "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+        "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026",
+        "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
+        "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/",
+        "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+        "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/",
+        "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
+        "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
+        "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
+        "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+        "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+        "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
+        "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+        "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
+        "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
+        "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+        "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/"
+      ],
+      "item_count": 35,
+      "duplicate_count": 0,
+      "score": 56.1,
+      "importance": 0.6666666666666666,
+      "importance_score": 66,
+      "importance_label": "medium",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "商业航天 聚合 35 条"
+      ],
+      "earliest_at": "2026-11-22T22:00:00",
+      "latest_at": "2026-11-23 04:10:15",
+      "primary_item": {
+        "title": "Starlink | Technology",
+        "url": "https://starlink.com/technology?srsltid=AYCX9vL14yF7__irUpy4cHi0u2WtcL7CQ0_g9coVn2_wFEGhJsZ72wQo",
+        "source": "AnySearch 空间 (商业航天与卫星互联网)"
+      }
+    },
+    {
+      "story_id": "trendscan_20",
+      "title": "现货黄金重返3600美元",
+      "url": "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%87%8D%E8%BF%943600%E7%BE%8E%E5%85%83",
+      "primary_url": "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%87%8D%E8%BF%943600%E7%BE%8E%E5%85%83",
+      "source": "抖音热搜",
+      "source_name": "抖音热搜",
+      "sources": [
+        "抖音热搜",
+        "抖音热搜",
+        "抖音热搜",
+        "抖音热搜",
+        "抖音热搜"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "抖音热搜"
+      ],
+      "items": [
+        "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%87%8D%E8%BF%943600%E7%BE%8E%E5%85%83",
+        "https://www.douyin.com/search/%E6%8E%98%E9%87%91%E5%8A%A0%E6%97%B6%E8%83%9C%E5%85%AC%E7%89%9B",
+        "https://www.douyin.com/search/%E9%95%BF%E6%98%A5%E5%A4%A7%E5%86%AC%E4%BC%9A%E5%B0%8F%E5%86%B0%E5%87%8C%E6%9D%A5%E5%95%A6",
+        "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E9%A6%96%E6%92%AD%E8%BE%A3%E8%AF%84",
+        "https://www.douyin.com/search/%E7%9B%B2%E9%80%89%E5%AF%B9%E8%B1%A1%E8%BF%99%E5%9D%97%E6%88%91%E6%95%A2%E8%B5%8C%E4%B8%80%E6%8A%8A",
+        "https://www.douyin.com/search/%E6%98%AF%E8%8B%A6%E6%98%AF%E4%B9%90%E8%BF%99%E4%B8%80%E5%B9%B4%E9%83%BD%E8%A6%81%E7%BB%93%E6%9D%9F%E4%BA%86",
+        "https://www.douyin.com/search/%E5%A6%82%E6%9E%9C%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9C%89%E8%90%8C%E5%AE%A0%E7%95%AA%E5%A4%96",
+        "https://www.douyin.com/search/%E6%A8%8A%E6%8C%AF%E4%B8%9C1%3A3%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93",
+        "https://www.douyin.com/search/AI%E6%98%AF%E5%90%A6%E5%B7%B2%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3",
+        "https://www.douyin.com/search/%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%90%91%E5%BC%A0%E5%AE%B6%E9%BD%90%E9%81%93%E6%AD%89",
+        "https://www.douyin.com/search/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E4%B8%BB%E5%88%9B%E5%9B%9E%E5%8C%97%E4%BA%AC%E4%BA%86",
+        "https://www.douyin.com/search/%E5%86%AC%E5%A4%A9%E5%BF%85%E8%A7%A3%E5%86%BB%E7%9A%84%E5%BF%83%E5%8A%A8%E7%9B%AE%E7%9A%84%E5%9C%B0",
+        "https://www.douyin.com/search/%E6%BC%94%E5%91%98%E6%96%B9%E5%8A%9B%E7%94%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
+        "https://www.douyin.com/search/%E7%88%B1%E4%B9%90%E4%B9%8B%E5%9F%8E%E8%88%9E%E8%B9%88%E6%95%99%E5%AD%A6",
+        "https://www.douyin.com/search/%E9%87%91%E5%AE%9D%E7%8F%A0%E8%B0%A2%E7%A0%9A%E5%A4%A9%E5%AE%9A%E8%89%AF%E7%BC%98%E5%AE%BF%E5%91%BD%E6%84%9F",
+        "https://www.douyin.com/search/%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BCNBC%E5%A5%B3%E8%AE%B0%E8%80%85%E7%A7%B0%E5%85%B6%E7%B2%97%E9%B2%81",
+        "https://www.douyin.com/search/%E5%89%8D%E5%A5%B3%E6%8E%92%E5%9B%BD%E6%89%8B%E9%A2%9C%E5%A6%AE%E5%9C%A8%E6%B2%88%E9%98%B3%E4%B8%BE%E8%A1%8C%E5%A9%9A%E7%A4%BC",
+        "https://www.douyin.com/search/%E5%AD%99%E6%81%A9%E7%9B%9B%E7%88%B1%E4%B9%90L%E5%9C%A8%E5%96%9C%E6%82%A6X%E7%9B%B4%E6%92%AD%E5%9B%A2%E5%BB%BA",
+        "https://www.douyin.com/search/%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E5%B0%86%E8%BF%8E%E8%B0%83%E6%95%B4",
+        "https://www.douyin.com/search/2027%E5%9B%BD%E8%80%83%E4%BB%8A%E8%B5%B7%E5%8F%AF%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81"
+      ],
+      "item_count": 29,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "抖音热搜 聚合 29 条"
+      ],
+      "earliest_at": "2026-11-23T01:35:19",
+      "latest_at": "2026-11-23T04:45:58",
+      "primary_item": {
+        "title": "现货黄金重返3600美元",
+        "url": "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%87%8D%E8%BF%943600%E7%BE%8E%E5%85%83",
+        "source": "抖音热搜"
+      }
+    },
+    {
+      "story_id": "trendscan_13",
+      "title": "改一个字节，日志分析报告就露馅",
+      "url": "https://www.oschina.net/news/503713",
+      "primary_url": "https://www.oschina.net/news/503713",
+      "source": "开源中国",
+      "source_name": "开源中国",
+      "sources": [
+        "开源中国",
+        "开源中国",
+        "开源中国",
+        "The New Stack",
+        "开源中国"
       ],
       "source_count": 2,
       "source_names": [
-        "Quantum Insider",
-        "Nature Physics Quantum"
+        "开源中国",
+        "The New Stack"
       ],
       "items": [
-        "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
-        "https://thequantuminsider.com/2026/11/19/students-new-to-quantum-real-technology-power-grid-tennessee-hackathon/",
-        "https://thequantuminsider.com/2026/11/19/delta-gold-launches-dedicated-quantum-sensing-program/",
-        "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
-        "https://www.nature.com/articles/s41566-026-02050-7",
-        "https://thequantuminsider.com/2026/11/20/guest-post-when-will-quantum-computing-become-useful-for-insurance/",
-        "https://thequantuminsider.com/2026/11/20/guest-post-building-the-conditions-for-a-quantum-breakthrough/",
-        "https://thequantuminsider.com/2026/11/20/cnm-sandia-mou-technical-workforce-training/",
-        "https://thequantuminsider.com/2026/11/20/mastercard-quantum-advisory-practice-financial-services/",
-        "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
-        "https://thequantuminsider.com/2026/11/20/quantus-quantum-secure-cold-wallet-spare-phone/"
+        "https://www.oschina.net/news/503713",
+        "https://www.oschina.net/news/503714",
+        "https://www.oschina.net/news/503716",
+        "https://thenewstack.io/nvidia-droid-harness-nemotron/",
+        "https://www.oschina.net/news/503717",
+        "https://thenewstack.io/ai-feature-flags-observability/",
+        "https://www.oschina.net/news/503718",
+        "https://thenewstack.io/gpt-6-2-sol-vs-claude-opus-5-5/",
+        "https://thenewstack.io/ai-agent-code-review/",
+        "https://thenewstack.io/junior-developers-ai-agents-block/",
+        "https://www.oschina.net/news/503719",
+        "https://www.oschina.net/news/503721",
+        "https://www.oschina.net/news/503723",
+        "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
+        "https://www.oschina.net/news/503727",
+        "https://www.oschina.net/news/503728",
+        "https://www.oschina.net/news/503729",
+        "https://www.oschina.net/news/503733",
+        "https://www.oschina.net/news/503734/vint-cerf-on-why-tcpip-was-never",
+        "https://www.oschina.net/news/503735"
       ],
-      "item_count": 11,
+      "item_count": 23,
       "duplicate_count": 0,
       "score": 28.05,
       "importance": 0.3333333333333333,
@@ -312,145 +445,167 @@
       },
       "category": "trendscan",
       "reasons": [
-        "量子科技 聚合 11 条"
+        "基础软件与工业软件 聚合 23 条"
       ],
-      "earliest_at": "2026-11-20T12:58:37",
-      "latest_at": "2026-11-19T16:07:58",
+      "earliest_at": "2026-11-23T03:50:52",
+      "latest_at": "2026-11-20T14:59:54",
       "primary_item": {
-        "title": "SEALSQ Signs LOI to Acquire QuintessenceLabs",
-        "url": "https://thequantuminsider.com/2026/11/19/sealsq-loi-acquire-quintessencelabs/",
-        "source": "Quantum Insider"
+        "title": "改一个字节，日志分析报告就露馅",
+        "url": "https://www.oschina.net/news/503713",
+        "source": "开源中国"
       }
     },
     {
-      "story_id": "trendscan_09",
-      "title": "SK Broadband to build quantum security testbed on subsea cable",
-      "url": "https://www.lightreading.com/security/sk-broadband-to-build-quantum-security-testbed-on-sjc2-subsea-cable",
-      "primary_url": "https://www.lightreading.com/security/sk-broadband-to-build-quantum-security-testbed-on-sjc2-subsea-cable",
-      "source": "Light Reading",
-      "source_name": "Light Reading",
+      "story_id": "trendscan_23",
+      "title": "Baseten Extends Decision Models to 128K Context and Image Input",
+      "url": "https://www.unite.ai/baseten-extends-decision-models-to-128k-context-and-image-input/",
+      "primary_url": "https://www.unite.ai/baseten-extends-decision-models-to-128k-context-and-image-input/",
+      "source": "Unite.AI",
+      "source_name": "Unite.AI",
       "sources": [
-        "Light Reading",
-        "Light Reading",
-        "Light Reading",
-        "Light Reading",
-        "Light Reading"
+        "Unite.AI",
+        "Unite.AI",
+        "Wired AI",
+        "Unite.AI",
+        "Unite.AI"
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Light Reading"
+        "Unite.AI",
+        "Wired AI",
+        "Astral Codex Ten"
       ],
       "items": [
-        "https://www.lightreading.com/security/sk-broadband-to-build-quantum-security-testbed-on-sjc2-subsea-cable",
-        "https://www.lightreading.com/satellite/eurobites-orange-spain-to-track-cattle-with-skylo-s-satellites",
-        "https://www.lightreading.com/satellite/satellite-broadband-to-capture-most-market-share-from-fwa-report",
-        "https://www.lightreading.com/finance/dish-settles-with-american-tower-but-crown-castle-left-out-so-far",
-        "https://www.lightreading.com/regulatory-politics/fcc-votes-for-final-rules-to-improve-drone-connectivity-and-in-flight-broadband",
-        "https://www.lightreading.com/cable-technology/maria-popo-stepping-down-as-scte-ceo",
-        "https://www.lightreading.com/satellite/telecom-veteran-bets-airships-in-stratosphere-can-beat-starlink-in-space",
-        "https://www.lightreading.com/broadband/the-buildout-wow-goes-wide-in-georgia",
-        "https://www.lightreading.com/sustainability/eurobites-vmo2-soups-up-its-social-broadband-packages",
-        "https://www.lightreading.com/regulatory-politics/fcc-tightens-grip-on-chinese-telcos-blocks-direct-access-to-us-phone-numbers"
+        "https://www.unite.ai/baseten-extends-decision-models-to-128k-context-and-image-input/",
+        "https://www.unite.ai/iit-kharagpur-secures-5m-from-google-to-expand-campus-ai-work/",
+        "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+        "https://www.unite.ai/anthropic-shares-drop-8-5-in-second-session-during-ai-selloff/",
+        "https://www.unite.ai/ai-governance-in-2027-accountability-moves-into-the-workflow/",
+        "https://www.astralcodexten.com/p/suggest-questions-for-the-2027-acxmetaculus",
+        "https://www.unite.ai/lean-and-mathlib-communities-certify-claude-assisted-riemann-proof/",
+        "https://www.unite.ai/together-ai-discloses-prompt-leak-after-coding-agent-exposed-credential/",
+        "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/",
+        "https://www.unite.ai/tesla-rolls-out-fsd-v15-with-reality-view-and-vision-upgrades/",
+        "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "https://www.unite.ai/anthropic-sought-limits-on-ipo-deal-teams-and-work-with-rivals/",
+        "https://www.unite.ai/monday-vs-clickup/",
+        "https://www.unite.ai/robotics-in-2027-the-winners-will-be-measured-in-hours-without-human-help/",
+        "https://www.unite.ai/musk-allocates-ai5-to-optimus-leaving-tesla-cars-on-ai4/",
+        "https://www.unite.ai/sarvam-ai-releases-open-weight-105b-checkpoint-for-enterprise-agents/",
+        "https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/",
+        "https://www.unite.ai/nonprofits-build-capacity-for-potential-giving-after-anthropics-ipo/",
+        "https://www.unite.ai/employee-health-benefits-end-at-foundation-future-industries/",
+        "https://www.unite.ai/bessent-declines-to-back-huangs-return-amid-nvidia-investigations/"
       ],
-      "item_count": 10,
+      "item_count": 22,
       "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
+        "source_tier_diversity": 1.0,
         "multi_source_confirmation": 1.0,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "6G与通信 聚合 10 条"
+        "23 聚合 22 条"
       ],
-      "earliest_at": "2026-11-20T14:06:42",
-      "latest_at": "2026-11-19T08:47:58",
+      "earliest_at": "2026-11-23T01:24:03",
+      "latest_at": "2026-11-21T05:56:03",
       "primary_item": {
-        "title": "SK Broadband to build quantum security testbed on subsea cable",
-        "url": "https://www.lightreading.com/security/sk-broadband-to-build-quantum-security-testbed-on-sjc2-subsea-cable",
-        "source": "Light Reading"
+        "title": "Baseten Extends Decision Models to 128K Context and Image Input",
+        "url": "https://www.unite.ai/baseten-extends-decision-models-to-128k-context-and-image-input/",
+        "source": "Unite.AI"
       }
     },
     {
-      "story_id": "trendscan_24",
-      "title": "Five times scientists experimented on themselves",
-      "url": "https://www.nobelprize.org/educational/self-experimentation/",
-      "primary_url": "https://www.nobelprize.org/educational/self-experimentation/",
-      "source": "Nobel Prize",
-      "source_name": "Nobel Prize",
+      "story_id": "trendscan_04",
+      "title": "Solid State Battery Inc.",
+      "url": "http://ssbats.com/",
+      "primary_url": "http://ssbats.com/",
+      "source": "AnySearch 能源 (核聚变与先进储能)",
+      "source_name": "AnySearch 能源 (核聚变与先进储能)",
       "sources": [
-        "Nobel Prize",
-        "Nobel Prize",
-        "Nobel Prize",
-        "Nobel Prize",
-        "Nobel Prize"
+        "AnySearch 能源 (核聚变与先进储能)",
+        "ScienceDaily Energy",
+        "PV Magazine",
+        "PV Magazine",
+        "PV Magazine"
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Nobel Prize"
+        "AnySearch 能源 (核聚变与先进储能)",
+        "ScienceDaily Energy",
+        "PV Magazine"
       ],
       "items": [
-        "https://www.nobelprize.org/educational/self-experimentation/",
-        "https://www.nobelprize.org/educational/2026-crash-course-medicine/",
-        "https://www.nobelprize.org/educational/2026-crash-course-economic-sciences/",
-        "https://www.nobelprize.org/educational/2026-crash-course-peace/",
-        "https://www.nobelprize.org/educational/2026-crash-course-literature/",
-        "https://www.nobelprize.org/educational/2026-crash-course-physics/",
-        "https://www.nobelprize.org/educational/2026-crash-course-chemistry/"
+        "http://ssbats.com/",
+        "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+        "https://www.pv-magazine.com/2026/11/21/tariffs-taxes-and-a-bess-price-rise/",
+        "https://www.pv-magazine.com/2026/11/21/battery-patents-solid-state-filings-surpass-lithium-ion-to-hit-record-high/",
+        "https://www.pv-magazine.com/2026/11/21/the-us-solar-manufacturing-landscape-in-2026-2/",
+        "https://www.pv-magazine.com/2026/11/21/spain-approves-new-data-center-rules-requiring-80-renewable-electricity/",
+        "https://www.pv-magazine.com/2026/11/21/unigrid-looks-to-fill-gaps-in-lithium-ion-storage-with-effective-sodium-ion-alternatives/",
+        "https://www.pv-magazine.com/2026/11/21/celebrating-men-challenging-stereotypes-building-a-stronger-energy-future-together/",
+        "https://www.pv-magazine.com/2026/11/21/catl-byd-acwa-among-co-initiators-of-storage-alliance-unveiled-at-cop31/",
+        "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+        "https://www.sciencedaily.com/releases/2026/11/261120071305.htm"
       ],
-      "item_count": 7,
+      "item_count": 11,
       "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
+      "score": 42.5,
+      "importance": 0.5,
+      "importance_score": 50,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
+        "source_tier_diversity": 1.0,
         "multi_source_confirmation": 1.0,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "24 聚合 7 条"
+        "核聚变与先进储能 聚合 11 条"
       ],
-      "earliest_at": "2026-11-20T13:04:18",
-      "latest_at": "2026-11-20T07:26:13",
+      "earliest_at": "2026-11-22T11:59:29",
+      "latest_at": "2026-11-23 04:10:05",
       "primary_item": {
-        "title": "Five times scientists experimented on themselves",
-        "url": "https://www.nobelprize.org/educational/self-experimentation/",
-        "source": "Nobel Prize"
+        "title": "Solid State Battery Inc.",
+        "url": "http://ssbats.com/",
+        "source": "AnySearch 能源 (核聚变与先进储能)"
       }
     },
     {
       "story_id": "trendscan_08",
-      "title": "Nanoparticle transport and retention in tumours",
-      "url": "https://www.nature.com/articles/s41563-026-02742-z",
-      "primary_url": "https://www.nature.com/articles/s41563-026-02742-z",
-      "source": "Nature Materials",
-      "source_name": "Nature Materials",
+      "title": "OMG's MetaObject Facility",
+      "url": "https://www.omg.org/mof/",
+      "primary_url": "https://www.omg.org/mof/",
+      "source": "AnySearch 材料 (二维材料与原子级制造)",
+      "source_name": "AnySearch 材料 (二维材料与原子级制造)",
       "sources": [
-        "Nature Materials",
-        "Nature Materials",
-        "Nature Materials",
-        "Nature Materials",
-        "Nature Materials"
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)",
+        "AnySearch 材料 (二维材料与原子级制造)"
       ],
       "source_count": 1,
       "source_names": [
-        "Nature Materials"
+        "AnySearch 材料 (二维材料与原子级制造)"
       ],
       "items": [
-        "https://www.nature.com/articles/s41563-026-02742-z",
-        "https://www.nature.com/articles/s41563-026-02781-6",
-        "https://www.nature.com/articles/s41563-026-02808-y",
-        "https://www.nature.com/articles/s41563-026-02801-5",
-        "https://www.nature.com/articles/s41563-026-02813-1"
+        "https://www.omg.org/mof/",
+        "https://chemistry.princeton.edu/news/so-whats-a-mof-anyways/",
+        "https://flybase.org/reports/FBgn0014340",
+        "https://www.mof.go.jp/english/index.htm",
+        "https://www.instagram.com/mofjayy/?hl=en",
+        "https://learn.microsoft.com/en-us/windows/win32/wmisdk/managed-object-format--mof-",
+        "https://stackoverflow.com/questions/44183660/powershell-dsc-not-creating-a-mof",
+        "https://www.youtube.com/shorts/MhUoInNztTo",
+        "https://www.ptglab.com/products/MOF-Antibody-13842-1-AP.htm?srsltid=AYCX9vLyeXwh8lSG66Po_AWbI9ARZuzBIfgRTt1gTQTIckUjd6sr74ve"
       ],
-      "item_count": 5,
+      "item_count": 9,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -463,38 +618,98 @@
       },
       "category": "trendscan",
       "reasons": [
-        "二维材料与原子制造 聚合 5 条"
+        "二维材料与原子制造 聚合 9 条"
       ],
-      "earliest_at": "2026-11-20T00:00:00",
-      "latest_at": "2026-11-19T00:00:00",
+      "earliest_at": "2026-11-23 04:11:00",
+      "latest_at": "2026-11-23 04:11:00",
       "primary_item": {
-        "title": "Nanoparticle transport and retention in tumours",
-        "url": "https://www.nature.com/articles/s41563-026-02742-z",
-        "source": "Nature Materials"
+        "title": "OMG's MetaObject Facility",
+        "url": "https://www.omg.org/mof/",
+        "source": "AnySearch 材料 (二维材料与原子级制造)"
       }
     },
     {
-      "story_id": "trendscan_14",
-      "title": "Tracking local chemomechanics in graphite–silicon composite electrodes",
-      "url": "https://www.nature.com/articles/s41565-026-02328-5",
-      "primary_url": "https://www.nature.com/articles/s41565-026-02328-5",
-      "source": "Nature Nanotechnology",
-      "source_name": "Nature Nanotechnology",
+      "story_id": "trendscan_25",
+      "title": "印度 DGTR｜NCV English Semi Finished Opthalmic Lenses",
+      "url": "https://dgtr.gov.in/sites/default/files/2026-11/NCV English_Semi Finished Opthalmic Lenses.pdf",
+      "primary_url": "https://dgtr.gov.in/sites/default/files/2026-11/NCV English_Semi Finished Opthalmic Lenses.pdf",
+      "source": "印度·DGTR 贸易救济总局（反倾销 / 反补贴 / 保障措施）",
+      "source_name": "印度·DGTR 贸易救济总局（反倾销 / 反补贴 / 保障措施）",
       "sources": [
-        "Nature Nanotechnology",
-        "Nature Nanotechnology",
-        "Nature Nanotechnology"
+        "印度·DGTR 贸易救济总局（反倾销 / 反补贴 / 保障措施）",
+        "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+        "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+        "泰国·国际贸易谈判厅 DTN（泰语）",
+        "泰国·国际贸易谈判厅 DTN（泰语）"
+      ],
+      "source_count": 7,
+      "source_names": [
+        "印度·DGTR 贸易救济总局（反倾销 / 反补贴 / 保障措施）",
+        "欧盟·EUR-Lex 官方公报 OJ L（英语，CELLAR SPARQL）",
+        "泰国·国际贸易谈判厅 DTN（泰语）",
+        "韩国·产业通商资源部 MOTIE（韩语）",
+        "印尼·检疫局 BARANTIN（印尼语）",
+        "台湾·國際貿易署 公告（繁体）",
+        "墨西哥·DOF 官方日报（西语）"
+      ],
+      "items": [
+        "https://dgtr.gov.in/sites/default/files/2026-11/NCV English_Semi Finished Opthalmic Lenses.pdf",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602608",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602579",
+        "https://www.dtn.go.th/th/content/category/detail/id/22/iid/15150",
+        "https://www.dtn.go.th/th/content/category/detail/id/22/iid/15149",
+        "https://www.motie.go.kr/kor/article/ATCL3f49a5a8c/172434/view",
+        "https://karantinaindonesia.go.id/berita/ekspor-kayu-manis-jambi-tembus-rp275-miliar-belanda-jadi-tujuan-pengiriman-terbanyak",
+        "https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=39&pid=822035&dl_DateRange=all&txt_SD=&txt_ED=&txt_Keyword=&pageindex=2&history=",
+        "https://dof.gob.mx/nota_detalle.php?codigo=5804604&fecha=23/11/2026"
+      ],
+      "item_count": 9,
+      "duplicate_count": 0,
+      "score": 85.0,
+      "importance": 1.0,
+      "importance_score": 100,
+      "importance_label": "high",
+      "importance_breakdown": {
+        "source_tier_diversity": 1.0,
+        "multi_source_confirmation": 1.0,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "25 聚合 9 条"
+      ],
+      "earliest_at": "2026-11-23",
+      "latest_at": "2026-11-01",
+      "primary_item": {
+        "title": "印度 DGTR｜NCV English Semi Finished Opthalmic Lenses",
+        "url": "https://dgtr.gov.in/sites/default/files/2026-11/NCV English_Semi Finished Opthalmic Lenses.pdf",
+        "source": "印度·DGTR 贸易救济总局（反倾销 / 反补贴 / 保障措施）"
+      }
+    },
+    {
+      "story_id": "trendscan_16",
+      "title": "http://www.szse.cn/disclosure/listed/bulletinDetai...",
+      "url": "http://www.szse.cn/disclosure/listed/bulletinDetail/index.html?fc0e12db-c74e-4488-bd12-8cad0ab9a655",
+      "primary_url": "http://www.szse.cn/disclosure/listed/bulletinDetail/index.html?fc0e12db-c74e-4488-bd12-8cad0ab9a655",
+      "source": "AnySearch 政策 (中国政策与监管)",
+      "source_name": "AnySearch 政策 (中国政策与监管)",
+      "sources": [
+        "AnySearch 政策 (中国政策与监管)",
+        "AnySearch 政策 (中国政策与监管)",
+        "AnySearch 政策 (中国政策与监管)",
+        "AnySearch 政策 (中国政策与监管)"
       ],
       "source_count": 1,
       "source_names": [
-        "Nature Nanotechnology"
+        "AnySearch 政策 (中国政策与监管)"
       ],
       "items": [
-        "https://www.nature.com/articles/s41565-026-02328-5",
-        "https://www.nature.com/articles/s41565-026-02327-6",
-        "https://www.nature.com/articles/s41565-026-02330-x"
+        "http://www.szse.cn/disclosure/listed/bulletinDetail/index.html?fc0e12db-c74e-4488-bd12-8cad0ab9a655",
+        "https://tech.sina.com.cn/roll/",
+        "https://www.thepaper.cn/newsDetail_forward_34291555",
+        "https://www.gjgxy.cn/shownews.php?id=2968"
       ],
-      "item_count": 3,
+      "item_count": 4,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -502,179 +717,91 @@
       "importance_label": "low",
       "importance_breakdown": {
         "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 0.6,
+        "multi_source_confirmation": 0.8,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "纳米技术 聚合 3 条"
+        "16 聚合 4 条"
       ],
-      "earliest_at": "2026-11-20T00:00:00",
-      "latest_at": "2026-11-20T00:00:00",
+      "earliest_at": "2026-11-23 04:11:05",
+      "latest_at": "2026-11-23 04:11:08",
       "primary_item": {
-        "title": "Tracking local chemomechanics in graphite–silicon composite electrodes",
-        "url": "https://www.nature.com/articles/s41565-026-02328-5",
-        "source": "Nature Nanotechnology"
+        "title": "http://www.szse.cn/disclosure/listed/bulletinDetai...",
+        "url": "http://www.szse.cn/disclosure/listed/bulletinDetail/index.html?fc0e12db-c74e-4488-bd12-8cad0ab9a655",
+        "source": "AnySearch 政策 (中国政策与监管)"
       }
     },
     {
-      "story_id": "trendscan_01",
-      "title": "Study reveals data centers’ long-distance damage to air quality",
-      "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-      "primary_url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-      "source": "MIT News AI",
-      "source_name": "MIT News AI",
+      "story_id": "trendscan_09",
+      "title": "Starlink | Technology",
+      "url": "https://starlink.com/technology?srsltid=AYCX9vKxAORPY5I5P7tjAjvfP2CKjiLb6eQ76sChaGImGg8s9f-lztAe",
+      "primary_url": "https://starlink.com/technology?srsltid=AYCX9vKxAORPY5I5P7tjAjvfP2CKjiLb6eQ76sChaGImGg8s9f-lztAe",
+      "source": "AnySearch 信息 (6G与下一代通信)",
+      "source_name": "AnySearch 信息 (6G与下一代通信)",
       "sources": [
-        "MIT News AI",
-        "MIT News AI",
-        "Nature Machine Intelligence"
+        "AnySearch 信息 (6G与下一代通信)",
+        "AnySearch 信息 (6G与下一代通信)"
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "MIT News AI",
-        "Nature Machine Intelligence"
+        "AnySearch 信息 (6G与下一代通信)"
       ],
       "items": [
-        "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-        "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
-        "https://www.nature.com/articles/s42256-026-01339-0"
-      ],
-      "item_count": 3,
-      "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
-        "multi_source_confirmation": 0.6,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "AI+科学 聚合 3 条"
-      ],
-      "earliest_at": "2026-11-20T00:00:00",
-      "latest_at": "2026-11-19T14:00:00",
-      "primary_item": {
-        "title": "Study reveals data centers’ long-distance damage to air quality",
-        "url": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-        "source": "MIT News AI"
-      }
-    },
-    {
-      "story_id": "trendscan_07",
-      "title": "Programmable functional RNA design with a virtual scientist",
-      "url": "https://www.nature.com/articles/s41587-026-03362-3",
-      "primary_url": "https://www.nature.com/articles/s41587-026-03362-3",
-      "source": "Nature Biotechnology",
-      "source_name": "Nature Biotechnology",
-      "sources": [
-        "Nature Biotechnology",
-        "ScienceDaily Biotech"
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Nature Biotechnology",
-        "ScienceDaily Biotech"
-      ],
-      "items": [
-        "https://www.nature.com/articles/s41587-026-03362-3",
-        "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+        "https://starlink.com/technology?srsltid=AYCX9vKxAORPY5I5P7tjAjvfP2CKjiLb6eQ76sChaGImGg8s9f-lztAe",
+        "https://www.statista.com/chart/33246/satellite-internet-constellation-projects/?srsltid=AYCX9vJMvmcv5z32hIdyVRp-99G0XtGZbyYoqPaZu0_0ibWGy7eepM-E"
       ],
       "item_count": 2,
       "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
       "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
+        "source_tier_diversity": 0.3333333333333333,
         "multi_source_confirmation": 0.4,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "合成生物学与生物制造 聚合 2 条"
+        "6G与通信 聚合 2 条"
       ],
-      "earliest_at": "2026-11-19T10:33:03",
-      "latest_at": "2026-11-19T00:00:00",
+      "earliest_at": "2026-11-23 04:09:05",
+      "latest_at": "2026-11-23 04:09:05",
       "primary_item": {
-        "title": "Programmable functional RNA design with a virtual scientist",
-        "url": "https://www.nature.com/articles/s41587-026-03362-3",
-        "source": "Nature Biotechnology"
-      }
-    },
-    {
-      "story_id": "trendscan_12",
-      "title": "The nature of the Norma arm as a bar-driven star-forming shock front",
-      "url": "https://www.nature.com/articles/s41550-026-03010-5",
-      "primary_url": "https://www.nature.com/articles/s41550-026-03010-5",
-      "source": "Nature Astronomy",
-      "source_name": "Nature Astronomy",
-      "sources": [
-        "Nature Astronomy",
-        "AGU News"
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Nature Astronomy",
-        "AGU News"
-      ],
-      "items": [
-        "https://www.nature.com/articles/s41550-026-03010-5",
-        "https://news.agu.org/11-19-2026-typhoons-charge-up-faster-after-meeting-marine-heatwaves/"
-      ],
-      "item_count": 2,
-      "duplicate_count": 0,
-      "score": 28.05,
-      "importance": 0.3333333333333333,
-      "importance_score": 33,
-      "importance_label": "medium",
-      "importance_breakdown": {
-        "source_tier_diversity": 0.6666666666666666,
-        "multi_source_confirmation": 0.4,
-        "recent_boost": 0.5
-      },
-      "category": "trendscan",
-      "reasons": [
-        "深空与深地探测 聚合 2 条"
-      ],
-      "earliest_at": "2026-11-20T00:14:27",
-      "latest_at": "2026-11-20T00:00:00",
-      "primary_item": {
-        "title": "The nature of the Norma arm as a bar-driven star-forming shock front",
-        "url": "https://www.nature.com/articles/s41550-026-03010-5",
-        "source": "Nature Astronomy"
+        "title": "Starlink | Technology",
+        "url": "https://starlink.com/technology?srsltid=AYCX9vKxAORPY5I5P7tjAjvfP2CKjiLb6eQ76sChaGImGg8s9f-lztAe",
+        "source": "AnySearch 信息 (6G与下一代通信)"
       }
     },
     {
       "story_id": "trendscan_02",
-      "title": "What industrial drone deployments reveal about real-world autonomy challenges",
-      "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
-      "primary_url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
-      "source": "Robot Report",
-      "source_name": "Robot Report",
+      "title": "Foundational Models for Robotics: A 2026 Guide — CFAM Explained",
+      "url": "https://skylarklabs.ai/foundational-models-robotics.html",
+      "primary_url": "https://skylarklabs.ai/foundational-models-robotics.html",
+      "source": "AnySearch 信息 (具身智能与机器人)",
+      "source_name": "AnySearch 信息 (具身智能与机器人)",
       "sources": [
-        "Robot Report",
+        "AnySearch 信息 (具身智能与机器人)",
         "Robot Report"
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "AnySearch 信息 (具身智能与机器人)",
         "Robot Report"
       ],
       "items": [
-        "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
-        "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/"
+        "https://skylarklabs.ai/foundational-models-robotics.html",
+        "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/"
       ],
       "item_count": 2,
       "duplicate_count": 0,
-      "score": 13.6,
-      "importance": 0.16666666666666666,
-      "importance_score": 16,
-      "importance_label": "low",
+      "score": 28.05,
+      "importance": 0.3333333333333333,
+      "importance_score": 33,
+      "importance_label": "medium",
       "importance_breakdown": {
-        "source_tier_diversity": 0.3333333333333333,
+        "source_tier_diversity": 0.6666666666666666,
         "multi_source_confirmation": 0.4,
         "recent_boost": 0.5
       },
@@ -682,32 +809,34 @@
       "reasons": [
         "具身智能与机器人 聚合 2 条"
       ],
-      "earliest_at": "2026-11-20T03:06:28",
-      "latest_at": "2026-11-19T17:01:55",
+      "earliest_at": "2026-11-21T22:25:35",
+      "latest_at": "2026-11-23 04:08:52",
       "primary_item": {
-        "title": "What industrial drone deployments reveal about real-world autonomy challenges",
-        "url": "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/",
-        "source": "Robot Report"
+        "title": "Foundational Models for Robotics: A 2026 Guide — CFAM Explained",
+        "url": "https://skylarklabs.ai/foundational-models-robotics.html",
+        "source": "AnySearch 信息 (具身智能与机器人)"
       }
     },
     {
-      "story_id": "trendscan_10",
-      "title": "GeneDx appoints Everett Cunningham as CEO",
-      "url": "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/",
-      "primary_url": "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/",
-      "source": "MedTech Dive",
-      "source_name": "MedTech Dive",
+      "story_id": "trendscan_06",
+      "title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+      "url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+      "primary_url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+      "source": "Quantum Insider",
+      "source_name": "Quantum Insider",
       "sources": [
-        "MedTech Dive"
+        "Quantum Insider",
+        "Quantum Insider"
       ],
       "source_count": 1,
       "source_names": [
-        "MedTech Dive"
+        "Quantum Insider"
       ],
       "items": [
-        "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/"
+        "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+        "https://thequantuminsider.com/2026/11/20/10-member-team-drawn-from-chinese-institutions-wins-2026-gordon-bell-prize/"
       ],
-      "item_count": 1,
+      "item_count": 2,
       "duplicate_count": 0,
       "score": 13.6,
       "importance": 0.16666666666666666,
@@ -715,19 +844,103 @@
       "importance_label": "low",
       "importance_breakdown": {
         "source_tier_diversity": 0.3333333333333333,
-        "multi_source_confirmation": 0.2,
+        "multi_source_confirmation": 0.4,
         "recent_boost": 0.5
       },
       "category": "trendscan",
       "reasons": [
-        "高端医疗器械 聚合 1 条"
+        "量子科技 聚合 2 条"
       ],
-      "earliest_at": "2026-11-19T15:00:00",
-      "latest_at": "2026-11-19T15:00:00",
+      "earliest_at": "2026-11-20T16:13:55",
+      "latest_at": "2026-11-20T16:05:47",
       "primary_item": {
-        "title": "GeneDx appoints Everett Cunningham as CEO",
-        "url": "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/",
-        "source": "MedTech Dive"
+        "title": "How the Department of Commerce’s Quantum Awards Work and What Companies Give in Return",
+        "url": "https://thequantuminsider.com/2026/11/20/how-the-department-of-commerces-quantum-awards-work-and-what-companies-give-in-return/",
+        "source": "Quantum Insider"
+      }
+    },
+    {
+      "story_id": "trendscan_07",
+      "title": "A 50-year-old theory about evolution may have been wrong all along",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "primary_url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+      "source": "ScienceDaily Biotech",
+      "source_name": "ScienceDaily Biotech",
+      "sources": [
+        "ScienceDaily Biotech",
+        "ScienceDaily Biotech"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ScienceDaily Biotech"
+      ],
+      "items": [
+        "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+        "https://www.sciencedaily.com/releases/2026/11/261121221128.htm"
+      ],
+      "item_count": 2,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.4,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "合成生物学与生物制造 聚合 2 条"
+      ],
+      "earliest_at": "2026-11-22T11:31:14",
+      "latest_at": "2026-11-21T14:06:15",
+      "primary_item": {
+        "title": "A 50-year-old theory about evolution may have been wrong all along",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+        "source": "ScienceDaily Biotech"
+      }
+    },
+    {
+      "story_id": "trendscan_01",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "primary_url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+      "source": "ScienceDaily AI",
+      "source_name": "ScienceDaily AI",
+      "sources": [
+        "ScienceDaily AI",
+        "ScienceDaily AI"
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ScienceDaily AI"
+      ],
+      "items": [
+        "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+        "https://www.sciencedaily.com/releases/2026/11/261120075604.htm"
+      ],
+      "item_count": 2,
+      "duplicate_count": 0,
+      "score": 13.6,
+      "importance": 0.16666666666666666,
+      "importance_score": 16,
+      "importance_label": "low",
+      "importance_breakdown": {
+        "source_tier_diversity": 0.3333333333333333,
+        "multi_source_confirmation": 0.4,
+        "recent_boost": 0.5
+      },
+      "category": "trendscan",
+      "reasons": [
+        "AI+科学 聚合 2 条"
+      ],
+      "earliest_at": "2026-11-22T03:43:18",
+      "latest_at": "2026-11-21T15:24:58",
+      "primary_item": {
+        "title": "AI may not work like the human brain after all, scientists discover",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+        "source": "ScienceDaily AI"
       }
     }
   ]
